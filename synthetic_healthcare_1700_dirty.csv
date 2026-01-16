@@ -1,0 +1,1726 @@
+ Patient_ID ,YeAr,age ,GEnder,Regi0n,Insurance-Type,admission TYPE,Diagnosis grp,ComorbidityScore,BMI(kg/m2),SystolicBP,cholesterol mg/dL,Length_of_stay(days),Total Cost (TRY),Discharge Status,Readmitted_30D
+PT202000001,2020,40,Male,Southeastern Anatolia,Public,Emergency,Infectious Disease,2,26.5,110,202,3,11049,Home,0
+PT202400002,2024,56,Female, Central Anatolia,Public,Urgent,Orthopedics,2,21.2,130,NA,4,16657,Home,0
+PT202400003,2024,37,Female,Aegean,Public,Emergency,Cardiology,2,22.8,121,155,5,16345,Transferred,0
+PT202000004,2020,21,Male,Southeastern Anatolia,Public,Emergency,Cardiology,2,26.3,114,206,5,12955,Deceased,0
+PT201800005,2018,38,Female,Aegean,Public,Urgent,Cardiology,4,21.9,108,183,2,10550,Deceased,0
+PT202100006,2021,63,Male,Southeastern Anatolia,Public,Referra?,Endocrinology,5,26.9,149,213,7,16333,Deceased,0
+PT202400007,2024,29,Male,Central Anatolia,Public,Referral,Respiratory,2,26.1,102,186,3,10477,Home,0
+PT202000008,2020,38,Female,Central Anatolia,Public,Elective,Respiratory,4,23.0,107,152,NA,9030,Home,1
+PT202200009,2022,61,Male,Eastern Anatolia,Public,Emergency,Endocrinology,6,28.2,125,192,5,15989,Deceased,0
+PT202000010,2020,40,Male,Central Anatolia,Private,Elective,Oncology,5,20.5,124,142,5,23056,Home,1
+PT201900011,2019,41,Female,Marmara,Private,Urgent,Neurology,3,29.5,104,196,7,23694,Home,0
+PT202400012,2024,51,Male,Southeastern Anatoli?,Public,Emergency,Cardiology,6,22.1,141,211,5,22707,Home,1
+PT202100013,2021,64,Male,Mediterranean,Public,Urgent,Orthopedics,4,25.1,131,185,5,17636,Home,0
+PT201800014,2018,28,Mal?,Eastern Anatolia,Private,Emergency,Endocrinology,5,25.0,118,208,3,14429,Transferred,1
+PT202400015,2024,46,Female,Aegean,Private,Emergency,Cardiology,4,26.8,124,189,6,NA,Home,0
+PT202200016,2022,61,Female,Mediterranean,Public,Emergency,Nephrology,6,25.8,149,198,6,24465,Deceased,0
+PT202100017,2021,35,Female,Southeastern Anatolia,Public,Urgent,Nephrology,4,22.8,109,183,3,14252,Hom?,0
+PT202400018,2024,50,Female,Eastern Anatolia,Public,Referral,Infectious Disease,4,19.7,115,166,4,15998,Transferred,0
+PT202400019,2024,89,Male,Southeastern Anatolia,Public,Elective,Endocrinology,6,28.0,159,221,4,17633,Deceased,0
+PT202200020,2022,29,Female,Eastern Anatolia,Public,Urgent,Nephrology,5,22.6,137,193,5,20664,Home,0
+PT202400021,2024,41,Female,Aegean,Public,Elective,Infectious Disease,5,20.4,107,139,3,14885,Home,0
+PT201800022,2018,76,Female,Mediterranean,Public,Emergency,Neurology,7,29.1,127,186,7,21372,Deceased,0
+PT201800023,2018,49,Male,Eastern Anatolia,Private,Emergency,Cardiology,4,23.2,120,212,8,28061,Transferred,1
+PT202200024,2022,49,Female,Marmara,Public,Emergency,Oncology,5,27.4,122,182,7,27772,Transferred,1
+PT202200025,2022,66,Femal?,Black Sea,Public,Emergency,Orthopedics,3,22.1,126,167,6,15576,Home,1
+PT202400026,2024,62,Female,Aegean,Public,Referral,Nephrology,6,23.0,145,189,8,29017,Deceased,0
+PT202000027,2020,39,Male,Marmara,Public,Emergency,Respiratory,3,22.6,117,180,3,5660,Home,0
+PT201800028,2018,56,Female,Southeastern Anatolia,Private,Elective,Cardiology,6,22.4,133,234,4,16656,Transferred,1
+PT202200029,2022,19,Female,Black Sea,Public,Emergency,Neurology,3,27.5,115,201,5,15890,Deceased,0
+PT201800030,2018,38,Female,Mediterranean,Private,Referral,Respiratory,5,26.3,130,211,5,14860,Home,0
+PT201800031,2018,70,Female,Mediterranean,Public,Emergency,Nephrology,6,28.4,161,221,7,18838,Transferred,1
+PT202200032,2022,55,Female,Southeastern Anatolia,Private,Elective,Infectious Disease,6,21.6,118,168,5,18581,Deceased,0
+PT202100033,2021,36,Male,Eastern Anatolia,Public,Urgent,Respiratory,3,25.0,110,133,4,14324,Home,0
+PT202000034,2020,59,Male,Mediterranean,Public,Referral,Infectious Disease,7,25.9,153,197,7,19706,Transferred,1
+PT202300035,2023,53,Male,Central Anatolia,Public,Elective,Cardiology,4,21.5,129,192,4,19050,Deceased,0
+PT202000036,2020,35,Female,Eastern Anatolia,Public,Referral,Nephrology,6,20.9,124,159,7,21346,Home,0
+PT202300037,2023,57,Male,Southeastern Anatolia,Public,Elective,Cardiology,8,27.4,126,210,6,27430,Home,1
+PT202100038,2021,35,Female,Aegean,Public,Referral,Cardiology,3,24.6,127,134,4,12312,Transferred,0
+PT202000039,2020,64,Female,Central Anatolia,Uninsured,Elective,Oncology,7,26.7,142,141,5,25325,Deceased,0
+PT202100040,2021,18,Female,Aegean,Public,Emergency,Endocrinology,4,24.4,121,180,6,15413,Home,0
+PT202300041,NA,29,Male,Aegean,Public,Emergency,Endocrinology,5,22.9,127,198,6,22542,Deceased,0
+PT201800042,2018,63,Female,Marmara,Public,Referral,Endocrinology,5,24.9,134,204,4,15914,Home,1
+PT202400043,2024,50,Female,Black Sea,Public,Emergency,Oncology,5,24.0,140,142,6,24553,Home,1
+PT202100044,2021,25,Male,Marmara,Public,Urgent,Endocrinology,5,27.7,NA,234,5,11648,Transferred,1
+PT202200045,2022,55,Female,Central Anatolia,Private,Emergency,Respiratory,5,24.7,108,164,5,19668,Home,0
+PT201900046,2019,66,Male,Central Anatolia,Private,Urgent,Cardiology,6,24.7,143,173,4,18528,Home,0
+PT202300047,2023,39,Female,Aegean,Public,Elective,Nephrology,4,24.2,NA,172,3,18275,Home,0
+PT202400048,2024,31,Female,Mediterranean,Private,Elective,Respiratory,1,23.7,91,169,3,12714,Home,1
+PT202400049,2024,42,Female,Mediterranean,Public,Elective,Endocrinology,5,26.7,99,212,2,10122,Deceased,0
+PT201800050,2018,60,Male,Mediterranean,Public,Elective,Infectious Disease,4,23.2,136,198,3,8758,Home,0
+PT202200051,2022,78,Male,Aegean,Uninsured,Emergency,Orthopedics,6,26.9,142,207,7,26784,Deceased,0
+PT202200052,2022,35,Male,Marmara,Public,Elective*,Oncology,5,26.7,114,183,3,18711,Home,0
+PT202200053,2022,66,Female,Central Anatolia,Public,Referral,Cardiology,6,22.4,156,200,6,22790,Home,1
+PT201900054,2019,53,Female,Black Sea,Private,Elective,Orthopedics,5,27.0,142,209,4,16351,Home,0
+PT201900055,2019,81,Male,Central Anatolia,Public,Emergency,Endocrinology,8,25.5,155,211,7,17724,Deceased,0
+PT201800056,2018,79,Female,Eastern Anatolia,Public,Urgent,Orthopedics,4,25.1,123,228,6,16147,Transferred,1
+PT202300057,2023,38,Male,Central Anatolia,Private,Referral,Endocrinology,2,24.2,120,213,2,8572,Home,0
+PT202300058,2023,66,NA,Central Anatolia,NA,Emergency,Neurology,2,23.2,146,193,6,21156,Deceased,0
+PT202400059,2024,56,Female,Marmara ,Public,Emergency,Nephrology,4,29.5,128,163,6,19062,Deceased,0
+PT201800060,2018,42,Female,Marmara,Private,Emergency,Respiratory,4,23.8,139,180,5,15254,Home,1
+PT201800061,2018,37,Female,Central Anatolia,Public,Emergency,Neurology,4,26.6,123,177,7,17927,Home,0
+PT201800062,2018,34,Male,Med1terranean,Public,Elective,Cardiology,3,22.4,121,159,5,13376,Home,0
+PT202300063,2023,61,Female,Southeastern Anatolia,Public,Elective,Infect1ous D1sease,6,24.4,125,159,5,20466,Deceased,0
+PT201900064,2019,74,Female,Marmara,Uninsured,Emergency,Nephrology,5,29.4,149,167,4,21146, Home,1
+PT201800065,2018,32,Male,Black Sea,Private,Emergency,Endocrinology,4,23.4,137,173,4,10892,Deceased,0
+PT201800066,2018,31,Male,Black Sea,Public,Emergency,Infectious Disease,4,24.4,90,215,4,8649,Home,0
+PT201900067,2019,72,Male,Eastern Anatolia,Public,Urgent,Neurology,7,27.6,143,194,7,18790,Deceased,0
+PT202100068,2021,34,Male,Eastern Anatolia,Private,Emergency,Cardiology,1,23.4,105,166,4,19487,Home,1
+PT202000069,2020,73,Female,Aegean,Public,Emergency,Respiratory,5,25.8,129,212,8,21351,Deceased,0
+PT202300070,2023,34,Male,Eastern Anatolia,Public,Emergency,Endocrinology,2,22.7,107,224,3,12851,Home,0
+PT202400071,2024,40,Female,Black Sea,NA,EMERGENCY,Respiratory,2,20.9,110,189,5,17615,Home,0
+PT202100072,2021,69,MALE,Central Anatolia,Public,Elective,Infectious Disease,3,25.1,147,191,2,13541,Transferred,1
+PT202100073,2021,60,Male,Eastern Anatolia,Public,Emergency,Orthopedics,4,19.9,NA,190,6,21478,Home,0
+PT202300074,2023,48,Female,Eastern Anatolia,Public,Emergency,Orthopedics,1,26.9,115,203,4,15057,Home,1
+PT202100075,2021,51,Female,Eastern Anatolia,Public,Elective,Neurology,4,22.8,135,181,3,17064,Home,0
+PT202400076,2024,34,Male,Mediterranean,Public,Referral,Cardiology,3,21.6,118,166,3,14001,Home,0
+PT201800077,2018,45,Male,Mediterranean,Public,Urgent,Infectious Disease,2,NA,107,123,5,11458,Home,1
+PT201900078,2019,26,Female,Southeastern Anatolia,Private,Elective,Infectious Disease,2,22.1,99,145,4,13993,Home,0
+PT202000079,2020,58,Female,Central Anatolia,Private,Elective,Cardiology,5,27.6,143,232,3,17772,Transferred,0
+PT202100080,2021,52,Male,Aegean,Private,Emergency,Orthopedics,4,24.8,118,214,5,16875,Home,NA
+PT201900081,2019,66,Male,NA,Public,Referral,Endocrinology,5,22.7,142,191,3,10064,Home,1
+PT202200082,2022,36,Male,Black Sea,Public,Emergency,Endocrinology,3,30.9,127,210,4,14604,Deceased,0
+PT202300083,2023,39,Male,Eastern Anatolia,Public,Elective,Endocrinology ,5,30.5,120,185,2,11378,Transferred,0
+PT202300084,2023,29,Female,Eastern Anatolia,Private,Elective,Respiratory,3,26.4,102,203,2,11795,Home,0
+PT202200085,2022,56,Male,Central Anatolia,Public,Emergency,Infectious Disease,3,23.1,129,175,6,18758,Home,0
+PT202100086,2021,38,Male,Black Sea,Public,Emergency,Neurology,4,23.0,131,170,5,15642,Home,1
+PT202300087,2023,21,Male,Eastern Anatolia,Private,Emergency,Cardiology,2,22.8,101,176,6,25664,Home,0
+PT201800088,2018,36,Male,Aegean,Public,Emergency,Orthopedics,5,29.7,118,198,4,15293,Home,0
+PT202400089,2024,37,Female,Black Sea,Public,Emergency,Infectious Disease,3,26.5,127,166,6,23672,Home,0
+PT201800090,2018,21,Female,Black Sea,Public,Emergency,Orthopedics,2,27.0,92,159,5,12632,Home,0
+PT202400091,2024,59,Male,Eastern Anatolia,Private,Urgent,Endocrinology,5,26.3,146,231,2,12409,Home,0
+PT202300092,2023,44,Male,Central Anatolia,Public,Emergency,Cardiology,5,24.4,122,183,3,14706,Home,1
+PT201900093,2019,40,Male,Aegean,Public,Emergency,Cardiology,6,21.2,122,195,7,19777,Transferred,1
+PT202300094,2023,50,Male,Aegean,Public,Emergency,Cardiology,5,24.7,154,190,8,25882,Transferred,0
+PT201800095,2018,95,Female,Marmara,Public,Emergency,Neurology,7,24.5,175,214,6,18841,Home,0
+PT201900096,2019,84,Female,Aegean,Public,Emergency,Endocrinology,6,26.5,157,215,5,13310,Deceased,0
+PT201900097,2019,53,Female,Mediterranean,Private,elective,NA,2,26.9,129,189,4,14028,Home,1
+PT201900098,2019,63,Female,Aegean,Public,Urgent,Oncology,5,26.4,147,195,5,16758,Deceased,0
+PT202000099,2020,58,Female,Aegean,Uninsured,Referral,Orthopedics,7,25.5,130,221,7,28005,Transferred,0
+PT201900100,2019,58,Male,Black Sea,Public,Referral,Cardiology,4,27.0,147,213,5,NA,Home,1
+PT202200101,2022,73,Female,Black Sea,Public,Elective,Respiratory,7,24.1,144,199,4,18068,Transferred,1
+PT202100102,2021,82,Female,Mediterranean,Public,Emergency,Cardiology,6,29.0,174,246,7,19414,Transferred,1
+PT202100103,2021,40,Male,Marmara,Public,Urgent,Respiratory,3,24.7,142,161,5,15481,Home,0
+PT202300104,2023,57,Male,Central Anatolia,Private,Referral,Cardiology,4,24.2,133,225,4,21953,Home,1
+PT201800105,2018,46,Male,Aegean,Public,Emergency,Cardiology,4,25.3,111,158,5,12869,Home,0
+PT202200106,2022,76,Male,Central Anatolia ,Public,REFERRAL,Endocrinology,7,28.6,160,229,7,18454,Transferred,0
+PT201800107,2018,51,Male,Marmara,Public,Elective,Infectious Disease,1,22.7,116,144,1,4371,Home,0
+PT201900108,2019,18,Male,Marmara,Uninsured,Urgent,Cardiology,1,21.6,107,203,5,19814,Home,0
+PT202100109,2021,59,Male,Southeastern Anatolia,Public,Emergency,Cardiology,6,22.4,142,NA,6,23062,Deceased,0
+PT201900110,2019,60,Female,Marmara,Public,Emergency,Infectious Disease,5,23.3,140,176,6,20382,Deceased,0
+PT202400111,2024,88,Male,Central Anatolia,Public,Emergency,Endocrinology,7,30.2,150,199,8,26250,Home,1
+PT202300112,2023,51,Male,Marmara,Public,Emergency,Infectious Disease,3,NA,137,191,6,20822,Home,0
+PT202200113,2022,60,Female,Central Anatolia,Private,Referral,Infectious Disease,5,19.0,131,188,6,21504,Deceased,0
+PT201900114,2019,69,Female,Marmara,Public,Emergency,Orthopedics,3,31.7,135,192,4,15278,Deceased,0
+PT202300115,2023,54,Female,Marmara,Private,Emergency,Infectious Disease,5,21.7,143,142,6,23789,Home,1
+PT202100116,2021,43,Female,Marmara,Public,Referral,Infectious Disease,4,24.7,116,169,3,8342,Home,0
+PT202200117,2022,70,Female,Black Sea,Private,Emergency,Infectious Disease,6,24.8,124,205,4,18201,Deceased,0
+PT201800118,2018,71,Female,Southeastern Anatolia,Public,Emergency,Cardiology,5,27.2,141,203,7,17967,Transferred,0
+PT201800119,2018,50,Male,Black Sea,Private,Emergency,Infectious Disease,3,23.5,132,181,6,19098,Deceased,0
+PT202400120,2024,NA,Female,Black Sea,Public,Emergency,Infectious Disease,6,23.9,113,176,5,22483,Home,0
+PT201900121,2019,46,Male,Eastern Anatolia,Public,Elective,Respiratory,6,27.3,127,179,4,10946,Home,0
+PT202300122,2023,87,Female,Marmara,Public,Elective,NA,8,28.8,171,218,6,27084,Home,1
+PT202000123,2020,47,Male,Marmara,Public,Elective,Respiratory,4,18.9,123,149,2,8154,Home,0
+PT202000124,2020,33,Male,Mediterranean,Private,Emergency,Orthopedics,1,21.6,112,186,4,14774,Deceased,0
+PT201900125,2019,39,Female,Central Anatolia,Private,Elective,Infectious Disease,3,26.2,120,120,3,13517,Home,0
+PT202000126,2020,61,Female,Black Sea,Public,Referral,Infectious Disease,4,29.4,129,195,3,9068,Transferred,0
+PT201800127,2018,57,Female,Central Anatolia,Public,Elective,Cardiology,6,30.5,121,212,4,14871,Transferred,1
+PT202100128,2021,59,Female,Central Anatoli?,public,Elective,Endocrinology,6,28.5,141,245,2,9544,Deceased,0
+PT202200129,2022,52,Male,Central Anatolia,Public,Elective,Endocrinology,5,27.2,127,180,4,15912,Transferred,0
+PT202200130,2022,65,Female,Aegean,Public,ELECTIVE,Cardiology,6,28.7,148,211,5,15979,Transferred,1
+PT201800131,2018,40,Female,Black Sea,Public,Referral,Orthopedics,3,26.0,113,211,3,15201,Home,0
+PT202200132,2022,24,Male,Mediterranean,NA,Referral,Nephrology*,2,25.3,109,178,2,10426,Home,0
+PT202200133,2022,74,Male,Marmara,NA,Elective,Nephrology,7,26.2,147,186,4,23888,Transferred,1
+PT201800134,2018,62,Female,Mediterranean,Public,Elective,Respiratory,4,22.7,121,197,3,NA,Transferred,0
+PT201800135,2018,56,Male,Central Anatolia,Private,Referral,Infectious Disease,4,22.1,120,183,6,16011,Transferred,0
+PT202400136,2024,54,Female,Eastern Anatolia,Public,Urgent,Oncology,4,23.2,125,164,7,28780,Deceased,0
+PT202100137,2021,31,Male,Mediterranean,Public,Emergency,Cardiology,3,20.0,119,159,5,17269,Home,0
+PT202400138,2024,53,Female,Central Anatolia,Public,Emergency,Infectious Disease,5,21.9,106,192,6,17637,Deceased,0
+PT202200139,2022,56,Female,Marmara,Public,Elective,Orthopedics,3,24.2,118,172,2,10202,Home,0
+PT201800140,2018,33,Female,Southeastern Anatolia,Public,Elective,Oncology,5,21.6,106,197,4,14455,Home,1
+PT201900141,2019,34,Female,Central Anatolia,Private,Elective,Oncology,4,22.9,112,229,2,14620,Home,1
+PT202100142,2021,38,Male,Mediterranean,Public,Elective,Infectious Disease,4,26.8,110,181,1,11123,Home,0
+PT201800143,2018,56,Male,Central Anatolia,Public,Urgent,Orthopedics,4,22.7,120,NA,3,10928,Transferred,0
+PT202400144,2024,30,Female,Marmara,Public,Emergency,Endocrinology,4,25.0,113,208,5,17994,Home,NA
+PT201900145,2019,55,Male,Southeastern Anatolia,Public,Urgent,Cardiology,3,23.1,135,210,4,14318,Deceased,0
+PT201800146,2018,48,Female,Southeastern Anatolia,Private,Emergency,Neurology,6,20.4,121,127,6,21463,Deceased,0
+PT202200147,2022,NA,Female,Marmara,Public,Urgent,Orthopedics,3,23.7,102,165,4,16448,Deceased,0
+PT202300148,2023,63,Male,Marmara,Public,Urgent,Respiratory,7,23.8,141,212,8,22908,Deceased,0
+PT202100149,2021,60,Male,Central Anatolia,Uninsured,Referral,Nephrology,6,22.1,119,180,4,22358,Deceased,0
+PT202200150,2022,67,Female,Aegean,Public,Referral,Nephrology,6,23.2,128,177,6,23647,Home,0
+PT202200151,2022,60,Female,Mediterranean,Private,Referral,Nephrology,9,19.3,145,232,7,28193,Transferred,0
+PT202200152,2022,46,Female,Aegean,Private,Elective,Respiratory,5,23.9,126,183,2,14152,Home,0
+PT201900153,2019,62,Male,Aegean,Private,Elective,Nephrology,5,24.2,142,219,5,20037,Deceased,0
+PT202200154,2022,44,Male,Black Sea,Uninsured,Emergency,Cardiology,4,23.3,122,195,5,23057,Home*,0
+PT202100155,2021,61,Male,Central Anatolia,Private,Referral,Infectious Disease,4,26.2,129,193,5,18823,Deceased,0
+PT201900156,2019,66,Male,Mediterranean,Public,Urgent,Oncology,6,22.8,138,187,8,24171,Home,1
+PT202300157,2023,39,Female,Eastern Anatolia,Public,Emergency,Respiratory,2,23.0,112,179,3,8743,Deceased,0
+PT202100158,2021,34,Female,black sea,Public,Emergency,Cardiology,5,24.1,120,179,4,15942,Home,1
+PT202300159,2023,67,Female,Southeastern Anatolia,Public,NA,Cardiology,4,22.5,140,178,5,14127,Home,0
+PT202400160,2024,18,Male,Black Sea,Public,Elective,Respiratory,3,29.0,102,167,2,NA,Home*,0
+PT201800161,2018,19,Female,Marmara,Public,Emergency,Neurology,3,24.1,98,198,4,11965,Home,0
+PT202300162,2023,48,Male,Black Sea,Private,Emergency,Respiratory,6,21.9,NA,230,7,24926,Home,0
+PT202000163,2020,78,Male,Black Sea,Public,Emergency,NA,4,29.0,142,249,6,15487,Transferred,1
+PT201800164,2018,48,Female,Black Sea,Public,Emergency,NA,5,29.7,135,190,5,15793,Deceased,0
+PT202200165,2022,63,Male,Central Anatolia,Private,Referral,Respiratory,4,24.3,136,186,5,20169,Transferred,0
+PT202400166,2024,56,Female,Central Anatolia,Public,Elective,Endocrinology,3,29.0,123,265,3,11757,Home,0
+PT202100167,2021,65,Female,Marmara,Public,Emergency,Endocrinology,4,26.9,134,205,7,16644,Home,0
+PT202400168,2024,65,Female,Black Sea,Public,Elective,Infectious Disease,6,24.4,152,190,5,16237,Home,0
+PT202000169,2020,47,Female,Central Anatolia,Private,Elective,Oncology,7,22.1,120,137,NA,25766,Deceased,0
+PT202200170,2022,45,Female,Central Anatolia,Public,Referral*,Orthopedics,5,22.2,116,212,5,16767,Home,1
+PT202100171,2021,59,Male,Eastern Anatolia,Public,Emergency,Oncology,5,21.1,128,175,6,18917,Deceased,0
+PT202100172,2021,75,Male,Marmara,Private,Elective,Respiratory,NA,22.0,152,199,5,14488,Deceased,0
+PT202300173,2023,48,Male,Central Anatolia*,Public,Elective,Respiratory,4,25.3,146,189,3,14355,Home,0
+PT202200174,2022,49,Male,Marmara,Private,Urgent,Neurology,7,NA,134,190,4,16339,Transferred,0
+PT202000175,2020,45,Female,Mediterranean,Public,Urgent,Neurology,4,25.3,118,200,5,20528,Transferred,0
+PT202400176,2024,23,Male,Marmara,Public,Elective,Nephrology,3,17.6,91,143,NA,13349,Home,1
+PT202400177,2024,46,Female,Marmara,Public,Referral,Neurology,3,26.8,106,201,4,17361,Home,1
+PT201900178,2019,59,Female,Central Anatolia,Uninsured,Referral,Cardiology,5,24.0,132,242,6,25672,Deceased,0
+PT202400179,2024,57,Female,Marmara,Public,Emergency,Oncology,4,26.0,119,189,7,31583,Transferred,0
+PT202100180,2021,53,Female,Central Anatolia,Private,Emergency,Oncology,5,23.0,127,162,6,27587,Deceased,0
+PT202300181,2023,58,Male,Marmara,Public,Emergency,Nephrology,5,24.2,144,200,5,24751,Home,1
+PT202100182,NA,58,Female,Eastern Anatolia,Public,Emergency,Endocrinology,2,26.5,127,145,6,15188,Deceased,0
+PT201800183,2018,43,Female,Mediterranean,Public,Elective,Nephrology,4,27.8,143,199,4,11587,Home,0
+PT202000184,2020,47,Male,Southeastern Anatolia,Public,Referral,Neurology,6,26.7,128,220,4,16652,Home,0
+PT202400185,2024,61,Female,Marmara,Public,Elective,Cardiology,6,22.6,130,235,5,22437,Deceased,0
+PT202300186,2023,43,Female,Central Anatolia,Public,Elective,NA,3,23.8,127,171,5,19824,Home,0
+PT202000187,2020,54,Female,Black Sea,Public,Urgent,Endocrinology,4,24.3,131,188,2,11631,Transferred,0
+PT201800188,2018,24,Male,Mediterranean,Public,Urgent,Respiratory,2,24.7,105,150,2,8999,Home,0
+PT201900189,2019,79,Male,Central Anatolia,Public,Elective,Endocrinology,7,29.1,150,232,3,12461,Deceased,0
+PT202400190,2024,61,Female,Marmara,Private,Elective,Nephrology,4,23.5,131,169,3,20740,Home,1
+PT201900191,2019,49,Female,Aegean,Public,Elective,Endocrinology,6,23.6,132,178,4,13518,Home,1
+PT201800192,2018,71,Male,Eastern Anatolia,Public,Emergency,Respiratory,5,26.4,141,232,6,NA,Transferred,0
+PT201900193,2019,43,Male,Mediterranean,Private,Referral,Respiratory,3,26.5,118,188,NA,15937,Deceased,0
+PT202200194,2022,47,Male,Eastern Anatolia,Private,Referral,Oncology,5,23.1,139,191,4,22893,Transferred,0
+PT201900195,2019,62,Male,Central Anatolia,Public,Elective,Orthopedics,3,28.0,121,169,4,11866,Transferred,0
+PT202100196,2021,66,Female,NA,Public,Referral,Endocrinology,4,27.9,144,237,4,14828,Home,1
+PT202100197,2021,54,Male,Aegean,Public,Emergency,Endocrinology,5,22.9,132,217,5,15844,Transferred,0
+PT202300198,2023,44,Male,Southeastern Anatolia,Public,Emergency,Orthopedics,5,29.0,131,NA,5,16151,Deceased,0
+PT201800199,2018,44,Male,Central Anatolia,Public,Emergency,Respiratory,4,22.3,120,160,6,14832,Home,0
+PT202400200,2024,45,Male,Marmara,Private,Emergency,Endocrinology,6,23.8,124,226,4,17399,home,0
+PT202100201,2021,67,Male,Mediterranean,Public,Referral,Cardiology,5,27.4,143,221,7,22363,Home,0
+PT201800202,2018,34,Female,Eastern Anatolia,Public,Urgent,Endocrinology,6,23.8,106,174,5,16198,Home,0
+PT201900203,2019,31,Female,Marmara,Public,Elective,Neurology,4,18.8,112,193,3,12390,Home,1
+PT202000204,2020,51,Male,Black Sea,Private,Elective,Respiratory,2,30.3,138,233,4,15828,Transferred,0
+PT202100205,2021,47,Male,Aegean,Public,Elective,Neurology,5,24.6,119,186,2,15512,Home,0
+PT202300206,NA,42,Female,Southeastern Anatolia,Public,Elective,Infectious Disease,2,22.6,122,134,1,12652,Home,0
+PT202300207,2023,77,Female,Marmara,Private,Emergency,Neurology,4,25.8,135,237,6,23385,Home,0
+PT202200208,2022,63,Female ,Central Anatolia,Public,Referral,Respiratory,5,30.1,125,205,5,18171,Deceased,0
+PT201800209,2018,31,Female,Marmara,Public,Referral,Orthopedics,2,22.6,101,217,1,9558,Home,0
+PT202000210,2020,76,Male,Marmara,Public,Referral,Endocrinology,7,29.7,162,250,5,14384,Deceased,0
+PT202200211,2022,77,Male,Marmara,Private,Elective,Respiratory,5,20.2,138,184,1,12246,Deceased,0
+PT202000212,2020,31,Male,Eastern Anatolia,Public,Emergency,Cardiology,3,24.7,122,181,3,7717,Home,1
+PT202200213,2022,54,Female,Southeastern Anatolia,Public,Emergency,Orthopedics,2,23.7,114,154,3,12469,Deceased,0
+PT201800214,2018,42,Female,Southeastern Anatolia,Private,Emergency,Cardiology,4,26.2,NA,233,5,15439,Transferred,1
+PT202300215,2023,30,Male,Marmara,Public,Emergency,Endocrinology,5,24.8,119,201,6,21852,Home,1
+PT202400216,2024,35,MALE,Central Anatolia,Public,Emergency,Endocrinology,3,23.9,126,211,4,13807,Home,0
+PT201900217,NA,33,Male,Central Anatolia,Private,Elective,Orthopedics,3,21.5,116,147,3,14024,Home,0
+PT202200218,2022,33, Male,Black Sea,Public,Emergency ,Infectious Disease,3,22.0,108,160,6,14887,Home,0
+PT202100219,2021,51,Female,Central Anatolia,Public,Elective,Orthopedics,3,27.4,120,193,2,14706,Home,1
+PT202000220,2020,70,Male,Marmara,Public,Emergency,Endocrinology,5,27.8,144,216,6,18431,Deceased,0
+PT201900221,2019,26,Female,NA,Public, Emergency,Endocrinology,5,30.1,121,185,5,11445,Home,0
+PT202000222,2020,34,Male,Marmara,Public,Referral,Nephrology,5,29.9,128,202,4,16775,Transferred,0
+PT202200223,2022,71,Female,Aegean,Private,Referral,Orthopedics,5,26.0,142,199,6,25970,Home,1
+PT202000224,2020,42,Male,Southeastern Anatolia,Private,Emergency,Endocrinology,4,23.1,117,167,4,13745,Transferred,1
+PT202100225,2021,42,Male,Central Anatolia,Private,Emergency,Oncology,6,18.2,109,152,3,24409,Home,1
+PT202100226,2021,58,Female,Southeastern Anatolia,Public,Elective,Endocrinology,4,29.9,138,227,3,12393,Transferred,0
+PT202000227,2020,63,Female,Marmara,Public,Referral,Cardiology,6,28.7,131,225,6,15844,Deceased,0
+PT202000228,2020,72,Female,Eastern Anatolia,Public,Elective,Infectious Disease,5,27.4,141,231,4,14665,Transferred,0
+PT201900229,2019,40,Male,Eastern Anatolia,Public,Elective,Neurology,3,NA,129,164,1,11977,Home,0
+PT201800230,2018,46,Male,Mediterranean,Public,Emergency,Cardiology,4,30.2,130,203,6,17568,Home,0
+PT202100231,2021,56,Female,Black Sea,Private,Referral,Cardiology,5,24.6,119,221,6,26508,Transferred,0
+PT201800232,2018,34,Female,Mediterranean,Public,Emergency,Orthopedics,2,24.0,117,156,4,8750,Home,0
+PT201900233,2019,94,Female,Marmara,Uninsured,Referral,Respiratory,7,30.8,159,289,7,26073,Deceased,0
+PT202100234,2021,19,Male,Eastern Anatolia,Public,Emergency,Neurology,3,25.4,108,138,NA,16291,Home,0
+PT202100235,2021,33,Female,Central Anatolia,Private,Elective,Cardiology,2,20.4,129,152,2,13453,Home,0
+PT201800236,2018,39,Male,Marmara,Uninsured,Emergency,Cardiology,4,26.1,129,202,5,20579,Home,1
+PT202000237,2020,84,Female,Aegean,Public,Emergency,Respiratory,7,26.7,158,257,5,18479,Home,0
+PT202200238,2022,30,Male,Marmara,Public,Elective,Nephrology,4,24.3,126,155,1,9364,Home,0
+PT202400239,2024,48,Female,Marmara,Public,Elective,Orthopedics,3,25.0,106,202,1,11210,Home,1
+PT202100240,2021,70,Female,Marmara,Uninsured,Elective,Endocrinology,5,32.7,143,217,4,18062,Home,0
+PT201800241,2018,46,Female,Marmara,Public,Emergency,Endocrinology,5,22.5,136,145,5,12017,Home,1
+PT201900242,2019,45,Male,Southeastern Anatolia,Public,Elective,Endocrinology,3,29.5,121,242,3,7318,Deceased,0
+PT202300243,2023,86,Female,Mediterranean,Public,Elective,Respiratory,8,23.5,153,241,3,13871,Deceased,0
+PT201900244,2019,18,Male,Eastern Anatolia,Uninsured,Referral,Infectious Disease,2,20.6,96,120,5,13155,Deceased,0
+PT202200245,2022,74,Female,Southeastern Anatolia,Uninsured,Emergency,Respiratory,3,28.6,149,172,5,20931,Home,0
+PT202000246,2020,55,Male,Mediterranean,Private,Emergency,Cardiology,3,23.1,135,209,5,19258,Home,1
+PT202400247,2024,58,Male,Aegean ,Private,Referral,Orthopedics,5,25.8,117,199,7,24693,Home,1
+PT202100248,2021,36,Female,Central Anatolia,Public,Elective,Cardiology,4,18.1,127,173,4,16079,Deceased,0
+PT201900249,2019,46,Female,Marmara,public,Referral,Neurology,4,23.2,135,221,5,19301,Home,0
+PT202200250,2022,36,Female,Aegean,Public,Elective,Orthopedics,1,26.8,119,159,1,8278,Home,1
+PT202200251,2022,18,Male,Black Sea,Public,Urgent,Nephrology,5,24.8,112,182,3,20249,Deceased,0
+PT202400252,2024,48,Female,Marmara,Public,Emergency,Cardiology,6,28.7,141,238,7,26612,Deceased,0
+PT202300253,2023,53,Male,Central Anatolia,Public,Emergency,Respiratory,6,25.7,147,198,6,15415,Transferred,0
+PT202000254,2020,68,Female,Mediterranean,Private ,Elective,Orthopedics,6,25.5,123,227,5,15843,Home,0
+PT202100255,2021,33,Female,Central Anatolia,Public,Elective,Infectious Disease,2,20.6,117,160,5,14184,Home,0
+PT202200256,2022,59,Male,Southeastern Anatolia,Public,Referral,Respiratory,3,21.8,118,224,5,17770,Home,0
+PT201800257,2018,67,Female,Southeastern Anatolia,Public,Emergency,Orthopedics,5,29.3,129,199,6,16121,Home,0
+PT201800258,2018,44,Female,Eastern Anatolia,Public,Elective,Endocrinology,3,22.2,119,192,4,12709,Home,0
+PT202400259,2024,63,Female,Marmara,Public,Referral,Infectious Disease,6,30.3,128,223,7,23377,Transferred,0
+PT202300260,2023,50,Female,Black Sea,Public,Emergency,Endocrinology,3,32.1,120,214,5,17195,H0me,1
+PT202300261,2023,62,Male,Marmara,Public,Referral,Neurology,4,23.1,131,164,6,20217,Transferred,0
+PT202300262,2023,34,Female ,Central Anatolia,Public,Emergency,Endocrinology,7,23.9,100,203,5,21174,Home,1
+PT201900263,2019,32,Male,Mediterranean,Public,Emergency,Oncology,2,23.3,102,120,6,17161,Home,0
+PT202000264,2020,28,Male, Southeastern Anatolia,Private,Elective,Nephrology,5,23.2,131,172,2,16397,Home,0
+PT201900265,2019,69,Female,Marmara,Public,Emergency,Nephrology,4,27.6,140,216,7,22529,Deceased,0
+PT201800266,2018,71,Female,Marmara,Private,Referral,Neurology,6,27.1,121,211,7,23939,Deceased,0
+PT202200267,2022,74-,Female,Eastern Anatolia,Private,Elective,Respiratory,4,28.9,143,174,3,13509,Home,0
+PT202300268,2023,80,Male,Aegean,Private,Elective,Infectious Disease,7,29.7,152,179,6,24537,deceased,0
+PT202400269,2024,76,Female,Aegean,Private,Emergency,Endocrinology,10,23.8,148,238,7,24127,Home,1
+PT202100270,2021,43,Female,Eastern Anatolia,Public,Emergency,Cardiology,5,28.7,132,185,4,16661,NA,0
+PT202300271,2023,75,Female,Mediterranean,Public,Urgent,Endocrinology,6,29.6,137,180,5,16779,Home,1
+PT201900272,2019,31,Female,Eastern Anatolia,Public,Emergency,Cardiology,1,24.1,90,167,2,9653,Home,0
+PT201800273,2018,28,Female,Aegean,Public,Elective,Respiratory,3,26.5,129,190,3,11036,Home,0
+PT202000274,2020,39,Female,Central Anatolia,Public,Elective,Neurology,6,23.7,99,176,4,16949,Home,NA
+PT202300275,2023,70,Female,Marmara,Public,Emergency,Neurology,4,23.2,129,195,7,22104,DECEASED,0
+PT202400276,2024,74,Female,Central Anatolia,Private,Elective,Cardiology,6,27.4,117,255,4,24864,Transferred,1
+PT202300277,2023,40,Female,Southeastern Anatolia,Public,Emergency,Respiratory,4,20.0,126,160,4,16951,Home,1
+PT202200278,2022,18,Male,Central Anatolia,Public,Emergency,Orthopedics,3,21.6,100,173,2,9714,Home,1
+PT202400279,2024,36,Female,Central Anatolia,Public,Emergency*,Neurology,2,20.5,119,194,5,18967,Deceased,0
+PT202300280,2023,91,Male,Mediterranean,Public,Urgent,Neurology,6,28.6,162,258,6,18802,Decease?,0
+PT202000281,2020,46,Male,Black Sea,Public,Emergency,Oncology,6,25.0,127,185,8,25956,Home,0
+PT202300282,2023,69,Male,Southeastern Anatolia,Public,Emergency,Neurology,6,26.1,134,199,6,23235,Deceased,0
+PT202100283,2021,47,Male,Black Sea,Public,Elective,Neurology,4,24.3,123,180,5,17337,Home,1
+PT202100284,2021,18,Female,Central Anat0lia,Public,Referral,Endocrinology,5,25.3,102,229,6,17453,Home,0
+PT201900285,2019,78,Female,Aegean,Public,Emergency,Cardiology,6,21.8,138,234,8,20475,Home,1
+PT202300286,2023,71,Female,Central Anatolia,Public,Elective,Infectious Disease,7,26.2,139,173,5,19517,Transferred,0
+PT202000287,2020,76,Male,Marmara,Public,Emergency,Cardiology,7,27.4,161,199,6,19686,Transferred,0
+PT202100288,2021,52,Male,Mediterranean,Public,Referral,Nephrology,4,24.8,134,210,7,21583,Home,0
+PT202200289,2022,43,Male,Central Anatolia,Public,Elective,Oncology,8,18.3,124,155,3,21992,Home,0
+PT202100290,2021,45,Male,Marmara,Public,Emergency,Cardiology,6,25.5,130,145,6,17517,Deceased,0
+PT201800291,2018,79,Female,Eastern Anatolia,Public,Emergency,Cardiology,5,28.7,143,225,6,17221,Deceased,0
+PT202000292,2020,43,Female,Southeastern Anatolia,Public,Emergency,Oncology ,5,20.8,101,131,4,16507,Deceased,0
+PT202000293,2020,67,Male,Central Anatolia,Public,Emergency,Orthopedics,6,23.2,133,220,6,14432,Transferred,1
+PT202200294,2022,42,Male,Marmara,Public,Emergency,Orthopedics,2,25.8,111,147,3,11268,Home,0
+PT201900295,2019,41,Male,Eastern Anatolia,Uninsured,Elective,Oncology,5,25.4,103,161,2,21258,transferred,0
+PT201800296,2018,54,Female,Eastern Anatolia,Private,Emergency,Cardiology,5,24.2,134,212,8,29331,Transferred,0
+PT202000297,2020,64,Male,Southeastern Anatolia,Public,Emergency,Respiratory,5,26.0,120,183,7,17882,Deceased,0
+PT202000298,2020,55,Male,Marmara,Private,Elective,Endocrinology,6,24.9,135,203,4,14735,Transferred,0
+PT201800299,2018,77,Female,Marmara,Public,Referral,Infectious Disease,4,25.5,146,183,7,19203,Home,0
+PT202400300,2024,48,Male,Marmara,Uninsured,Urgent,Infectious Disease,3,22.4,138,184,2,15166,Home,0
+PT202300301,2023,47,Female,Black Sea,Public,Emergency,Orthopedics,5,25.9,133,165,6,19079,Home,1
+PT201900302,2019,33,Male,Eastern Anatolia,Private,Elective,Oncology,5,22.7,93,159,3,19626,Transferred,0
+PT202200303,2022,66,Male,Marmara,Public,Emergency,Endocrinology,7,25.7,130,218,6,19062,Deceased,0
+PT202400304,2024,58,Female,Aegean,Public,Emergency,Nephrology,5,26.7,136,187,6,25034,Home,0
+PT202100305,2021,54,Male,Central Anatolia,Private,Elective,Cardiology,6,25.8,117,196,4,19542,Deceased,0
+PT202000306,2020,64,Male,Aegean,Uninsured,Emergency,Respiratory,4,23.6,144,193,5,16915,Home,1
+PT202200307,2022,46,Female,EasternAnatolia,Public,Emergency,NA,4,21.4,118,199,5,15149,Home,0
+PT202300308,2023,NA,Male,Central Anatolia,Public,Elective,Infectious Disease,7,24.2,135,165,5,14476,Transferred,1
+PT202200309,2022,29,Female,Black Sea, Public,Elective,Respirat0ry,0,23.9,103,147,1,6680,Home,0
+PT201800310,2018,42,Male,Aegean,Public,Emergency,Cardiology,5,22.7,112,175,5,13768,Home,0
+PT202100311,2021,42,Male,Marmara,Public,Referral,Respiratory,8,26.4,113,191,2,10017,Home,1
+PT202400312,2024,38,FEMALE,Marmara,Public,Referral,Cardiology,5,23.3,115,205,4,20209,Home,0
+PT201900313,2019,78,Male,Black Sea,Public,Emergency,Oncology,8,27.1,151,204,5,19443,Deceased,0
+PT201900314,2019,52,Male,Marmara,Public,Referral,Orthopedics,4,25.7,131,161,2,9012,Deceased,0
+PT202300315,2023,52,Female,Marmara,Private,Emergency,Endocrinology,4,28.4,116,195,5,23513,NA,0
+PT202100316,2021,51,Male,Marmara,Public,Emergency,Respiratory,4,23.5,142,226,5,12738,Transferred,0
+PT202100317,2021,69,Male,Eastern Anatolia,Private,Urgent,Neurology,4,25.8,133,210,5,19317,Deceased,0
+PT202000318,2020,22,Male,Central Anatolia,Private,Urgent,Orthopedics,0,22.0,97,130,5,19352,Home,0
+PT202000319,2020,41,Male,Marmara,Public,Emergency,Nephrology,3,21.9,118,157,7,20505,Home,0
+PT202300320,2023,52,NA,Eastern Anatolia,Private,Emergency,Neurology,4,30.9,133,214,5,17858,Transferred,1
+PT202100321,2021,53,Female,Black Sea,Public,Elective,Cardiology,5,25.1,127,198,4,18358,Deceased,0
+PT202400322,2024,47,Male,Marmara,Public,Urgent,Neurology,3,27.8,138,171,6,20140,NA,1
+PT202200323,2022,45,Male,Southeastern Anatolia,Public,Urgent,Nephrology,4,26.9,133,184,3,15529,Home,0
+PT202100324,2021,40,Male,Eastern Anatolia ,Public,Elective,Cardiology,4,26.8,142,223,2,17703,Home,0
+PT201900325,2019,42,Male,Black Sea,Public,Emergency,Endocrinology,7,27.5,140,175,5,20987,Home,1
+PT201900326,2019,56,Female,Black Sea,Public,Emergency,Nephrology,7,27.3,134,199,6,21853,Home,1
+PT202100327,2021,50,Male,Marmara,Private,Emergency,Respiratory,4,20.5,133,151,5,15996,Home,0
+PT202300328,2023,54,Male,Eastern Anatolia,Public,Emergency,Respiratory,8,25.6,142,222,7,21640,Deceased,0
+PT202200329,2022,61,Male,Central Anatolia,Public,Urgent,Respiratory,4,24.1,142,175,6,16386,Home,0
+PT202100330,2021,77,Male,Eastern Anatolia,Public,Referral,Orthopedics,5,24.1,152,200,6,20680,Deceased,0
+PT202200331,2022,27,Female,Central Anatolia,Public,Urgent,Cardiology,3,26.3,114,206,4,16816,Home,0
+PT202000332,2020,63,Male,Marmara,Private,Emergency,Endocrinology,7,32.2,136,235,5,16497,Deceased,0
+PT202200333,2022,56,Male,Mediterranean,Public,Emergency,Nephrology,7,31.3,NA,199,7,24289,Deceased,0
+PT202000334,2020,43,Male,Central Anatolia,Public,Emergency,Endocrinology,1,23.6,109,173,4,7924,Transferred,0
+PT202300335,2023,58,Female,Southeastern Anatolia,Private,Elective,Infectious Disease,6,24.4,134,201,5,24144,Transferred,0
+PT201900336,2019,43,Male,Central Anatolia,Public,Urgent,Respiratory,3,25.4,116,193,4,8778,Transferred,0
+PT202100337,2021,72,Male,Southeastern Anatolia,Public,Emergency,Oncology,8,22.1,136,188,8,28188,Home,0
+PT202400338,2024,40,Female,Marmara,Uninsured,Elective,Neurology,5,24.6,90,168,5,24767,Home,1
+PT202400339,2024,18,Female,Aegean,Private,Emergency,Nephrology,3,23.8,95,202,4,21034,Home,1
+PT202300340,2023,48,Female,Central Anatolia,Public,Urgent,Nephrology,4,20.5,138,159,5,20205,Home,1
+PT202300341,2023,43,Female,Central Anatolia,Uninsured,Elective,Respiratory,3,31.3,126,201,1,12323,Home,1
+PT202200342,2022,65,Male,Black Sea,Public,Urgent,Neurology,5,25.9,124,184,6,27462,Deceased,0
+PT202000343,2020,28,Female,Mediterranean,Public,Emergency,Respiratory,2,27.9,113,234,8,15882,Transferred,0
+PT202400344,2024,75,Male,Southeastern Anatolia,Private,Elective,Endocrinology,NA,25.7,136,235,5,22567,Deceased,0
+PT202200345,2022,49,Female,Black Sea,Public,Emergency,Orthopedics,1,24.1,111,190,6,20599,Transferred,0
+PT202200346,2022,52,Male,Black Sea,Public,Emergency,Endocrinology,4,27.4,139,194,5,14222,Home,0
+PT202000347,2020,24,Male,Aegean,Public,Elective,Neurology,0,31.0,112,169,1,8092,Home,0
+PT202300348,2023,40,Male,Marmara,Public,Elective,Cardiology,5,21.8,126,196,4,25132,Home,0
+PT202300349,2023,54,Female,Marmara,Private,Referral,Orthopedics,4,27.9,136,202,5,18862,Deceased,0
+PT201900350,2019,58,Male,Marmara, Uninsured,Urgent,Respiratory,6,24.4,130,161,5,14490,Deceased,0
+PT202000351,2020,73,Female,Eastern Anatolia,Public,Emergency,Nephrology,5,24.2,128,172,6,21353,Transferred,0
+PT201800352,2018,40,Male,Eastern Anatolia,Private,Elective,Cardiology,4,29.5,101,165,4,17342,Home,0
+PT201900353,2019,72,Female,Mediterranean,Public,Elective,Nephrology,5,20.3,125,159,4,16796,Deceased,0
+PT202100354,2021,41,Female,Black Sea,Public,Urgent,Oncology,4,25.0,104,187,4,21352,Home,0
+PT202000355,2020,33,Female,Mediterranean,Public,Emergency,Orthopedics,4,17.7,103,144,4,15474,Home,0
+PT202200356,2022,18,Male,Central Anatolia,Private,Emergency,Respiratory,3,19.1,100,137,3,15750,Home,0
+PT202300357,2023,44,Female,Mediterranean,Private,Emergency,Endocrinology,4,24.5,115,192,2,14781,Home,1
+PT202000358,2020,82,Male,Central Anatolia,Private,Emergency,Endocrinology,5,29.7,171,211,7,20468,Home,0
+PT202400359,2024,54,Male,Mediterranean,Private,Elective,Endocrinology,5,30.5,139,214,1,10225,Home,1
+PT201900360,2019,59,Female,Black Sea,Public,Elective,Nephrology,7,22.4,132,220,4,14131,Home,1
+PT201800361,2018,67,Female,Eastern Anatolia,Public,Referral,Cardiology,7,26.9,140,204,5,18218,Transferred,1
+PT202200362,2022,65,Female,Mediterranean,Public,Urgent,Infectious Disease,7,25.0,128,169,6,19371,Deceased,0
+PT202000363,2020,75,Female,Central Anatolia,Public,Elective,Endocrinology,5,25.7,139,175,4,11867,Home,1
+PT202200364,2022,60,Male,Black Sea,Public,Elective,Neurology,4,27.9,129,200,2,19183,Transferred,0
+PT201800365,2018,34,Female,Mediterranean,Public,Elective,Endocrinology,5,27.9,118,231,4,12369,Home,NA
+PT202400366,2024,75,Female,Central Anatolia,Private,Urgent,Cardiology,6,25.7,133,180,7,27016,Home,0
+PT202300367,2023,56,Male,Southeastern Anatolia,Public,Emergency,Nephrology,7,23.1,147,223,6,24823,Deceased,0
+PT202400368,2024,39,Male,Marmara,Public,Emergency,Oncology,3,22.8,106,170,6,26895,Home,0
+PT202000369,2020,64,Male,Aegean,Public,Emergency,Neurology,6,31.6,138,214,6,17455,Transferred,0
+PT201900370,2019,34,Female,Marmara,Public,Elective,Neurology,1,23.6,125,164,3,10095,Home,0
+PT202100371,2021,63,Female,Central Anatolia,Public,Referral,Infectious Disease,6,23.1,120,179,5,18650,Deceased,0
+PT201900372,2019,28,Male,Aegean,Public,Emergency,Endocrinology,4,22.0,113,200,2,9252,H0me,0
+PT202300373,2023,56,Female,Central Anatolia,Uninsured,Urgent,Nephrology,6,25.7,141,261,4,26950,Home,1
+PT202200374,2022,42,Female,Marmara,Private,Referral,Infectious Disease,3,24.2,131,209,4,18301,Transferred,NA
+PT201900375,2019,23,Female ,Aegean,NA,Elective,Oncology,2,25.4,98,174,2,8940,NA,0
+PT201800376,2018,24,Female,Eastern Anatolia,Private,Elective,Oncology,2,22.3,104,120,3,18284,Transferred,0
+PT202000377,2020,36,Male,Marmara,Public,Emergency,Respiratory,6,23.2,126,168,3,14916,Home,1
+PT201800378,2018,59,Female,Central Anatolia,Private,Emergency,Respiratory,4,21.7,135,199,4,15347,Home,0
+PT202400379,2024,23,Female,Marmara,Uninsured,Elective,Cardiology,1,24.7,103,188,1,11582,Home,0
+PT201800380,2018,47,Male,Eastern Anatolia,Uninsured,Urgent,Orthopedics,3,24.1,108,197,1,7021,Home,0
+PT201800381,2018,53,Female,Mediterranean,Uninsured,NA,Orthopedics,4,27.6,123,200,5,16770,Transferred,0
+PT202200382,2022,63,Female,Mediterranean,Public,Elective,Endocrinology,5,24.7,144,222,3,13016,Home,0
+PT202200383,2022,84,Female,Marmara,Private,Referral,Orthopedics,2,28.0,130,200,6,19697,Transferred,0
+PT202100384,2021,71,Male,Black Sea,Public,Referral,Cardiology,4,32.4,176,192,5,22674,Home,0
+PT202400385,2024,77,Male,Southeastern Anatolia,Private,Urgent,Nephrology,NA,30.9,128,210,4,29523,Deceased,0
+PT202400386,2024,69,Male,Marmara,Public,Referral,Infectious Disease,4,26.1,160,215,6,21966,Home,0
+PT202400387,2024,25,Female,Marmara,Public,Emergency,Cardiology,3,27.8,120,200,5,21042,Deceased,0
+PT202000388,2020,42,Male,Eastern Anatolia,Public,Emergency,Infectious Disease,0,19.3,104,147,5,12280,Home,0
+PT201900389,2019,80,Male,Eastern Anatolia,Public,Elective,Oncology,9,25.2,147,179,4,20605,Deceased,0
+PT202300390,2023,40,Male,Mediterranean,Public,Elective,Orthopedics,2,28.0,131,161,1,8705,Home,0
+PT201900391,2019,56,Male,Eastern Anatolia,Private,NA,Endocrinology,4,29.8,123,217,4,12973, Home,0
+PT201800392,2018,74,Male,Marmara,Public,Elective,Endocrinology,8,18.8,138,175,4,11567,Deceased,0
+PT202000393,2020,59,Male,Central Anatolia,Private,Referral,Infectious Disease,6,23.1,121,135,6,18317,Deceased,0
+PT202200394,2022,70,Female,Marmara,Private,Elective,Cardiology,6,26.7,143,224,7,30487,Deceased,0
+PT202400395,2024,39,Male,Southeastern Anatolia,Private,Elective,Respiratory,3,22.8,103,147,1,5751,Deceased,0
+PT201900396,2019,33,Male,Marmara,Public,Emergency,Oncology,4,22.5,102,184,5,22217,Home,0
+PT201900397,2019,40,Female,Aegean,Public,Emergency,Cardiology,4,23.2,141,197,4,18304,Home,0
+PT201800398,2018,36,Male,Marmara,Private,Elective,Endocrinology,6,NA,124,205,3,14582,Home,1
+PT201800399,2018,46,Female,Black Sea,Public,Elective,Oncology,6,19.5,126,135,5,17802,Transferred,1
+PT201800400,2018,53,Female,Aegean,Public,Elective,Respiratory,3,21.2,121,206,3,8563,Transferred,0
+PT201900401,2019,64,Female,Marmara,Public,Emergency,Nephrology,4,23.6,119,178,6,20185,Home,0
+PT202000402,2020,56,Female,Mediterranean,Public,Referral,Neurology,6,20.4,116,128,8,25574,Transferred,0
+PT202200403,2022,61,Male,Marmara,Public,Referral,Infectious Disease,3,23.7,131,196,5,20128,Home,1
+PT202200404,2022,18,Male,Eastern Anatolia,Public,Emergency,Infectious Disease,1,23.6,92,163,4,13404,Home,0
+PT202100405,2021,70,Male,Mediterranean,Public,Emergency,Neurology,4,26.8,120,256,4,12727,Transferred,1
+PT202100406,2021,51,Female,Central Anatolia,NA,Urgent,Orthopedics,5,27.0,137,215,4,15301,Transferred,0
+PT201800407,2018,50,Female,Marmara,Private,Emergency,Cardiology,4,23.6,137,190,6,23194,Deceased,0
+PT201800408,2018,59,Male,Central Anatolia,Public,Emergency,Cardiology,5,28.2,137,211,7,17586,Home,0
+PT202000409,2020,53,Male,Marmara,Private,Elective,Respiratory,7,30.0,117,217,4,16462,Home,1
+PT202400410,2024,37,Female,Central Anatolia,Public,Elective,Orthopedics,3,18.4,97,162,1,10552,Deceased,0
+PT202000411,2020,49,Female,Central Anatolia,Public,Emergency,Cardiology,3,23.9,132,199,4,13836,Home,1
+PT202300412,2023,71,Female,Marmara,Uninsured,Elective,Endocrinology,5,22.3,131,187,4,15173,Home,0
+PT201900413,2019,46,Male,Marmara ,Private,Elective,Neurology,3,21.5,103,184,4,12991,Deceased,0
+PT201800414,2018,78,Female,Marmara,Uninsured,Elective,Infectious Disease,4,25.3,137,185,6,17333,Transferred,1
+PT202200415,2022,33,Female,Mediterranean,Private,Urgent,Cardiology,4,21.9,104,217,5,20103,Home,0
+PT202400416,2024,41,Male,Southeastern Anatolia,Private,Emergency,Endocrinology,4,27.6,126,167,3,14923,Home,0
+PT202300417,2023,31,Female,Central Anatolia,Private,Urgent,Nephrology,NA,20.8,129,160,4,22668,Home,0
+PT202000418,2020,34,Female,Marmara,Public,Emergency,Oncology,4,25.8,131,179,5,16684,Home,1
+PT202400419,2024,39,Female,Marmara,Public,Emergency,Infectious Disease,4,22.9,122,151,4,16280,Home,0
+PT202400420,2024,65,Female,Aegean,Public,Emergency,Cardiology,7,23.6,151,210,8,NA,Deceased,0
+PT201900421,2019,66,Male,Marmara,Public,Referra?,Orthopedics,3,NA,141,217,5,12693,Deceased,0
+PT202100422,2021,47,Male,Central Anatolia,Uninsured,Emergency,Endocrinology,5,24.2,118,174,3,16864,Home,0
+PT201800423,2018,48,Male,Marmara,Public,Elective,Respiratory,6,26.4,117,187,3,11827,Home,0
+PT202200424,2022,42,Male,Marmara,Public,Emergency,Oncology,6,26.9,93,196,8,29739,Home,1
+PT201800425,2018,36,Male,Mediterranean,Private,Referral,Orthopedics,0,16.0,94,130,5,15537,Home,0
+PT201800426,2018,68,Female,Marmara,Public,Urgent,Endocrinology,5,24.7,136,210,7,13786,Transferred,0
+PT202300427,2023,44,Male,Black Sea,Public,Urgent,Respiratory,3,25.1,109,194,4,16551,Home,1
+PT201900428,2019,66,Male,Central Anatolia,Public,Emergency,Neurology,4,25.2,115,215,5,19103,Transferred,1
+PT202100429,NA,76,Male,Central Anatolia,Private,Emergency,Oncology,6,23.5,130,209,9,36211,Home,1
+PT201800430,2018,69,Male,Eastern Anatolia,Private,Emergency,Orthopedics,4,21.2,126,171,7,19959,Transferred,1
+PT202000431,2020,49,Female,Central Anatolia,Public,Elective,Orthopedics,3,23.8,111,198,4,13352,Home,0
+PT202000432,2020,29,Female,Marmara,Public,Elective,Neurology,4,22.2,100,195,3,14499,Home,0
+PT202100433,2021,32,Female,Southeastern Anatolia,Private,Elective,Neurology,3,27.3,90,177,2,15875,Home,0
+PT202000434,2020,53,Male,Marmara,Public,Elective,Infectious Disease,3,22.9,117,201,3,8495,Home,0
+PT201800435,2018,81,Male,Central Anatolia,Public,Elective,Nephrology ,7,28.9,144,234,6,19270,Home,1
+PT202400436,2024,59,Male,Black Sea,Uninsured,Emergency,Neurology,4,20.8,112,165,7,35300,Transferred,1
+PT202100437,2021,28,Female,Marmara,Public,Emergency,Orthopedics,3,29.4,109,162,4,14774,Home,0
+PT202000438,2020,79,Male,Black Sea,Private,Emergency,Cardiology,7,25.0,139,209,9,29922,Deceased,0
+PT202400439,2024,45,Male,Marmara,Public,Referral,Cardiology,3,29.7,139,233,7,26409,Home,0
+PT202000440,2020,65,Female,Marmara,Public,Referral,Cardiology,7,21.0,135,168,6,20187,Deceased,0
+PT201900441,2019,22,Female,Southeastern Anatolia,Private,Emergency,Infectious Disease,1,22.9,100,142,3,11668,Transferred,0
+PT202100442,2021,54,Female,Marmara,Uninsured,Referral,Cardiology,4,29.2,136,218,5,24278,Home,0
+PT202000443,2020,46,Male,Eastern Anatolia,Public,Emergency,Cardiology,3,29.6,113,240,5,14634,Home,0
+PT202400444,2024,60,Male,Central Anatolia,Uninsured,Emergency,Infectious Disease,4,24.7,127,164,4,20341,DECEASED,0
+PT201800445,2018,66,Male,Mediterranean,Public,Emergency,Respiratory,4,21.8,115,216,6,14062,Deceased,0
+PT201800446,2018,59,Female,Marmara,Uninsured,Emergency,Endocrinology,5,23.1,113,208,6,16209,Deceased,0
+PT202300447,2023,23,Male,Central Anatolia,PRIVATE,Referral,Cardiology,3,17.1,102,136,4,19424,Transferred,0
+PT201900448,2019,63,Male,Mediterranean,Public,Elective,Oncology,7,23.7,132,204,6,21023,Transferred,0
+PT201900449,2019,33,Female,Aegean,Public,Elective,Neurology,6,26.1,106,214,3,15498,Home,0
+PT202200450,2022,36,Male,Aegean,Private,Emergency,Respiratory,3,22.4,112,218,4,15905,Transferred,0
+PT202400451,2024,55,Female,Central Anatolia,Public,Emergency,Endocrinology,4,26.8,129,203,5,17525,Transferred,0
+PT202200452,2022,73,Male,Central Anatolia,Private,Emergency,Oncology,5,25.9,129,225,7,34041,Deceased,0
+PT201800453,2018,47,Male,Marmara,Private,Emergency,Cardiology,5,24.2,118,213,4,17225,Home,1
+PT201900454,2019,33,Female,Eastern Anatolia,Public,Urgent,Cardiology,5,23.0,114,156,6,20981,Deceased,0
+PT201800455,2018,70,Male,Southeastern Anatolia,Public,Emergency,Cardiology,6,NA,135,214,9,24179,Home,1
+PT201800456,2018,68,Male,Eastern Anatolia,Public,Emergency,NA,3,28.1,138,182,4,11442,Transferred,0
+PT202200457,2022,74,Female,Eastern Anatolia,Public,Referral,Nephrology,6,25.0,136,178,8,27799,Home,1
+PT202000458,2020,61,Female,Southeastern Anatolia,Public,Emergency,Oncology,5,28.3,144,217,6,18281,Transferred,0
+PT201800459,2018,78,Male,Black Sea,Public,Elective,Nephrology,5,23.3,141,230,5,13556,Deceased,0
+PT202400460,2024,33,Female,Central Anatolia,Private,Emergency,Cardiology,1,22.5,120,146,4,20118,Home,0
+PT202200461,2022,58,Female,Eastern Anatolia,Private,Elective,Endocrinology,6,29.8,130,255,3,12514,NA,0
+PT201900462,2019,42,Female,Marmara,Public,Urgent,Orthopedics,2,23.2,113,182,5,13627,Transferred,0
+PT202200463,2022,58,Female,Marmara ,Public,Elective,Endocrinology,2,30.5,148,224,1,3884,Transferred,0
+PT201800464,2018,52,Female,Marmara,Public,Emergency,Neurology,3,23.2,111,173,6,16532,Transferred,0
+PT201800465,2018,59,Male,Central Anatolia,Public,Urgent,Infectious Disease,3,27.5,141,199,5,12406,Transferred,1
+PT202000466,2020,68,Female,Central Anatolia,Public,Emergency,Cardiology,5,28.3,131,191,8,20141,Transferred,0
+PT202300467,2023,21, Female,Marmara,Public,Emergency,Cardiology,4,22.8,119,175,8,27550,Home,0
+PT201800468,2018,38,Male,Mediterranean,Public,Elective,Cardiology,4,29.9,124,180,4,15479,Home,0
+PT202200469,2022,75,Female,NA,Public,Elective,Respirat0ry,5,25.1,148,245,4,15887,Deceased,0
+PT202100470,2021,42,Female,Marmara,Public,Referral,Endocrinology,3,28.9,123,166,3,12566,Home,0
+PT202000471,2020,54,Male,Marmara,Public,Emergency,Orthopedics,5,25.1,130,224,4,16314,Transferred,0
+PT201900472,2019,40,Male,Mediterranean,Public,Emergency,Nephrology,3,21.5,123,159,7,19220,Home,0
+PT202300473,2023,50,Male,Black Sea,Public,Urgent,Respiratory,6,NA,135,177,4,14340,Transferred,0
+PT201800474,2018,59,Female,Aegean,Uninsured,Emergency,Respiratory,2,27.8,132,216,6,16574,Home ,0
+PT202200475,2022,73,Female,Central Anatolia,Private,Urgent,Endocrinology,8,27.4,154,203,5,20208,Deceased,0
+PT202400476,2024,75,Female,Aegean,Public,Referral,Cardiology,6,27.6,156,235,6,22100,Home,1
+PT202100477,2021,40,Male,Southeastern Anatolia,Private,Elective,Cardiology,6,23.3,124,196,5,16259,Deceased,0
+PT201800478,2018,68,Female,Aegean,Public,Elective,Orthopedics,5,22.1,128,154,2,8677,Transferred,1
+PT201900479,2019,18,Female,Black Sea,Public,Referral,Cardiology,4,21.3,113,180,3,10415,Home,0
+PT201900480,2019,43,Female,NA,Public,Elective,Endocrinology,5,27.8,128,217,3,6566,Transferred,0
+PT202200481,2022,53,Male,Marmara,Pr1vate,Referral,Nephrology,5,25.4,141,188,4,20874,Transferred,0
+PT202000482,2020,37,Male,Marmara,Public,Emergency,Cardiology,6,23.1,110,236,5,21340,Transferred,0
+PT202200483,2022,56,Male,Aegean,Public,Elective,Orthopedics,7,26.8,135,179,2,11044,Home,1
+PT202400484,2024,44,Female,Mediterranean,Public,Elective,Nephrology,4,24.1,132,178,3,19193,Home,0
+PT202200485,2022,62,Male,Mediterranean,Public,Emergency,Nephrology,3,21.7,142,169,6,19343,Home,0
+PT202400486,2024,47,Male,Mediterranean,Public,Elective,Infectious Disease,2,24.2,114,188,4,17590,Home,0
+PT202300487,2023,76,Female,Marmara,Public,Elective,Orthopedics,3,23.2,138,183,6,18324,Transferred,0
+PT202400488,2024,38,Female, Eastern Anatolia,Public,Elective,Cardiology,5,27.0,128,187,3,16748,Home,1
+PT202400489,2024,52,Female,Aegean,Public,Urgent,Respiratory,4,25.2,110,175,4,19994,Transferred,1
+PT202100490,2021,37,Male,Southeastern Anatolia,Public,Elective,Endocrinology,6,24.7,120,200,5,11944,Home,0
+PT202300491,2023,67,Male,Marmara,Public,Elective,Orthopedics,5,25.5,128,175,5,16794,Deceased,0
+PT201800492,2018,61,Female,Southeastern Anatolia,Private,Emergency,Oncology,5,28.1,121,192,8,25969,Home,1
+PT201800493,2018,67,Male,Aegean,Private,Elective,Infectious Disease,4,27.0,132,183,3,11269,Home,1
+PT202400494,2024,47,Male,Marmara,Public,Emergency,Cardiology,NA,24.6,142,226,5,26143,Transferred,1
+PT201800495,2018,20,Female,Eastern Anatolia,Public,Emergency,Neurology,1,22.7,94,154,2,4615,Home,0
+PT202400496,2024,58,Female,Marmara,Private,Emergency,Respiratory,5,19.9,112,201,6,22613,Transferred,0
+PT201900497,2019,47,Male,Aegean,Public,Referral,Oncology,5,24.0,123,200,5,20966,Transferred,0
+PT201800498,2018,31,Female,Central Anatolia,Public,Urgent,Cardiology,6,24.3,127,174,4,17037,Deceased,0
+PT201800499,2018,55,Male,Marmara,Public,Referral,Endocrinology,6,25.7,105,191,4,9735,Deceased,0
+PT202000500,2020,38,Male,Eastern Anatolia,Private,Referral,Respiratory,2,20.7,99,192,4,12719,Home,0
+PT201900501,2019,52,Male,Aegean,Public,Urgent,Respiratory,3,22.1,113,187,2,9926,Home,0
+PT201900502,2019,88,Female,Central Anatolia,Public,Referral,Cardiology,8,25.8,156,226,6,21281,Home,0
+PT202100503,2021,71,Female,Black Sea,Public,Emergency,Nephrology,5,25.2,131,220,7,21009,Transferred,0
+PT202000504,2020,39,Female,Central Anatolia,Public,Emergency,Orthopedics,3,30.3,117,190,4,12821,Home,0
+PT202000505,2020,63,Female,Eastern Anatolia,Public,Referral,Neurology,5,22.0,133,195,3,12965,Home,0
+PT202000506,2020,46,Female,Central Anatolia,Private,Emergency,Orthopedics,4,26.4,111,213,4,15187,Home,1
+PT202400507,2024,18,Female,Southeastern Anatolia,Public,Emergency,Respiratory,0,25.3,100,178,5,16192,Home,0
+PT202000508,2020,23,Female,Central Anatolia,Public,Referral,Endocrinology,3,24.5,99,182,1,7264,Home,0
+PT201800509,2018,78,Female,Aegean,Private,Emergency,Endocrinology,8,34.2,154,280,7,20066,Transferred,0
+PT201900510,2019,37,Female,Southeastern Anatolia,Public,Elective,Cardiology,4,25.8,114,197,2,11389,Home,0
+PT202300511,2023,35,Female,Central Anatolia,Public,Elective,Cardiology,7,22.7,118,188,5,22734,Transferred,0
+PT201800512,2018,50,Male,Marmara,Public,Urgent,Cardiology,5,24.9,140,164,5,13297,Transferred,0
+PT202000513,NA,18,Female,Aegean,Public,Emergency,Endocrinology,4,23.8,90,170,3,12897,Deceased,0
+PT202100514,2021,56,Female,Marmara,Public,Emergency,Endocrinology,3,25.6,121,180,5,13850,Home,0
+PT201900515,2019,28,Male,Eastern Anatolia,Private,Referral,INFECTIOUS DISEASE,3,19.2,100,135,4,13862,Transferred,0
+PT202100516,2021,24,Male,Aegean,Private,Elective,Oncology,3,23.5,92,168,5,22662,Transferred,0
+PT202400517,2024,40,Female,Eastern Anatolia,Private,Emergency,Orthopedics,4,21.0,123,NA,2,17500,Home,0
+PT202100518,2021,80,Male,Marmara,Public,Urgent,Infectious Disease,5,26.6,135,229,4,12650,Deceased,0
+PT202000519,2020,69,Male,Mediterranean,Private,Elective,Infectious Disease,5,21.3,137,159,4,14318,Deceased,0
+PT202300520,2023,47,Male,Southeastern Anatolia,Public,Emergency,Nephrology,4,27.4,138,215,6,28091,Deceased,0
+PT202300521,2023,53,Female,Central Anatolia,Public,Elective,Orthopedics,4,20.6,118,179,2,10272,Home,1
+PT202300522,2023,38,Female,Mediterranean,Public,Emergency,Oncology,6,21.9,111,183,5,23746,Transferred,1
+PT202400523,2024,26,Male,Marmara,Public,Elective,Orthopedics,1,26.7,108,171,2,9035,Deceased,0
+PT201800524,NA,27,Male,Eastern Anatolia,Public,Emergency,Nephrology,3,24.9,115,179,4,12469,Deceased,0
+PT202000525,2020,73,Female,Aegean,Private,Emergency,Nephrology,5,29.0,NA,215,6,23414,Transferred,0
+PT201900526,2019,69,Female,Black Sea,Public,Elective,NA,5,22.1,133,186,6,16970,Deceased,0
+PT202300527,2023,83,Male,Mediterranean,Public,Elective,Infectious Disease,5,24.5,129,194,5,16268,Transferred,0
+PT202300528,2023,44,Male,Central Anatolia,Private,Emergency,Endocrinology,3,22.3,109,166,5,19258,Deceased,0
+PT201800529,2018,28,Male,Mediterranean,Public,Referral,Respiratory,2,24.7,115,196,3,6434,Home,0
+PT202000530,2020,52,Male,Mediterranean,Public,Elective,Infectious Disease,4,27.1,114,179,1,7908,Deceased,0
+PT202300531,2023,76,Female,Aegean,Private,Urgent,Respiratory,5,29.5,137,221,6,23355,Deceased,0
+PT201800532,2018,61,Female,Marmara,Public,Urgent,Nephrology,3,29.2,126,239,7,16407,Transferred,1
+PT201900533,2019,56,Female,Central Anatolia,Public,Emergency,Oncology,6,25.2,139,209,7,26215,Transferred,1
+PT202300534,2023,85,Male,NA,Public,Emergency,Infectious Disease,5,26.1,147,212,6,19700,Home,1
+PT202300535,2023,54,Male,Eastern Anatolia,Public,Emergency,Endocrinology,4,30.0,127,218,5,14803,Deceased,0
+PT202100536,2021,95,Male,Central Anatolia,Public,Urgent,Respiratory,8,24.9,151,218,8,NA,Transferred,0
+PT201900537,2019,45,Female,Aegean,Public,Elective,Orthopedics,2,24.6,109,167,5,13201,Home,0
+PT201900538,2019,21,Female,Marmara,Public,Emergency,ENDOCRINOLOGY,3,24.9,112,182,5,16278,Home,0
+PT201900539,2019,30,Female,Southeastern Anatolia,Public,Emergency,Cardiology,4,23.9,118,236,5,17487,Home,0
+PT202300540,2023,44,Male,Marmara,Public,Urgent,Respiratory,5,20.4,115,145,5,15338,Home,0
+PT201900541,2019,32,Male,Mediterranean,Public,Urgent,Cardiology,5,24.0,113,212,5,14851,Home,0
+PT202400542,2024,36,Male,Aegean,Public,Emergency,Infectious Disease ,3,21.4,96,195,5,13210,Home,0
+PT202200543,2022,52,Female,Aegean,Public,Emergency,Oncology,8,26.4,125,161,6,26868,Transferred,0
+PT201800544,2018,49,Female,Aegean,Public,Emergency,Oncology,4,24.5,113,144,5,19937,Transferred,0
+PT202200545,2022,40,Male,Marmara,Private,Elective,Cardiology,2,25.7,136,222,3,20462,Home,0
+PT201900546,2019,38,Male,Central Anatolia,Public,Emergency,Oncology,2,25.1,105,144,4,15955,Home,0
+PT201800547,2018,77,Male,Marmara,Public,Emergency,Respiratory,5,28.7,133,217,5,12710,Home,1
+PT202400548,2024,41,Female,Central Anatolia,Private,Emergency,Infectious Disease,2,21.7,97,169,5,19648,Home,0
+PT201900549,2019,51,Male,Marmara,Private,Emergency,Infectious Disease,NA,17.8,123,137,5,17893,Home,1
+PT202100550,2021,53,Female,Eastern Anatolia,Private,Urgent,Infectious Disease,3,28.0,124,195,5,17800,Home,0
+PT202100551,2021,30,Male,Aegean,Private,Referral,Cardiology,4,23.1,139,190,5,19098,Deceased,0
+PT201800552,2018,53,Female,Marmara,Public,Referral,Endocrinology,6,25.9,123,203,4,7662,Deceased,0
+PT201900553,2019,60,Male,Eastern Anatolia,Public,Emergency,Nephrology,7,22.3,137,177,6,20004,Deceased,0
+PT202400554,2024,55,Male,Central Anatolia,Public,Elective,Endocrinology,3,26.8,138,217,4,15815,Home,0
+PT202200555,2022,30,Male,Marmara,Public,Emergency,Respiratory,3,24.8,120,182,5,16130,Deceased,0
+PT201800556,2018,51,Male,Black Sea,Public,Urgent,Endocrinology,5,24.5,123,217,8,17128,Transferred,1
+PT201800557,2018,42,Male,Black Sea,Public,Elective,Neurology,5,26.2,123,161,5,14240,Home,1
+PT201900558,2019,62,Female,Mediterranean,Private,Referral,Neurology,5,21.9,155,219,4,19895,Transferred,0
+PT202000559,2020,56,Male,Black Sea,Private,Emergency,Orthopedics,5,22.4,124,192,7,22051,Home,1
+PT201900560,2019,59,Male,Marmara,Private,Urgent,Oncology,5,26.1,140,184,5,24200,Deceased,0
+PT201900561,2019,67,Male,Eastern Anatolia,Private,Elective,NA,7,24.4,123,168,4,19536,Home,1
+PT202200562,2022,70,Male,Central Anatolia,Public,Emergency,Respiratory,7,30.1,144,191,7,20102,Transferred,1
+PT202100563,2021,39,Female,Marmara,Public,Emergency,Orthopedics,2,25.5,119,189,5,17019,Home,0
+PT202400564,2024,50,Male,Aegean,Private,Elective,Respiratory,2,21.9,123,184,4,17568,Home,1
+PT202100565,2021,56,Female,Marmara,Public,Emergency,Endocrinology,4,26.1,128,200,5,12900,Deceased,0
+PT202400566,2024,39,Male,Eastern Anatolia,Private,Elective,NA,3,21.1,117,151,2,14569,Home,1
+PT202300567,2023,71,Male,Black Sea,Uninsured,Emergency,Endocrinology,6,29.3,138,239,6,19704,Transferred,1
+PT202200568,2022,22,Male,Central Anatolia,Publi?,Emergency,Cardiology,3,19.1,108,189,4,16349,Home,1
+PT202200569,2022,59,Male,Marmara,Public,Emergency,Respiratory,6,19.3,124,165,9,22792,Transferred,0
+PT202400570,2024,18,Male,Central Anatolia,Publ1c,Emergency,Nephrology ,3,21.7,116,132,2,19536,Home,1
+PT201900571,2019,59,Male,Marmara,Public,Emergency,Orthopedics,5,20.6,132,178,6,13533,Transferred,0
+PT202300572,NA,30,Male,Mediterranean,Uninsured,Emergency,Oncology,5,21.8,100,125,NA,33407,Home,1
+PT202000573,2020,53,Male,Black Sea,Public,Referral,Orthopedics,4,25.3,131,172,4,9651,Home,0
+PT202300574,2023,26,Male,Eastern Anatolia,Private,Emergency,Endocrinology,4,22.9,123,160,6,20736,Home,1
+PT202200575,2022,71,Male,Central Anatolia,Public,Emergency,Cardiology,5,25.9,140,202,7,28831,Deceased,0
+PT201800576,2018,69,Female,Mediterranean,Public,Elective,Endocrinology,7,22.0,142,175,3,11484,Home,1
+PT202100577,2021,26,Male,Marmara,Public,Referral,Endocrinology,6,29.2,118,214,4,13805,Home,0
+PT202400578,2024,92,Male,Eastern Anatolia,Public,Referral,Orthopedics,5,21.5,150,187,6,23807,Home,1
+PT202200579,2022,31,Female,Black Sea,Public,Referral,Respiratory,4,22.7,102,155,3,9340,Home,1
+PT202100580,2021,89,Female,Central Anatolia,Public,Emergency,Cardiology,4,24.7,149,244,8,24976,Deceased,0
+PT202000581,2020,38,Female,Eastern Anatolia,Uninsured,Elective,Neurology,5,22.2,127,173,2,14988,Home,0
+PT202000582,2020,49,Male,Mediterranean,Public,Emergency,Infectious Disease,5,19.8,115,192,5,17326,Home,1
+PT202400583,2024,51,Female,Black Sea,Public,Urgent,Endocrinology,3,24.7,130,184,3,15348,Transferred,1
+PT202400584,2024,38,Female,Southeastern Anatolia,Private,Emergency,Orthopedics,1,24.7,101,208,4,15575,Home,0
+PT202200585,2022,52,Female,Marmara,Private,Emergency,Neurology,4,20.8,132,179,6,24612,Home,0
+PT202400586,2024,67,Female,Marmara,Public,Emergency,Nephrology,6,24.6,139,198,8,24472,Transferred,1
+PT202200587,2022,47,Female,Aegean,Public,Referral,Cardiology,1,25.5,109,192,5,19119,Home,0
+PT201800588,2018,68,Male,Black Sea,Public,Elective,Respiratory,5,21.6,133,201,3,12315,Home,0
+PT202000589,2020,24,Male,Marmara,Public,Elective,Orthopedics,0,22.7,104,120,1,10731,Home,0
+PT202100590,2021,54,Male,Eastern Anatolia,Public,Referral,Neurology,6,27.6,115,230,7,18898,Transferred,0
+PT202300591,2023,66,Male,Marmara,Uninsured,Referral,Infectious Disease,4,21.2,109,197,4,18218,Transferred,0
+PT202200592,2022,78,Male,Central Anatolia,Uninsured,Referral,Neurology,7,21.8,150,207,6,25250,Transferred,1
+PT202300593,2023,59,Male,Marmara,Public,Urgent,Endocrinology,5,26.6,127,204,4,14531,Transferred,0
+PT201800594,2018,54,Male,Eastern Anatolia,Uninsured,Urgent,Cardiology,6,19.2,136,169,8,27091,Home,1
+PT202100595,2021,30,Female,Central Anatolia,Public,Elective,Cardiology,6,26.1,147,167,2,12161,Deceased,0
+PT202200596,2022,55,Male,Marmara,Public,Emergency,Infectious Disease,4,25.5,121,203,9,25375,Home,0
+PT202200597,2022,83,Male,Marmara,Public,Emergency,Infectious Disease,4,26.7,132,244,6,17842,Deceased,0
+PT202200598,2022,63,Male,Marmara,Public,Emergency,Infectious Disease,4,26.6,111,179,6,18509,Transferred,1
+PT201800599,2018,18,Male,Black Sea,Private,Emergency,Neurology,3,19.8,111,194,7,20445,Home,0
+PT202300600,2023,54,Female,Southeastern Anatolia,Public,Urgent,Cardiology,6,23.6,134,166,5,21640,Transferred,0
+PT202000601,2020,64,Male,Mediterranean,Public,Urgent,Nephrology,5,26.0,116,230,5,22345,Transferred,0
+PT201800602,2018,42,Female,Eastern Anatolia,Private,Emergency,Endocrinology,4,28.7,112,244,6,17727,Deceased,0
+PT202000603,2020,37,Male,Marmara,Private,Emergency,Respiratory,5,22.2,117,175,8,22715,Home,0
+PT202100604,2021,18,Female,Marmara,Public,Electiv?,Infectious Disease,2,27.2,100,157,1,8956,Home,0
+PT201900605,2019,18,Female,Marmara,Public,Emergency,Orthopedics,0,21.1,96,143,2,6405,Home,0
+PT202300606,2023,50,Female,Marmara,Private,Elective,Nephrology,7,29.4,122,207,5,23514,Deceased,0
+PT202300607,2023,22,Male,Southeastern Anatolia,Public,Emergency,Neurology,2,16.3,90,132,3,NA,Home,0
+PT202100608,2021,40,Male,Marmara,Public,Emergency,Neurology,2,26.4,124,198,5,18361,Home,0
+PT201900609,2019,18,Female,Central Anatolia,Public,Urgent,Respiratory,2,20.5,96,182,3,8518,Home,0
+PT201900610,2019,65,Female,Southeastern Anatolia,Private,Emergency,Cardiology,5,27.0,133,214,7,21996,Transferred,0
+PT201800611,2018,50,Male,Marmara,Private,Emergency,Orthopedics,3,19.4,114,157,6,19342,Home,0
+PT202200612,2022,42,Male,Black Sea,Public,Urgent,Cardiology,2,20.8,109,196,3,15109,Home,0
+PT202100613,2021,65,Female,Central Anatolia,Public,Elective,Orthopedics,3,24.6,141,182,3,13726,Deceased,0
+PT202000614,2020,58,Male,Aegean,Public,Emergency,Endocrinology,6,25.5,153,190,5,13182,Transferred,1
+PT202300615,2023,29,Female,Aegean,Public,Elective,Respiratory,2,21.7,121,153,3,13739,Home,0
+PT202200616,2022,67,Male,Marmara,Public,Urgent,Endocrinology,5,26.0,150,209,6,19919,Home,0
+PT201800617,2018,18,Female,Marmara,Private,Referral,Infectious Disease,2,21.2,96,152,3,13466,Home,0
+PT202300618,2023,46,Male,Aegean,NA,Elective,Cardiology,3,NA,129,213,2,14276,Home,0
+PT202400619,2024,71,Female,Aegean,Private,Emergency,Infectious Disease,6,21.4,131,184,5,20495,Home,1
+PT202300620,2023,45,Female,Marmara,Uninsured,Elective,Nephrology,4,28.8,120,206,3,22806,Home,0
+PT202000621,2020,67,Male,Central Anatolia,Private,Elective,Cardiology,5,25.1,151,217,5,19981,Home*,0
+PT202200622,2022,61,Female,Mediterranean,Public,Elective,Infectious Disease,5,29.3,137,188,3,14097,Home,0
+PT201900623,2019,87,Male,Southeastern Anatolia,Private,Emergency,Cardiology,8,22.8,163,247,6,21792,Transferred,1
+PT201800624,NA,69,Male,Marmara,Public,Emergency,Endocrinology,5,26.5,140,203,6,8887,Transferred,1
+PT202300625,2023,46,Female,Southeastern Anatolia,Uninsured,Emergency,Oncology,5,33.6,138,209,3,25429,Home,1
+PT201900626,2019,47,Male,Central Anatolia,Public,Emergency,Neurology,4,26.2,112,187,4,15361,Home,1
+PT202000627,2020,43,Female,Marmara,Public,Emergency,Endocrinology,3,24.0,97,169,5,13778,Deceased,NA
+PT201900628,2019,36,Female,Southeastern Anatolia,Private,Emergency,Oncology,4,28.6,127,202,5,18196,Deceased,0
+PT202200629,2022,37,Male,Central Anatolia,Private,ELECTIVE,Neurology,1,24.0,112,162,4,17930,Transferred,0
+PT202000630,2020,48,Male,Marmara,Public,Urgent,Endocrinology,7,25.7,126,158,7,22750,Transferred,0
+PT202400631,2024,64,Male,Central Anatolia,Public,Elective,Endocrinology,5,26.2,129,203,1,14456,Transferred,0
+PT202000632,2020,61,Female,Aegean,Public,Emergency,Cardiology,7,24.9,127,236,6,20405,Transferred,1
+PT202000633,2020,63,Male,Eastern Anatolia,Public,Emergency,Neurology,4,22.6,141,183,6,17624,Deceased,0
+PT202300634,2023,38,Female,Central Anatolia,Public,Emergency,Cardiology,3,28.9,126,219,4,23349,Home,0
+PT202200635,2022,64,Male,Mediterranean,Public,Urgent,Respiratory,7,25.9,120,174,4,16811,Home,0
+PT202200636,2022,57,Female,Southeastern Anatolia,Uninsured,Emergency,Nephrology,5,28.4,143,190,9,38831,Home,1
+PT202100637,2021,72,Female,Black Sea,Public ,Emergency,Nephrology,4,24.9,139,244,5,19623,Transferred,0
+PT202000638,2020,39,Female,Marmara,Public,Emergency,Orthopedics,4,23.2,111,226,5,16258,Home,0
+PT201900639,2019,69,Female,Aegean,Public,Referral,Endocrinology,8,25.3,142,209,8,19777,Deceased,0
+PT202200640,2022,23,Female,Mediterranean,Public,Elective,Nephrology,1,24.6,96,136,1,7229,Home,0
+PT202300641,2023,67,Male,Marmara,Public,Referral,Cardiology,4,24.5,130,225,5,20053,Deceased,0
+PT202400642,2024,35,Male,Southeastern Anatolia,Public,Emergency,Respiratory,5,24.1,131,159,5,25042,Home,0
+PT202200643,2022,28,Female,Southeastern Anatolia,Public,Emergency,Oncology,5,21.3,112,199,6,25510,NA,0
+PT202100644,2021,81,Female,Black Sea,Private,Referral,Endocrinology,5,31.7,158,209,5,14297,Home,0
+PT202200645,2022,45,Female,Marmara,Public,Elective,Infectious Disease,3,24.8,116,191,6,17206,Home,0
+PT201800646,2018,35,Female,Mediterranean,Public,Elective,NEPHROLOGY,4,22.4,109,172,5,19609,Home,0
+PT202200647,2022,55,Female,Marmara,Public,Emergency,Neurology,4,21.8,137,182,6,17181,Transferred,0
+PT201800648,2018,71,Male,Marmara,Public,Elective,Cardiology,7,22.6,140,210,5,12684,Transferred,NA
+PT202000649,2020,69,Female,southeastern anatolia,Private,Referral,Neurology,5,27.4,130,194,6,25292,Transferred,1
+PT202400650,2024,40,Male,Black Sea,Public,Urgent,Infectious Disease,3,20.8,NA,172,7,18335,Home,1
+PT202400651,2024,74,Female,Marmara,Public,Elective,Neurology,6,31.0,147,241,5,22513,Transferred,1
+PT202200652,2022,65,Male,Aegean,Uninsured,Referral,Cardiology,5,26.8,154,303,6,31195,Transferred,1
+PT202400653,2024,73,Male,Marmara,Private,Emergency,NA,6,26.9,143,201,5,20387,Transferred,0
+PT202300654,2023,27,Female,Aegean,Public,Emergency,Oncology,3,21.9,111,136,3,19680,Home,1
+PT202400655,2024,78,Male,Black Sea,Public,Referral,Endocrinology,7,30.2,150,209,4,17492,Deceased,0
+PT201900656,2019,31,Female,Aegean,Private,Referral,Orthopedics,1,27.9,110,207,2,7661,Deceased,0
+PT202100657,2021,52,Female,Marmara,Public,Urgent,Cardiology,5,29.3,114,212,4,14196,Deceased,0
+PT201900658,2019,65,Male,Marmara,Private,Emergency,Neurology,5,24.1,146,183,8,25812,Home,1
+PT202300659,2023,40,Male,Central Anatolia,Public,Emergency,Cardiology,5,27.9,127,225,7,23354,Deceased,0
+PT202000660,2020,79,Female,Eastern Anatolia,Public,Urgent,Orthopedics,7,24.3,137,216,6,13423,Transferred,1
+PT202000661,2020,67,Female,Central Anatolia,Public,Referral,Endocrinology,5,31.8,127,198,4,12868,Deceased,0
+PT201900662,2019,61,Female,Marmara,Public,Elective,Endocrinology,4,29.0,163,200,1,8388,Home,0
+PT202100663,2021,34,Male,Marmara,Public,Referral,NA,1,27.0,113,195,2,8980,Home,0
+PT202200664,2022,18,Male,Aegean,Public,Emergency,Nephrology,5,21.5,121,177,7,23439,Home,0
+PT202200665,2022,59,Male,Mediterranean,Uninsured,Urgent,Cardiology,5,27.5,132,239,5,24989,Transferred,0
+PT202100666,2021,62,Male,Aegean,Public,Emergency,Cardiology,5,30.1,152,237,6,17677,Home,1
+PT202300667,2023,47,Female,Aegean,Public,Urgent,Cardiology,5,28.8,127,225,6,20249,Home,1
+PT201800668,2018,85,Male,Eastern Anatolia,Public,Urgent,Cardiology,8,25.9,177,208,9,NA,Deceased,0
+PT202300669,2023,69-,Male,Black Sea,Public,ELECTIVE,Cardiology,5,33.0,154,275,4,22005,Deceased,0
+PT202400670,2024,95,Female,Central Anatolia,Public,Referral,Endocrinology,9,31.1,171,245,5,20438,Deceased,0
+PT202400671,2024,44,Female,Eastern Anatolia,Public,Emergency,Nephrology,4,24.9,126,214,6,24154,Home,1
+PT202000672,2020,44,Male,Black Sea,Public,Elective,Endocrinology,7,26.4,138,161,2,12339,Deceased,0
+PT202100673,2021,29,Male,Marmara,Private,Elective,Neurology,2,25.5,90,168,3,15144,Home,0
+PT202300674,2023,31,Male,Eastern Anatolia,Public,Emergency,Cardiology,2,22.1,117,211,6,24502,Home,1
+PT202200675,2022,33,Male,Eastern Anatolia,Public,Referral,Cardiology,4,22.2,120,196,5,21680,Home,1
+PT202000676,2020,53,Female,Marmara,Private,Emergency,Respiratory,5,23.7,113,212,5,20123,Transferred,1
+PT202100677,2021,92,Female,Central Anatolia,Public,Emergency*,Cardiology,7,28.1,152,241,6,21981,Deceased,0
+PT202200678,2022,NA,Male,Eastern Anatolia,Private,Emergency,Oncology,4,23.7,111,168,4,24885,Home,1
+PT201800679,2018,50,Female,Marmara,Public,Elective,Endocrinology,4,26.4,127,187,3,7237,Home,0
+PT202100680,2021,54,Female,Aegean,Public,Referral,Neurology,6,25.3,148,190,4,15868,Home,1
+PT202400681,2024,36,Male,Eastern Anatolia,Public,Elective,Infectious Disease,2,27.8,124,190,3,11992,Home,0
+PT202200682,2022,48,Male,Marmara,Public,Urgent,Endocrinology,NA,27.2,147,167,4,15967,Home,0
+PT202400683,2024,40,Female,Southeastern Anatolia,Private,Emergency,Infectious Disease,6,28.0,117,147,4,16954,Deceased,0
+PT202000684,2020,50,Male,Marmara,Public,Referral,Respiratory,5,24.0,138,186,5,19129,Home,1
+PT202400685,2024,51,Male,Central Anatolia,Public,Elective,Respiratory,4,26.7,112,243,3,13783,Home,0
+PT201900686,2019,86,Male,Marmara,Public,Elective,Infectious Disease,6,27.6,141,242,4,13011,Transferred,0
+PT201800687,2018,65,Male,Central Anatolia,Public,Elective,Endocrinology,5,27.9,140,238,5,14146,Home,0
+PT202400688,2024,57,Female,Marmara,Public,Referral,Orthopedics,5,25.3,NA,213,5,18937,Home,0
+PT202200689,2022,53,Male,Southeastern Anatolia,Public,Urgent,Neurology,5,24.9,124,183,5,16978,Home,0
+PT202400690,2024,66,Male,Marmara,Private,Elective,Nephrology,4,30.7,148,201,3,21006,Home,0
+PT201900691,2019,33,Male,Mediterranean,Public,Referral,Orthopedics,3,22.6,102,142,3,10372,Home,0
+PT202400692,2024,59,Female,Central Anatolia,Public,Elective,Respiratory,3,27.1,147,224,2,13443,Transferred,1
+PT202400693,2024,27,Female,Aegean,Public,Emergency,Orthopedics,1,24.2,110,162,3,15112,Home,0
+PT201800694,2018,NA,Female,Eastern Anatolia,Public,Urgent,Nephrology,6,24.0,136,210,5,18743,Transferred,1
+PT202300695,2023,64,Female,Marmara,Public,Emergency,Nephrology,6,19.1,164,177,6,27461,Deceased,0
+PT201800696,2018,63,Female,Eastern Anatolia,Public,Emergency,Nephrology,6,29.6,147,232,6,19998,Transferred,1
+PT202200697,2022,49,Female,Southeastern Anatolia,Public,Elective,Respiratory,6,24.7,121,203,4,19532,Home,0
+PT202000698,2020,95,Female,Eastern Anatolia,Private,Emergency,Cardiology,6,30.3,171,219,6,24831,Transferred,1
+PT202400699,2024,66,Female,Aegean,Public,Elective,Neurology,5,28.7,129,245,4,15750,Home,0
+PT202100700,2021,74,Male,Marmara,Private,Referral,Oncology,5,23.3,146,183,5,23756,Transferred,0
+PT202400701,2024,46,Male,Black Sea,Public,Referral,Nephrology,1,22.3,126,176,4,21070,Home,0
+PT202100702,2021,46,Female,Black Sea,Public,Emergency,Endocrinology,6,28.6,110,237,4,11206,Home,0
+PT201800703,2018,58,Female,Central Anatolia ,Public,Emergency,Endocrinology,5,25.2,123,215,6,17408,Transferred,0
+PT202200704,2022,42,Female,Central Anatolia,Public,Elective,Endocrinology,6,23.3,125,221,4,16384,Deceased,0
+PT201900705,2019,54,Male,Aegean,Uninsured,Emergency,Infectious Disease,5,23.8,108,163,7,25113,Transferred,1
+PT202000706,2020,58,Female,Central Anatolia,Public,Elective,Endocrinology,6,NA,156,213,5,16856,Deceased,0
+PT202200707,2022,42,Male,Black Sea,Public,Emergency,Cardiology,3,26.2,131,174,3,13708,Home,0
+PT202200708,2022,62,Male,Central Anatolia, Public,Elective,Nephrology,4,29.0,150,229,4,13875,Home,0
+PT202300709,2023,75,Female,Central Anatolia,Public,Urgent,Nephrology,6,25.7,161,220,8,28317,Transferred,0
+PT202000710,2020,57,Female,Aegean,Public,Elective,Respiratory,4,26.8,123,223,3,11890,Hom?,0
+PT202000711,2020,36,Male,Mediterranean,Private,Referral,Neurology,4,23.1,112,155,4,17551,Transferred,0
+PT202400712,2024,22,Female,Marmara,Uninsured,Elective,Endocrinology,3,29.5,106,160,2,14002,Home,0
+PT202100713,2021,62,Male,Central Anatolia,Private,Emergency,Endocrinology,6,28.3,139,232,3,13110,Deceased,0
+PT201900714,2019,60,Male,Aegean,Public,Emergency,Cardiology,3,25.3,137,278,6,19011,Deceased,0
+PT202100715,2021,33,Male,Aegean,NA,Emergency,Cardiology,1,30.2,110,216,5,16007,Home,0
+PT202100716,2021,64,Female,Mediterranean,Public,Emergency,Orthopedics,3,24.5,103,197,6,18004,Deceased,0
+PT202000717,2020,89,Male,Marmara,Public,Emergency,Endocrinology,7,31.4,161,228,9,23198,Deceased,0
+PT202200718,2022,79,Male,Mediterranean,Public,Urgent,Endocrinology,8,25.0,157,199,5,17547,Deceased,0
+PT202100719,2021,43,Female,Aegean,Private,Urgent,Cardiology,4,23.7,108,216,4,19361,Transferred,0
+PT201900720,2019,73,Female,NA,Public,Emergency,Endocrinology,6,28.8,149,238,5,14023,Transferred,0
+PT202100721,2021,49,Female,Southeastern Anatolia,Private,Emergency,Nephrology,5,26.5,147,205,5,22907,Deceased,0
+PT202000722,2020,69,Female,Mediterranean,Public,Referral,Orthopedics,4,22.5,122,184,7,20464,Home,1
+PT201800723,2018,73,Male,Central Anatolia,Public,Referral,Endocrinology,4,29.6,150,293,6,12866,Deceased,0
+PT201900724,2019,62,Male,Black Sea,Public,Urgent,Oncology,7,29.3,150,228,8,24156,Transferred,1
+PT202200725,2022,56,Female,Marmara,Public,Emergency,Respiratory,7,24.6,127,201,5,18377,Home,0
+PT202000726,2020,42,Female,Mediterranean,Public,Elective,Neurology,5,25.6,120,150,1,8910,Transferred,1
+PT202400727,2024,59,Female,Black Sea,Public,Elective,Respiratory,4,21.9,111,197,NA,9564,Deceased,0
+PT202200728,2022,49,Male,Southeastern Anatolia,Public,Referral,Cardiology,6,23.9,117,180,5,15685,Transferred,0
+PT201800729,2018,74,Male,Marmara,Public,Elective,Cardiology,4,22.4,143,190,6,18567,Home,1
+PT202100730,2021,87,Female,Mediterranean,Public,Emergency,Cardiology,6,22.1,144,206,6,23389,Transferred,0
+PT202200731,2022,44,Female,Marmara,Public,Urgent,Cardiology,4,24.9,118,216,6,24316,Transferred,0
+PT202100732,2021,47,Female,Aegean,Uninsured,Urgent,Endocrinology,7,25.8,126,203,6,24339,Home,1
+PT201800733,NA,37,Female,Southeastern Anatolia,Public,Emergency,Oncology,5,22.1,125,169,6,19230,Deceased,0
+PT202000734,2020,54,Female,Aegean,Private,Emergency,Cardiology,7,23.7,149,157,6,22341,Transferre?,1
+PT201800735,2018,33,Male,Eastern Anatolia,Private,Emergency,Nephrology,4,26.0,126,154,5,18267,Home,0
+PT201800736,2018,57,Male,Aegean,Private,Referral,Endocrinology,6,24.1,132,161,4,13693,Transferred,0
+PT202000737,2020,95,Male,Central Anatolia,Private,Emergency,Endocrinology,9,26.6,NA,241,4,15444,Deceased,0
+PT202100738,2021,62,Male,Aegean,Public,Elective,NA,5,24.5,150,182,3,8888,Transferred,0
+PT202200739,2022,51,Male,Eastern Anatolia,Public,Elective,Orthopedics,2,26.6,123,169,2,13665,Home,NA
+PT201900740,2019,37,Female,Aegean,Public,Referral,Infectious Disease,2,26.9,125,185,4,8825,Home,1
+PT202000741,2020,79,Female,Black Sea,Public,Elective*,Infectious Disease,4,26.6,128,215,4,12340,Transferred,1
+PT202400742,2024,46,Female,Southeastern Anatolia,Private,Referral,Oncology,NA,19.9,114,123,2,20417,Home,0
+PT202100743,2021,69,Male,Aegean,Public,Referral,Oncology,10,28.7,151,212,8,32242,Transferred,0
+PT201900744,2019,60,Female,Central Anatolia,Public,Elective ,Cardiology,6,24.2,141,187,3,15159,Home,0
+PT202100745,2021,51,Female,Eastern Anatolia,Public,Elective,Oncology,7,23.7,139,182,5,24134,Deceased,0
+PT201800746,2018,74,Female,Marmara,Public,Emergency,Nephrology,3,26.5,138,210,6,14618,Transferred,0
+PT202100747,2021,25,Male,Marmara,Public,Referral,Nephrology,3,26.2,130,194,4,18232,Deceased,0
+PT201800748,2018,43,Female,Southeastern Anatolia,Private,Referral,Oncology,4,26.5,113,154,3,17893,Home,1
+PT202300749,2023,48,Female,Central Anatolia,Public,Emergency,Neurology,4,23.4,114,155,4,14535,Home,0
+PT202000750,2020,58,Male,Central Anatolia,Private,Referral,Endocrinology,7,26.6,143,240,5,15870,Home,0
+PT202100751,2021,36,Male,Marmara,Uninsured,Emergency,Oncology,4,25.6,113,145,8,31987,Home,0
+PT202000752,2020,46,Male,Marmara,Uninsured,Urgent,Respiratory,4,20.1,123,176,NA,21450,Deceased,0
+PT201900753,2019,40,Male,Central Anatolia,Public,Elective,Infectious Disease,2,23.8,108,156,2,5078,Home,0
+PT202300754,2023,42,Male,Central Anatolia,Private,Emergency,Orthopedics,4,20.9,133,136,5,21794,Deceased,0
+PT201800755,2018,46,Female,Black Sea,Public,Urgent,Cardiology,4,24.4,143,223,4,15311,Transferred,1
+PT202200756,2022,27,Female,Black Sea,Public,Referral,Respiratory,1,21.2,102,158,3,14380,Home,0
+PT202000757,2020,44,Male,Southeastern Anatolia,public,Elective,Endocrinology,4,26.4,118,171,2,8895,Deceased,0
+PT201900758,2019,49,Female,Eastern Anatolia,Public ,Urgent,Nephrology,3,23.6,115,200,4,14447,Deceased,0
+PT202200759,2022,57,Female,Southeastern Anatolia,Public,Elective,Orthopedics,3,26.1,121,190,1,6130,Home,0
+PT202000760,2020,46,Female,Mediterranean,Public,Emergency,Cardiology,4,17.4,127,213,4,17739,Deceased,0
+PT202100761,2021,45,Male,Southeastern Anatolia,Public,Urgent,Oncology,2,27.6,131,187,4,16546,Deceased,0
+PT202200762,2022,35,Female,Marmara,Uninsured,Emergency,Orthopedics,4,21.3,125,171,3,19337,Home,0
+PT202100763,2021,51,Female,Black Sea,Private,Referral,Infectious Disease,4,31.7,134,193,7,21132,Deceased,0
+PT201800764,2018,41,Female,Black Sea,Public,Emergency,Respiratory,3,27.6,116,186,4,8866,Home,0
+PT202400765,2024,51,Male,Southeastern Anatolia,Public,Emergency,Nephrology,4,21.6,119,184,6,23538,Home,1
+PT202400766,2024,83,Female,Marmara,Public,Emergency,Endocrinology,8,25.4,139,245,6,19983,Transferred,0
+PT202200767,2022,85,Male,Eastern Anatolia,Public,Emergency,Infectious Disease,6,25.4,144,206,NA,22445,Transferred,0
+PT201900768,2019,30,Female,Central Anatolia,Private,Emergency,Cardiology,2,27.2,112,186,2,13347,Transferred ,1
+PT201800769,2018,91,male,Mediterranean,Public,Emergency,Nephrology,9,31.5,185,237,8,20428,NA,1
+PT202100770,2021,34,Female,Marmara,Uninsured,Emergency,Cardiology,5,25.3,130,229,6,23740,Home,0
+PT202200771,2022,60,female,Aegean,Public,Urgent,Cardiology,4,26.8,115,215,5,24379,Home,0
+PT202100772,2021,37,Male,Eastern Anatolia,Public,Urgent,Endocrinology,5,31.2,119,227,3,12066,Home,0
+PT202000773,2020,58,Male,Marmara,Private,NA,Cardiology,6,24.8,154,221,7,30380,Deceased,0
+PT202300774,2023,61,Male,Southeastern Anatolia,Public,Elective,Respiratory,5,NA,119,225,3,14139,Home,0
+PT201900775,2019,48,Female,Black Sea,Private,Urgent,Oncology,8,27.6,123,189,8,32380,Home,1
+PT201800776,2018,80,Female,Black Sea,NA,Referral,Neurology,7,28.0,154,214,5,15804,Transferred,1
+PT202200777,2022,77,Male,Central Anatolia,Public,Referral,Cardiology,5,22.9,147,237,4,15536,Deceased,0
+PT202400778,2024,39,Female,Marmara,Public,Emergency,Respiratory,2,21.0,110,200,5,18754,Home,0
+PT202000779,2020,38,Female,Central Anatolia,Private,Referral,Cardiology,4,26.9,127,205,5,22333,Home,0
+PT201900780,2019,40,Male,Mediterranean,Public,Referral,Endocrinology,5,25.6,130,172,3,9578,Transferred,1
+PT202400781,2024,18,Female,Central Anatolia,Public,Referral,Endocrinology,1,28.3,111,214,5,16081,Transferred,0
+PT202400782,2024,50,Female,Central Anatolia,Public,Emergency,Respiratory,3,21.4,104,182,5,15313,Deceased,0
+PT202000783,2020,65,Female,Southeastern Anatolia,Public,Urgent,Orthopedics,5,22.1,140,170,5,11527,Transferred,0
+PT202000784,2020,56,Male,Black Sea,Public,Emergency,Cardiology,7,28.4,148,219,5,20196,Home,0
+PT202400785,2024,18,Female,Central Anatolia,Public,Emergency,Orthopedics,3,22.7,96,177,4,14963,Home,0
+PT202400786,2024,27,Female,Central Anatolia,Public,Referral,Cardiology,3,30.4,131,NA,4,17203,Home,0
+PT202000787,2020,68,NA,Eastern Anatolia,Public,Emergency,Orthopedics,6,23.0,128,172,5,18397,Home,0
+PT202300788,2023,19,Female,Eastern Anatolia ,Public,Emergency,Orthopedics,3,28.4,115,188,5,19404,Home,0
+PT202000789,2020,75,Female,Eastern Anatolia,Public,Emergency,Cardiology,6,25.1,130,245,8,19834,Deceased,0
+PT201900790,2019,45,Male,Eastern Anatolia,Uninsured,Urgent,Endocrinology,3,24.5,125,169,5,15571,Transferred,0
+PT202400791,2024,64,Female,Mediterranean,Public,Emergency,Cardiology,6,30.4,158,228,5,20334,Deceased,0
+PT202400792,2024,54,Male, Southeastern Anatolia,Public,Emergency,Respiratory,4,21.0,139,205,5,18446,Home,0
+PT201900793,NA,44,Female,Aegean,Public,EMERGENCY,Respiratory,5,19.0,124,177,8,21038,Deceased,0
+PT202300794,2023,46,Female,Central Anatolia,Public,Urgent,Orthopedics,4,24.5,135,152,3,14128,Deceased,0
+PT202200795,2022,60,Male,Marmara,Private,Elective,Infectious Disease,NA,18.6,120,189,4,17939,Home,1
+PT202400796,2024,75,Female,Central Anatolia,Uninsured,Elective,Respiratory,7,24.2,138,203,5,25658,Deceased,0
+PT202200797,2022,51,Male,Central Anatolia,Private,Urgent,Endocrinology,7,28.7,117,169,4,18080,Home,1
+PT202400798,2024,47,Female,Mediterranean,Uninsured,Urgent,Nephrology,6,28.5,134,190,5,31778,Transferred,0
+PT202400799,2024,65,Male,Central Anatolia,Public,Urgent,Nephrology,6,28.9,156,182,7,28012,Deceased,0
+PT202300800,2023,44,Male,Marmara,Private,Emergency,Endocrinology,5,21.2,101,176,5,21300,Home,0
+PT202000801,2020,33,Female,Central Anatolia,Uninsured,Emergency,Neurology,5,23.6,110,182,7,27100,Home,1
+PT202000802,2020,45,Male,Aegean,Uninsured,Urgent,Orthopedics,3,25.8,131,181,4,20236,Deceased,0
+PT202200803,2022,77,Female,Aegean,Public,Emergency,Infectious Disease,7,26.5,116,172,9,26783,Transferred,0
+PT202000804,2020,41,Male,Eastern Anatolia,Private,Emergency,Respiratory,4,26.0,116,195,6,20407,Home,0
+PT202400805,2024,42,Male,Eastern Anatolia,Public,Emergency,Neurology,2,19.4,112,120,8,29080,Home,0
+PT201800806,2018,NA,Male,Aegean,Public,Elective,Oncology,5,24.3,110,171,4,16767,Home,1
+PT202400807,2024,56,Male,Mediterranean,Private,Referral,Respiratory,5,25.4,103,185,4,22005,Home,0
+PT202400808,2024,49,Male,Central Anatolia,Private,Emergency,Endocrinology,4,24.1,132,212,4,16890,Home,0
+PT202000809,2020,80,Male,Aegean,Uninsured,Emergency,Resp1ratory,8,27.4,134,205,7,22746,Home,1
+PT202400810,2024,38,Male,Central Anatolia,Private,Elective,Nephrology,4,21.7,128,162,3,22911,Deceased,0
+PT202200811,2022,35,Female,Eastern Anatolia,Private,Elective,Oncology,4,23.5,136,174,3,22771,Home,0
+PT202400812,2024,47,Male,Black Sea,Public,Emergency,Endocrinolog?,2,29.1,115,214,4,12829,Home,1
+PT202300813,2023,55,MALE,Marmara,Public,Emergency,Nephrology,6,31.1,137,258,7,26438,Transferred,0
+PT202100814,2021,64,Female,Aegean,Public,Emergency,Neurology,7,27.5,147,168,7,25504,Deceased,0
+PT202100815,2021,22,Female,Mediterranean,Public,Emergency,Cardiology,2,24.2,114,220,NA,20653,Transferred,1
+PT202000816,2020,62,Female,Marmara,Private,Elective,Cardiology,4,25.2,128,223,3,15189,Home,0
+PT201900817,2019,35,Male,Central Anat0lia,Public,Elective,Nephrology,3,27.3,120,206,2,15568,NA,0
+PT202400818,2024,58,Female,Aegean,Private,Emergency,Neurology,5,21.1,133,210,3,21109,Home,0
+PT202200819,2022,66,Female,Marmara,Public,Emergency,Infectious Disease,5,20.4,127,183,4,20315,Home,1
+PT202200820,2022,69,Female,Marmara,Private,Referral,Respiratory,6,19.6,141,179,7,26455,Transferred,1
+PT202000821,2020,76,Female,Black Sea,Public,Emergency,Endocrinology,6,27.9,143,212,6,15908,Transferred,0
+PT202100822,2021,28,Male,Marmara,Private,Emergency ,Nephrology,3,24.5,114,206,5,22975,Transferred,0
+PT201900823,2019,56,Female,Central Anatolia,Private,Elective,Neurology,NA,27.9,108,204,3,17043,Deceased,0
+PT202000824,2020,39,Female,Marmara,Public,Elective,Cardiology,4,18.1,134,189,3,17234,Home,0
+PT201800825,2018,47,Female,Mediterranean,Public,Referral,Neurology,3,26.9,118,195,3,11608,Deceased,0
+PT202100826,2021,52,Female,Central Anatolia,Public,Urgent,Infectious Disease,6,26.6,125,179,4,10266,Transferred,0
+PT202400827,2024,69,Male,Black Sea,Public,Elective,Endocrinology,7,32.0,156,225,3,20054,Transferred,1
+PT202000828,2020,69,Male,Southeastern Anatolia,Public,Elective,Endocrinology,6,29.3,132,251,3,15496,Home,0
+PT202000829,2020,34,Male,Central Anatolia,Uninsured,Emergency,Neurology,4,21.3,103,150,3,16331,Home,0
+PT201800830,2018,39,Female,Marmara, Public,Referral,Oncology,5,25.0,107,222,5,20257,Home,1
+PT202400831,2024,23,Female,Black Sea,Public,Emergency,Oncology,2,21.3,115,NA,5,24849,Home,0
+PT202400832,2024,20,Female,Central Anatolia,Uninsured,Elective,Respiratory,2,23.1,91,160,3,14944,Home,0
+PT202200833,2022,84,Female,Black Sea,Uninsured,Emergency,Oncology,6,29.4,127,179,8,39086,Transferred,0
+PT202400834,2024,33,Female ,Eastern Anatolia,Public,Referral,Endocrinology,8,28.1,128,220,3,17616,Transferred,0
+PT201900835,2019,41,Female,Black Sea,Public,Emergency,Cardiology,6,23.2,134,198,5,17723,Transferred,1
+PT201800836,NA,29,Male,Black Sea,NA,Emergency,Endocrinology,4,29.2,NA,231,5,14959,Home,0
+PT202300837,2023,34,Female,Southeastern Anatolia,Private,Emergency,Oncology,1,25.6,106,198,4,26639,Deceased,0
+PT202400838,2024,26,Male,Marmara,Public,Elective,Cardiology,3,28.2,108,184,3,15260,Transferred,0
+PT202100839,2021,60,Female,Central Anatolia,Public,Urgent,Endocrinology,6,30.0,132,220,4,17266,Home,1
+PT202100840,2021,57,Male,Aegean,Public,Emergency,Respiratory,4,20.6,126,221,3,14141,Home,0
+PT201800841,2018,33,Female,Aegean,Public,Elective,Endocrinology,4,24.4,101,194,1,8010,Home,0
+PT202000842,2020,18,Female,Mediterranean,Public,Elective,Respiratory,3,23.0,113,159,2,7669,Home,0
+PT201800843,2018,91,Female,Central Anatolia,Public,Emergency,Infectious Disease,7,23.4,148,202,7,15249,NA,0
+PT201800844,2018,NA,Female,Eastern Anatolia,Uninsured,Referral,Cardiology,5,NA,134,221,4,17368,Transferred,0
+PT201800845,2018,18,Male,Central Anatolia,Public,Referral,Cardiology,5,21.0,100,146,3,14675,Home,0
+PT202200846,2022,76,Male,Marmara,Public,Urgent,Orthopedics,4,30.2,137,219,7,19880,Deceased,0
+PT202300847,2023,40,Female,Southeastern Anatolia,Public,Elective,Respiratory,3,25.3,92,196,3,15090,Home,0
+PT202400848,2024,37,Male,Central Anatolia,Public,Emergency,Respiratory,4,22.2,122,180,4,15226,Deceased,0
+PT202400849,2024,48,Female,Mediterranean,Uninsured,Urgent,Neurology,4,28.6,122,222,6,24627,Deceased,0
+PT202100850,2021,34,Male,Southeastern Anatolia,Public,Emergency,Oncology,6,18.7,120,148,7,24658,Home,0
+PT202200851,2022,95,Male,Southeastern Anatol1a,Public,Elective,Endocrinology,9,26.6,153,213,4,15035,Transferred,0
+PT202100852,2021,61,Female,Marmara,Public,Emergency,Infectious Disease,6,24.6,132,213,6,18372,Deceased,0
+PT201800853,2018,34,Male,Marmara,Public,Elective,Cardiology,5,23.8,123,213,3,11881,Home,0
+PT202000854,2020,52,Male,Marmara,Public,Elective,Cardiology,5,23.8,131,174,5,23726,Transferred,0
+PT202400855,2024,68,Female,Black Sea,Uninsured,Elective,Nephrology,7,25.6,150,222,2,24781,Deceased,0
+PT202000856,2020,70,Male,Southeastern Anatolia,Private,Urgent,Endocrinology,8,28.7,142,215,7,25399,Deceased,0
+PT202100857,2021,51,Female,Aegean,Public,Elective,Cardiology,3,26.8,135,274,4,17182,Home,1
+PT202100858,2021,44,Female,Mediterranean,Public,Elective,Cardiology,6,25.9,138,199,3,14867,Home,0
+PT202300859,2023,30,Male,Aegean,Publ1c,Emergency,Cardiology,4,23.5,104,169,5,21401,Home,0
+PT202200860,2022,48,Male,Marmara,Public,Referral,Cardiology,6,27.2,135,216,6,21851,Deceased,0
+PT202000861,2020,43,Female,Mediterranean,Public,Elective,Cardiology,5,24.9,129,191,3,16525,Home,1
+PT202100862,2021,66,Female,Eastern Anatolia,Public,Emergency,Nephrology,9,25.7,152,183,8,28041,Transferred,1
+PT202200863,2022,67,Male,Marmara,Public,Emergency,Nephrology,6,26.1,149,243,6,24549,Home,0
+PT202100864,2021,64,Male,Mediterranean,Private,Elective,Respiratory,5,26.7,121,218,2,11412,Deceased,0
+PT202000865,2020,55,Male,Southeastern Anatolia,Public,Elective,Cardiology,6,26.2,160,169,5,15161,Transferred,0
+PT202100866,2021,85,Male,Southeastern Anatolia,Uninsured,Urgent,Cardiology,7,24.1,146,231,7,32039,Transferred,0
+PT202400867,2024,74,Female,Southeastern Anatolia,Private,Elective,Infectious Disease,4,26.4,139,235,6,24171,Deceased,0
+PT202000868,2020,21,Female,Black Sea,Public,Elective,Endocr1nology,4,24.1,113,189,2,9443,Home,0
+PT202100869,2021,66,Male,Aegean,Public,Urgent,Infectious Disease,4,18.5,128,201,4,15373,Deceased,0
+PT202200870,2022,50,Male,Black Sea,Public,Elective,Oncology,5,18.4,110,178,4,22837,Transferred,0
+PT202000871,2020,33,Female,Southeastern Anatolia,Public,Referral,Oncology,8,24.9,120,151,4,24190,Deceased,0
+PT201800872,2018,65,Male,NA,Public,Urgent,Endocrinology,6,28.1,144,238,5,14080,Deceased,0
+PT202100873,2021,41,Female,Marmara,Private,Emergency,Endocrinology,7,27.6,133,172,4,16791,Transferred,1
+PT202100874,2021,69,Female,Black Sea,Public,Elective,Neurology,4,24.6,135,228,3,15458,Home,1
+PT201800875,2018,69,Female,Central Anatolia,Private,Referral,Oncology,5,26.3,135,215,6,21411,Transferred,0
+PT202200876,2022,NA, Female,Black Sea,Public,Referral,Orthopedics,1,28.6,113,219,2,11334,Home,0
+PT202400877,2024,71,Female,Black Sea,Private,Referral ,Neurology,4,27.6,133,197,5,23544,Home,1
+PT201900878,2019,68,Male,Aegean,Private,Elective,Cardiology,5,22.2,142,200,5,21083,Transferred,1
+PT201800879,2018,71,Female,Central Anatolia,Public,Referral,Respiratory,6,19.0,126,202,6,16090,Home,0
+PT202300880,2023,21,Female,NA,Publi?,Emergency,Infectious Disease,2,23.6,107,175,5,15427,Home,0
+PT202000881,2020,50,Male,Marmara,Public,Urgent,Nephrology,6,27.6,101,209,6,24025,Home,0
+PT201800882,2018,60,Male,Southeastern Anatolia,Public,Referral,Cardiology,4,23.2,136,211,4,13503,Deceased,0
+PT202300883,2023,45,Male,Eastern Anatolia,Private,Urgent,Oncology,5,22.8,125,181,4,25859,Home,0
+PT202300884,2023,43,Female,Mediterranean,Private,Elective,Orthopedics,3,28.2,133,151,2,15006,Home,1
+PT202200885,2022,57,Female,Marmara,Uninsured,Urgent,Cardiolog?,6,27.5,129,199,6,26263,Deceased,0
+PT201900886,2019,21,Female,Mediterranean,Public,Emergency,Nephrology*,2,25.1,114,173,5,15959,Transferred,0
+PT202300887,2023,60,Male,Marmara,Private,Elective,Respiratory,6,23.6,136,235,2,15897,Deceased,0
+PT202300888,2023,44,Male,Eastern Anatolia,Publi?,Elective,Endocrinology,6,32.2,120,222,3,14807,Home,0
+PT202200889,2022,18,Male,Central Anatolia,Public,Emergency,Oncology,4,18.0,106,127,5,19206,Home,0
+PT201800890,2018,36,Male,Black Sea,Uninsured,Emergency, Orthopedics,3,24.9,121,172,5,16559,Home,1
+PT202300891,2023,52,Female,Aegean,Public,Elective,Respiratory,4,21.4,96,176,3,14776,Home,0
+PT201800892,2018,59,Female,Eastern Anatolia,Uninsured,Referra?,Endocrinology,3,25.2,114,213,4,11477,Home,0
+PT202300893,2023,58,Male,Black Sea,Public,Referral,Respiratory,6,26.2,134,203,5,13848,NA,0
+PT202100894,2021,38,Female,Southeastern Anatolia,Public,Referral,Respiratory,5,26.6,126,197,4,11445,Transferred,0
+PT201900895,2019,38,Male,Aegean,Public,Emergency,Infectious Disease,3,20.6,108,181,4,10427,Home,NA
+PT201800896,2018,83,Female,Marmara,Public,Emergency,Cardiology,4,27.7,160,254,7,14877,Transferred,1
+PT201800897,2018,26,Female,Marmara,Public,Emergency,Cardiology,3,26.9,124,194,7,18266,Home,0
+PT201900898,2019,36,Female,Eastern Anatolia,Private,Emergency,Oncology,7,21.2,NA,174,7,29028,Home,0
+PT201900899,2019,61,Male,Aegean,Uninsured,Elective,Cardiology,6,23.1,140,251,4,19049,Transferred,0
+PT201900900,2019,28,Female,Eastern Anatolia,Uninsured,Emergency,Oncology,4,20.5,111,126,7,30557,Home,0
+PT202200901,2022,62,Male,Marmara,Public,Elective,Neurology,5,26.3,122,NA,4,18659,NA,1
+PT202300902,2023,55,Male,Black Sea,Public,Elective,Neurology,3,25.8,124,168,4,15731,Transferred,0
+PT201800903,2018,63,Male,Marmara,Public,Emergency,Orthopedics,4,24.4,119,191,5,9255,Deceased,0
+PT202100904,2021,52,Female,Marmara,Public,Referral,Endocrinology,4,32.1,126,202,4,13084,Home,0
+PT202400905,2024,18,Male,Black Sea,Private,Emergency,Oncology,4,25.7,102,173,8,34784,Home,0
+PT202000906,2020,55,Female,Marmara,Private,Elective,Endocrinology,3,26.0,116,218,3,9731,Home,0
+PT202200907,2022,55,Male,Southeastern Anatolia,Public,Referral,Orthopedics,4,24.0,132,141,4,13068,Transferred,0
+PT202300908,2023,72,Female,Black Sea,PUBLIC,Emergency,Endocrinology,6,28.5,136,218,5,16870,Transferred,1
+PT202200909,2022,33,Male,Aegean,Public,Emergency,Orthopedics,3,20.0,132,145,2,8464,NA,0
+PT201800910,2018,36,Female,Marmara,Public,Referral,Endocrinology,4,23.0,132,195,5,10423,Transferred,1
+PT202000911,2020,37,Male,Southeastern Anatolia,Public,Elective,Endocrinology,2,21.4,NA,211,3,9670,Home,0
+PT201900912,2019,29,Male,Eastern Anatolia,Public,Urgent,0nc0l0gy,7,21.7,112,147,7,25059,Home,1
+PT202400913,2024,66,Female,Marmara,Public,Elective,Orthopedics,3,29.1,117,216,4,14481,Transferred,0
+PT202200914,2022,25,Male,Central Anatolia,Public,Referral,Neurology,4,22.3,115,133,3,14799,Home,0
+PT202200915,2022,63,Male,Southeastern Anatolia,Public,Urgent,Cardiology,6,26.0,139,213,4,15637, Home,1
+PT202300916,2023,67,Male,Aegean,Public,Emergency,Neurology,6,25.4,138,220,5,18805,Home,1
+PT202300917,2023,62,Male,Black Sea,Private,Emergency,Orthopedics,5,23.1,116,NA,5,21312,Transferred,0
+PT201900918,2019,31,Male,Central Anatolia,Public,Elective,Cardiology,4,28.3,119,177,1,11604,Transferred,0
+PT202300919,2023,72,Male,Black Sea,Public,Emergency,Cardiology,6,21.9,133,168,8,23613,Transferred,1
+PT202400920,2024,71,Male,Marmara,Public,Elective,Cardiology,6,21.4,129,200,3,19029,Deceased,0
+PT202200921,2022,88,Male,Central Anatolia,Uninsured,Urgent,Respiratory,5,27.8,161,246,8,30517,Transferred,1
+PT202000922,2020,52,Female,Black Sea,Private,Emergency,Neurology,4,26.1,130,191,3,12177,Home,1
+PT202100923,2021,32,Male,Southeastern Anatolia,Public,Elective,Nephrology,4,22.8,122,236,3,11888,Transferred,0
+PT202100924,2021,41,Male,Aegean,Private,Elective,Neurology,7,18.2,117,194,4,16026,Deceased,0
+PT201900925,2019,35,Female,Black Sea,Private,Referral,Neurology,2,24.7,123,186,5,16284,Deceased,0
+PT201900926,2019,48,Male,Aegean,Private,Elective,Nephrology,6,27.7,151,181,5,20540,Deceased,0
+PT202200927,2022,44,Male,Southeastern Anatolia,Uninsured,Emergency,Cardiology ,5,23.2,116,213,8,31368,Transferred,0
+PT202100928,2021,61,Female,Eastern Anatolia,Public,Emergency,Neurology,4,27.4,126,238,7,21914,Home,0
+PT202400929,2024,46,Female,Central Anatolia,Private,Emergency,Neurology,3,26.7,127,NA,8,27007,Home,1
+PT202300930,2023,48,Female,Marmara,Public,Emergency,Respiratory,5,21.3,110,222,6,17334,Deceased,0
+PT202200931,2022,56,Female,Central Anatolia,Public,Elective,Oncology,5,21.2,143,144,5,23258,Home,1
+PT201900932,2019,36,Female,EasternAnatolia,Public,Emergency,Respiratory,NA,19.4,114,168,8,16290,Home,1
+PT202400933,2024,60,Male,Marmara,Public,Elective,Infectious Disease,3,26.0,126,190,4,14875,Home,1
+PT202300934,2023,79,Male,Mediterranean,Uninsured,Referral,Infectious Disease,6,24.8,139,203,7,23850,Deceased,0
+PT201900935,2019,55,Male,Marmara,Private,Elective,Cardiology,2,20.2,134,201,4,16710,Deceased,0
+PT202000936,2020,59,Male,Marmara,Private,Emergency,Endocrinology,6,29.2,140,238,7,21528,Home,0
+PT202400937,2024,37,Male,Aegean,Private,Emergency,Endocrinology,4,26.5,135,180,2,14709,Home,1
+PT202400938,2024,18,Female,Eastern Anatolia,Public,Emergency,Cardiology,3,25.5,111,158,3,16937,Home,0
+PT201900939,2019,49,Male,Southeastern Anatolia,Public,Referral,Oncology,7,22.9,134,174,6,24218,Home,0
+PT202000940,2020,81,Female,Eastern Anatolia,Public,Urgent,Oncology,7,20.5,131,200,5,23885,Transferred,1
+PT202400941,2024,23,Female,Marmara,Private,Referral,Orthopedics,0,NA,115,178,3,12957,Home,0
+PT201800942,2018,55,Female,Marmara,Public,Elective,Respiratory,4,21.8,123,171,3,5874,Deceased,0
+PT201900943,2019,64,Male,Marmara,Public,Referral,Endocrinology,6,31.6,140,215,5,11389,Transferred,1
+PT202300944,2023,18,Female,Marmara,Public,Emergency,NA,2,24.3,101,186,4,15344,Home,0
+PT202300945,2023,43,Male,Aegean,Public,Emergency,Nephrology,5,23.1,136,203,5,18243,Home,1
+PT202100946,2021,46,Female,Mediterranean,Public,Elective,Oncology,6,23.0,140,165,4,19844,Home,0
+PT201900947,2019,NA,Female,Central Anatolia,Public,Emergency,Endocrinology,5,23.3,147,221,4,9929,Transferred,0
+PT201900948,2019,18,Female,Aegean,Public,Urgent,Cardiology,2,20.7,98,178,5,14207,Home,0
+PT202400949,2024,43,Female,Marmara,Public,Emergency,Cardiology,4,26.3,126,202,5,25234,Transferred ,0
+PT202000950,2020,52,Male,Marmara,Public,Emergency,Endocrinology,5,27.1,125,209,5,17538,Deceased,0
+PT202000951,2020,NA,Male,Central Anatolia,Public,Emergency,Cardiology,5,21.8,133,144,7,18543,Deceased,0
+PT201900952,2019,63,Female,Central Anatolia,Public,Elective,Neurology,5,23.4,144,224,4,13038,Deceased,0
+PT202200953,2022,35,Male,Marmara,Private,Referral,Respiratory,2,25.4,117,152,3,12107,Home,0
+PT202100954,2021,49,Female,Central Anatolia,Public,Emergency,Neurology,4,20.7,117,200,6,20707,Home,0
+PT202400955,2024,70,Male,Eastern Anatolia,Public,Elective,Oncology,7,22.6,134,158,5,26376,Home,0
+PT201800956,2018,44,Female,Central Anatolia,Private,Emergency,Nephrology,3,24.4,109,204,6,19801,Deceased,0
+PT202400957,2024,58,Male,Southeastern Anatolia,Public,Referral,Cardiology,4,23.8,110,194,5,17964,Home,0
+PT201800958,2018,51,Female,Central Anatolia,Public,Elective,Nephrology,6,22.9,107,189,5,17743,DECEASED,0
+PT201900959,2019,40,Female,Southeastern Anatolia,Public,Elective,Neurology,4,20.5,102,171,1,11242,Home,0
+PT202000960,2020,42,Female,Aegean,Private,Emergency,Cardiology,4,23.0,138,208,6,22511,Home,0
+PT202200961,2022,50,Female,Aegean,Public,Emergency,Neurology,3,NA,129,193,5,17033,Home,0
+PT201900962,2019,87,Female,Marmara,Private,Urgent,Respiratory,4,24.0,162,245,5,18680,Transferred,1
+PT202200963,2022,51,Male,Central Anatolia,NA,Emergency,Endocrinology,6,25.0,115,198,5,15615,Home,1
+PT202400964,2024,38,Male,Central Anatolia,Private,Referral,Respiratory,4,24.6,116,164,5,17697,Home,0
+PT202200965,2022,54,Female,Central Anatolia,Public,Emergency,Respiratory,4,27.8,131,182,6,19682,NA,1
+PT201800966,2018,79,Male,Marmara,Public,Elective,Respiratory,3,27.4,134,202,3,6050,Home,0
+PT202400967,2024,63,Male,Marmara,Public,Emergency,Orthopedics,2,25.7,116,146,NA,16113,Deceased,0
+PT202000968,2020,32,Female,Aegean,Public*,Elective,Respiratory,3,21.9,108,186,3,8271,Home,0
+PT202400969,2024,41,Female,Aegean,Private,Emergency,Endocrinology,5,26.6,123,190,3,15796,Home,0
+PT201900970,2019,41,Female,Central Anatolia,Private,Emergency,Orthopedics,3,23.4,111,177,4,16504,Home,1
+PT201900971,2019,67,Male,Aegean,Public,Urgent,Nephrology,6,27.8,NA,198,5,15876,Deceased,0
+PT201800972,2018,24,Male,Marmara,Public,Referral,Respiratory,2,21.1,100,126,1,10331,Home,0
+PT201800973,2018,76,Female,Central Anatolia,Private,Referral,Cardiology,6,27.1,143,221,6,21456,Deceased,0
+PT201800974,2018,53,Female,Marmara,Public,Emergency,Respiratory,4,25.5,120,181,5,12192,Home,0
+PT202200975,2022,45,Female,Marmara,Public,Urgent,Neurology,3,26.2,139,209,5,15382,Transferred,0
+PT202400976,2024,46,Female,Mediterranean,Uninsured,Elective,Infectious Disease,3,27.2,114,205,3,18215,Home,0
+PT201900977,2019,59,Female,Eastern Anatolia,Public,Emergency,Neurology,4,29.4,133,189,5,11379,Home,0
+PT202200978,2022,74,Male,Central Anatolia,Public,Emergency,NA,5,25.3,162,196,6,22381,Deceased,0
+PT202000979,2020,42,Male,Marmara,Private,Emergency,Cardiology,4,27.9,121,226,5,20847,Transferred,1
+PT202200980,2022,84,Male,Aegean,Public,Referral,Oncology,9,30.5,168,247,7,28906,Deceased,0
+PT201900981,2019,35,Female,Black Sea,Public,Emergency,Nephrology,3,20.8,127,164,5,15977,Transferred,0
+PT202000982,2020,53,Male,Black Sea,Public,Urgent,Respirat0ry,5,27.2,135,231,4,11346,Deceased,0
+PT201900983,2019,38,Male,Southeastern Anatolia,Private,Emergency,Cardiology,5,29.3,115,177,5,23583,Transferred,0
+PT202400984,2024,82,Female,Aegean,Public,Elective,Orthopedics,3,24.7,147,206,5,21315,Transferred,1
+PT201800985,2018,50,Male,Mediterranean,Public,Elective,Endocrinology,3,22.5,127,209,3,8971,NA,0
+PT201800986,2018,78,Female,Marmara,Private,Urgent,Endocrinology,7,25.7,150,220,6,23075,Deceased,0
+PT201800987,2018,68,Male,Eastern Anatolia,Public,Emergency,Neurology,6,26.5,116,177,6,17760,Transferred,0
+PT202000988,2020,42,Male,Southeastern Anatolia,NA,Emergency,Orthopedics,2,26.2,103,217,6,11790,Home,1
+PT202200989,2022,28,Female,Marmara,Public,Elective,Respiratory,NA,25.2,105,169,1,7331,Home,0
+PT201800990,2018,27,Male,Eastern Anatolia,Private,Referral,Neurology,1,22.3,91,158,2,12058,Home,0
+PT201900991,2019,35,Male,Southeastern Anatolia,Private,Emergency,Endocrinology,4,27.9,124,205,5,14152,Home,0
+PT202400992,2024,37,Female,Southeastern Anatolia,Public,Urgent,Infectious Disease,3,24.0,96,157,6,20664,Transferred,0
+PT201900993,2019,63,Male,Marmara,Public,Referral,Neurology,5,24.8,131,236,5,NA,Home,1
+PT202400994,2024,81,Female,Eastern Anatolia,Public,Referral,Infectious Disease,7,25.1,141,204,8,26620,Deceased,0
+PT202300995,2023,67,Male,Eastern Anatolia,Public,Emergency,Cardiology,6,28.4,156,211,6,23809,Deceased,0
+PT202300996,2023,62,Male,Marmara,Private,Emergency,Endocrinology,7,24.0,129,244,7,23048,Home,1
+PT202400997,2024,72,Male,Black Sea,Public,Referral,Endocrinology,7,32.4,139,233,4,17821,Transferred,0
+PT202000998,2020,59,Female,Central Anatolia,Public,Emergency,Respiratory,2,31.3,118,238,6,8679,Home,0
+PT202300999,2023,35,Female,Central Anatolia,Public,Emergency,Neurology,3,26.3,113,197,5,19080,Home,0
+PT201801000,2018,67,Male,Mediterranean,Public,Urgent,Orthopedics,3,26.7,144,218,6,12047,Deceased,0
+PT202101001,2021,54,Male,Southeastern Anatolia,Public,Emergency,Oncology,4,25.0,118,194,6,22689,Deceased,0
+PT201901002,2019,56,Male,Marmara,Public,Referral,Orthopedics,4,22.9,139,190,3,14182,Home,0
+PT201801003,2018,44,Female,Aegean,Public,Emergency,Infectious Disease,1,26.4,112,205,5,NA,Transferred,0
+PT202101004,2021,60,NA,Black Sea,Private,Emergency,Nephrology,6,29.9,128,240,5,25862,Home,1
+PT202301005,2023,43,Male,Eastern Anatolia,Uninsured,Emergency,Nephrology,7,23.0,117,177,3,25071,Transferred,0
+PT201901006,2019,59,Female,Mediterranean,Public,Urgent,Infectious Disease,5,21.4,131,162,5,12550,Transferred,1
+PT202001007,2020,53,Female,Central Anatolia,Private,Emergency,Infectious Disease,4,21.2,121,156,4,15858,Home,1
+PT202301008,2023,18,Male,Black Sea,Private,Referral,Orthopedics,1,25.1,101,139,4,18706,Home,1
+PT202301009,2023,65,Male,Aegean,Public,Emergency,Cardiology,6,24.1,139,157,10,36999,Deceased,NA
+PT201801010,2018,54,Male,Mediterranean,Private,Urgent,Respiratory,5,22.6,140,236,5,13416,Deceased,0
+PT202101011,2021,59,Male,Mediterranean,Public,Urgent,Respiratory,3,27.8,132,244,4,13196,Transferred,0
+PT201901012,2019,74,Female,Central Anatolia,Public,Emergency,Infectious Disease,5,23.9,126,215,6,16528,Deceased,0
+PT202001013,2020,46,Male,Marmara,public,Elective,Endocrinology,4,24.5,141,210,3,9256,Home,0
+PT202201014,2022,54,Female,Aegean,Public,Urgent,Neurology,4,26.5,124,209,6,19513,Home,0
+PT202401015,2024,45,Female,Black Sea,Public,Elective,Respiratory,4,28.2,135,210,1,6011,Home,0
+PT201901016,2019,55,Female,Central Anatolia,Public,Elective,Nephrology,5,21.3,137,159,4,16797,Home,1
+PT201901017,2019,40,Male,Aegean,Public,Emergency,Neurology,4,23.9,122,185,4,14449,Transferred,0
+PT202001018,2020,23,Male,Marmara,Public,Urgent,Respiratory,5,20.3,109,168,4,8956,Home,0
+PT202001019,2020,50,Male,Mediterranean,Public,Emergency,Neurology,3,25.8,121,187,6,15429,Home,1
+PT202201020,2022,42,Female,Eastern Anatolia,Private,Elective,Cardiology,4,22.7,124,172,3,17197,Home,0
+PT202201021,2022,72,Female,Central Anatolia,Public,Elective,Endocrinology,7,22.8,128,196,3,16254,Deceased,0
+PT202401022,2024,80,Male,Marmara,Private,Elective,Nephrology,6,27.6,139,254,4,23238,Transferred,1
+PT202301023,2023,18,Male ,NA,Public,Emergency,Orthopedics,1,26.5,95,163,4,12080,Transferred,0
+PT201901024,2019,67,Male,Aegean,Public,Urgent,Cardiology,5,29.3,147,240,7,20281,Home,0
+PT202101025,2021,55,Female,NA,Public,Elective,Neurology,4,24.5,115,162,5,15567,Deceased,0
+PT202301026,2023,40,Male,Marmara,Public,Urgent,Nephrology,6,23.7,120,167,6,22495,Transferred,0
+PT201801027,2018,36,Female,Central Anatolia,Public,Elective,Neurology,2,27.3,98,191,1,7251,Deceased,0
+PT201801028,2018,45,Female,Aegean,Public,Referral,Oncology,3,22.5,110,192,3,14292,Transferred,0
+PT202201029,2022,54,Male,Marmara,Public,Elective,Cardiology,5,23.1,134,210,4,18746,Deceased,0
+PT202401030,2024,59,Female,Black Sea,Public,Emergency,Orthopedics,3,24.9,120,154,3,15178,Home,0
+PT202101031,2021,91,Female,Eastern Anatolia,Public,Emergency,Orthopedics,5,26.0,161,227,7,20841,Home,0
+PT202101032,2021,NA,Female,Eastern Anatolia,Private,Elective,Nephrology,5,23.0,125,NA,1,14100,Home,0
+PT202201033,2022,30,Male,Aegean,Public,Elective,Oncology,3,20.9,98,154,5,21188,Home,1
+PT201801034,2018,44,Female,Central Anatolia ,Uninsured,Emergency,Orthopedics,2,27.3,141,216,4,16311,Deceased,0
+PT201901035,2019,94,Female,Marmara,Public,Referral,Endocrinology,10,22.9,158,243,6,16679,Home,1
+PT202301036,2023,43,Male,Marmara,Public,NA,Neurology,5,23.7,100,203,3,16812,Home,0
+PT201801037,2018,69,Male,Central Anatolia,Private,Emergency,Cardiology,6,24.4,151,227,5,19335,Deceased,0
+PT202101038,2021,62,Female,Black Sea,Public,Emergency,Endocrinology,6,32.8,151,245,6,15748,home,1
+PT202101039,2021,69,Male,Central Anatolia,Public,Elective,Nephrology,5,27.3,137,206,5,21089,Deceased,0
+PT202001040,2020,31,Female,Marmara,Public,Emergency,Orthopedics,2,29.6,110,178,5,14539,Home,0
+PT201801041,2018,53,Female,Aegean,Public,Urgent,Nephrology,6,25.9,149,201,5,20909,Deceased,0
+PT202001042,2020,39,Male,aegean,Public,Elective,Cardiology,6,23.5,100,167,3,16439,Home,1
+PT201801043,2018,81,Female,Central Anatolia,Public,Elective,Endocrinology,5,31.8,140,243,4,12761,Home,1
+PT202301044,2023,70,Male,Marmara,Public,Elective,Infectious Disease,6,26.3,133,200,6,20141,Transferred,0
+PT202101045,2021,52,Male,Eastern Anatolia,Private,Emergency,Cardiology,2,26.5,128,223,5,21132,Deceased,0
+PT202101046,2021,50,Male,Southeastern Anatolia,Public,Elective,Neurology,5,28.4,144,178,2,8698,Transferred,1
+PT202401047,2024,26,Male,Southeastern Anatolia,Private,Referral,Endocrinology,5,24.1,99,247,3,19968,Home,0
+PT202101048,2021,30,Male,Black Sea,Public,Emergency,Endocrinology,5,27.1,113,209,3,12152,Home,0
+PT202301049,2023,40,Male,Marmara,Private,Referral,Nephrology,6,26.5,126,162,4,22104,Home,1
+PT201801050,2018,62,Male,Mediterranean,Public,Elective,Orthopedics,3,27.9,164,192,4,NA,Home,0
+PT202101051,2021,55,Male,Black Sea,Private,Emergency,Infectious Disease,4,23.7,126,223,6,17465,Transferred,0
+PT201801052,2018,18,Female,Black Sea,Public,Emergency,Neurology,2,27.0,98,NA,4,9775,Home,0
+PT202201053,2022,70,Male,Marmara,Private,Emergency,Cardiology,6,26.1,153,220,9,33401,Deceased,0
+PT202201054,2022,24,Male,Marmara,Public,Elective,Neurology,3,23.7,90,181,1,11979,Home,0
+PT202401055,2024,28,Male,Marmara,Public,Referral,Orthopedics,0,27.0,94,174,3,12232,Home,0
+PT201901056,2019,34,Male,Mediterranean,Private,Elective,Nephrology,5,24.4,132,186,4,22057,Home,0
+PT202201057,2022,77,Male,Central Anatolia,Public,Elective,Respiratory,5,31.3,139,221,6,22162,Deceased,0
+PT202301058,2023,40,Female,Mediterranean,Public,Emergency,Cardiology,6,25.0,131,199,6,23288,Home,0
+PT201801059,2018,22,Female,Black Sea,Public,Urgent,Orthopedics,2,27.4,136,161,4,13336,Home,0
+PT201801060,2018,48,Female,Central Anatolia,Public,Elective,Infectious Disease,6,23.3,121,159,6,16588,Transferred,0
+PT202401061,2024,72,Male,Aegean,Public,Elective,Endocrinology,8,28.7,150,235,6,21650,Transferred,1
+PT201801062,2018,31,Male,Aegean,Public,NA,NA,2,22.6,126,155,4,12563,Home,0
+PT202301063,2023,50,Female,Black Sea,Public,Urgent,Nephrology,8,27.1,123,183,3,16124,Home,0
+PT202101064,2021,56,Female,Eastern Anatolia,Private,Elective,NA,3,21.6,132,209,2,16424,Home,0
+PT202001065,2020,52,Female,Marmara,Public,Referral,Respiratory,6,26.7,120,174,6,15579,Home,0
+PT202401066,2024,61,Male,Eastern Anatolia,Public,Elective,Infectious Disease,3,27.7,144,211,5,18236,Deceased,0
+PT202301067,2023,56,Male,Mediterranean,Public,Elective,End0crin0l0gy,6,27.5,139,226,3,12214,Home,0
+PT202001068,2020,45,Male,Marmara,Uninsured,Elective,Respiratory,5,24.2,117,171,4,16470,Deceased,0
+PT202001069,2020,62,Female,Aegean,Private,Elective,Cardiology,5,22.3,114,176,2,15389,Home,1
+PT202201070,2022,75,Female,Black Sea,Public,Emergency,Endocrinology,7,27.7,138,219,5,19641,Deceased,0
+PT202401071,2024,62,Female,Marmara,Public,Elective,Respiratory,4,23.7,130,172,5,19928,Deceased,0
+PT201901072,2019,52,Female,Southeastern Anatolia,Public,Elective,Oncology,5,18.8,118,179,4,20701,Home,1
+PT202101073,2021,53,Female,Mediterranean,Public,Emergency,Infectious Disease,3,23.9,130,170,5,14583,Deceased,0
+PT201901074,2019,79,Female,Black Sea,Public,Emergency,Cardiology,7,32.7,158,270,7,18257,Deceased,0
+PT202401075,2024,36,Male,Mediterranean,Private,Elective,Nephrology,5,28.3,145,243,4,22088,Transferred,0
+PT201801076,2018,27,Male,Southeastern Anatolia,Public,Emergency,Cardiology,4,25.7,110,201,4,18962,Transferred,1
+PT202001077,2020,65,Female,Marmara,Public,Emergency,Endocrinology,4,25.9,125,249,5,14162,Deceased,0
+PT201801078,2018,47,Female,Marmara,Public,Emergency,Endocrinology,5,31.1,134,228,6,19922,Home,1
+PT202001079,2020,49,Female,Central Anatolia,Public,Elective,Neurology,6,26.5,135,223,1,11536,Home,0
+PT201901080,2019,54,Male,Aegean,Public,Referral,Cardiology,4,23.5,125,197,4,17338,Home,0
+PT201901081,2019,64,Female,Marmara,Public,Elective,Respiratory,3,27.9,136,190,2,11760,Home,0
+PT202301082,2023,50,Male,Marmara,Private,Elective,Oncology,6,23.8,125,186,3,24370,Home,0
+PT202201083,2022,47,Male,Marmara,Public,Urgent,Oncology,3,25.2,121,200,3,15882,Home,0
+PT202401084,2024,62,NA,Southeastern Anatolia,Private,Urgent,Cardiology,4,26.3,123,235,6,28034,Transferred,0
+PT201901085,2019,95,Male,Southeastern Anatolia,Public,Emergency,Cardiology,8,26.1,161,233,8,22487,Transferred,0
+PT202301086,2023,67,Female,Aegean,Private,Elective,Respiratory,4,25.7,124,195,5,16153,Deceased,0
+PT202401087,2024,63,Male,Marmara,Private,Elective,Nephrology,6,28.9,138,210,4,20735,Transferred,0
+PT202301088,2023,45,Female,Marmara,Private,Elective,Endocrinology,6,25.6,124,213,4,18677,Home,0
+PT202201089,2022,55,Female,Eastern Anatolia,Private,Emergency,Neurology,4,24.6,138,167,6,22555,Home,1
+PT201801090,2018,47,Male,Central Anatolia,Public,Referral,Nephrology,6,27.2,126,191,5,14394,Home,0
+PT202101091,2021,56,Female,Central Anatolia,Public,Emergency,Cardiology,4,27.2,136,223,7,20230,Transferred,0
+PT202401092,2024,67,Female,Southeastern Anatolia,Uninsured,Emergency,Endocrinology,8,24.6,144,227,7,25608,Deceased,0
+PT202201093,2022,68,Male,Southeastern Anatolia,Public,Urgent,Respiratory,5,29.9,142,235,6,14818,Home,1
+PT202201094,2022,55,Female,Marmara,Public,Emergency,Nephrology,4,23.5,139,191,7,24363,Home,1
+PT202001095,2020,18,Male,Eastern Anatolia,Private,Urgent,Oncology,5,21.3,93,183,5,23911,Home,1
+PT202101096,2021,87,Female,Marmara,Public,Urgent,Orthopedics,7,29.9,146,221,7,19854,Transferred,1
+PT202101097,2021,56,Female,Marmara,Public,Elective,Cardiology,5,24.3,122,197,5,18080,Transferred,0
+PT202001098,2020,61,Male,Southeastern Anatolia,Public,Elective,Endocrinology,7,28.4,145,230,5,13423,Home,NA
+PT202401099,2024,22,Female,Aegean,Public,Emergency,Neurology,2,20.6,111,155,3,10454,Home,0
+PT202301100,2023,47,Male,Marmara,Public,Referral,Endocrinology,5,28.9,130,234,2,10577,Transferred,1
+PT201901101,2019,63,Male,Marmara,Public,Urgent,Respiratory,4,31.6,135,231,6,14668,Deceased,0
+PT202401102,2024,43,Female,Marmara,Public,Emergency,Nephrology,4,27.9,121,236,6,21492,Hom?,1
+PT202001103,2020,50,Female,Aegean,NA,Emergency,Respiratory,4,20.6,136,150,4,12811,Home,0
+PT201801104,2018,43,Male,Black Sea,NA,Referral,Cardiology,4,24.2,138,215,4,11785,Deceased,0
+PT201801105,2018,74,Female,Southeastern Anatolia,Public,Urgent,Endocrinology,8,23.1,149,184,7,16116,Home,0
+PT202001106,2020,47,Male,Central Anatolia,Public,Elective,Orthopedics,3,21.9,121,173,2,8026,Home,0
+PT202201107,2022,34,Male,Mediterranean,Public,Referral,Endocrinology,4,29.7,113,222,3,13663,Home,0
+PT202301108,2023,59,Male,eastern anatolia,Uninsured,Emergency,Endocrinology,7,24.0,129,201,6,27148,Home,0
+PT202001109,2020,48,Male,Marmara,Public,Elective,Neurology,6,26.6,130,213,4,NA,Transferred,0
+PT202401110,2024,56,Male,Mediterranean,Uninsured,Emergency,Nephrology,3,30.2,135,224,9,39241,Transferred,1
+PT202301111,2023,89,Female,Mediterranean,Private,Urgent,Endocrinology,6,28.2,153,282,6,18516,Deceased,0
+PT202001112,2020,72,Female,Marmara,Public,Emergency,Oncology,8,22.9,136,226,9,32290,Home,1
+PT202301113,2023,59,Female,Eastern Anatolia,Private,Emergency,Neurology,4,27.8,124,231,7,26184,Home,1
+PT202201114,2022,85,Male,Mediterranean,Public,Emergency,Orthopedics,4,25.2,143,269,5,14090,Transferred,1
+PT202101115,2021,20,Male,Marmara,Public,Urgent,Cardiology,4,20.6,114,166,5,NA,Deceased,0
+PT201801116,2018,66,Female,Marmara,Public,Urgent,Cardiology,5,23.9,145,201,5,14836,Transferred,1
+PT202001117,2020,64,Male,Central Anatolia,Private,Emergency,Infecti0us Disease,4,27.1,119,207,5,21203,Transferred,0
+PT202001118,2020,18,Male,Aegean,Uninsured,Referral,Cardiology,1,25.6,111,222,4,18174,Home,0
+PT202001119,2020,66,Female,Southeastern Anatolia,Public,Urgent,Infectious Disease,3,23.1,139,200,NA,22643,Transferred,1
+PT202301120,2023,68,Female,Central Anatolia,Private,Emergency,Respiratory,2,24.4,140,188,5,14583,Transferred,0
+PT201801121,2018,41,Female,Aegean,Public,Emergency,Infectious Disease,4,21.7,122,160,5,13592,Home,0
+PT202301122,2023,28,Female,Marmara,Public,Elective,Nephrology,4,23.1,104,166,3,18606,Deceased,0
+PT201901123,2019,45,Female,Eastern Anatolia,Uninsured,Emergency,Oncology,4,28.2,131,165,7,29535,Transferred,0
+PT202201124,2022,59,Male,Aegean,Public,Elective,Orthopedics,4,25.5,149,193,1,11682,Home,0
+PT202401125,2024,22,Male,Marmara,PUBLIC,Emergency,Respiratory,2,28.2,97,197,3,12495,Home,0
+PT202101126,2021,30,Female,Eastern Anatolia,Public,Elective,Infectious Disease,3,22.6,119,128,1,10944,Home,1
+PT201801127,2018,64,NA,Marmara,Public,Emergency,Endocrinology,6,23.8,129,230,7,16485,Deceased,0
+PT202401128,2024,69,Female,Marmara,Private,Referral,Respiratory,7,27.2,141,208,5,NA,Deceased,0
+PT202201129,2022,43,Female,Marmara,Public,Urgent,Nephrology,4,22.6,129,155,3,17084,Home,0
+PT201801130,2018,41,Male,Southeastern Anatolia,Private,Elective,Neurology,2,26.4,127,204,1,11834,Home,0
+PT202301131,2023,61,Female,Central Anatolia,Private,Urgent ,Endocrinology,7,30.8,139,200,6,19407,Home,0
+PT201901132,2019,37,Female,Central Anatolia,Public,Urgent,Infectious Disease,2,25.4,106,157,4,11034,Home,0
+PT202401133,2024,63,Female,Marmara,Public,Emergency,Nephrology,4,25.1,NA,220,6,27289,Deceased,0
+PT202001134,2020,54,Male,Aegean,Public,Emergency,Neurology,5,26.0,122,248,7,19906,Home,0
+PT202401135,2024,43,Male,Central Anatolia,Public,Emergency,Respiratory,2,25.7,138,205,3,12731,Home,0
+PT201901136,2019,37,Male,Eastern Anatolia,Public,Elective,Neurology,4,21.9,132,185,3,17915,Home,0
+PT202201137,2022,26,Male,Marmara,Public,Emergency,Orthopedics,2,25.8,116,170,2,14667,Home,0
+PT201801138,2018,73,Female,Southeastern Anatolia,Private,Elective, Endocrinology,6,25.0,140,222,3,10522,Home,0
+PT202201139,2022,18,Male,Central Anatolia,Public,Emergency,Orthopedics,1,26.8,104,171,3,16071,Home,1
+PT202201140,2022,47,Male,Aegean,Public,Elective,Endocrinology ,6,28.0,122,167,4,16866,Home,0
+PT202401141,2024,61,Male,Mediterranean,Public,Elective,Nephrology,4,26.3,153,218,4,19491,Transferred,1
+PT201901142,2019,73,Female,Marmara,Public,Emergency,Endocrinology,6,28.0,141,214,6,15681,Home,1
+PT201901143,2019,41,Male,Marmara,Public,Elective,Orthopedics,2,24.9,93,143,1,11476,Home,0
+PT202401144,2024,39,Male,Black Sea,Public,Emergency,Infectious Disease,3,25.4,128,224,5,NA,Transferred,0
+PT202001145,2020,41,Female,Central Anatolia,Public,Elective,Endocrinology,4,24.2,134,191,2,12108,Deceased,0
+PT202101146,2021,94,Male,Marmara,Public,Elective,Cardiology,7,27.2,143,265,7,24717,Deceased,0
+PT202201147,2022,33,Female,Aegean,Private,Emergency,Infectious Disease,5,25.6,107,157,5,20122,Home,1
+PT201801148,2018,64,Female,Eastern Anatolia,Public,Urgent,Endocrinology,6,29.6,128,226,5,17592,Home,0
+PT202001149,2020,18,Female,Aegean,Public,Emergency,Orthopedics,2,24.0,95,173,3,10463,Home,0
+PT202201150,2022,NA,Female,Marmara,Private,Referral,Orthopedics,2,26.6,99,120,3,11647,Home,1
+PT202101151,2021,31,Female,Aegean,Public,Emergency,Infectious Disease,2,22.1,106,157,NA,15009,Home,1
+PT202101152,2021,60,Male,Marmara,Private,Emergency,Nephrology,5,21.8,110,187,7,21332,Deceased,0
+PT201901153,2019,26,Female,Aegean,Public,Referral,Nephrology,2,25.0,127,141,5,14290,Deceased,0
+PT202101154,2021,48,Female,Southeastern Anatolia,Uninsured,Emergency,Cardiology,4,30.7,134,201,4,19348,Home ,0
+PT202001155,2020,81,Female,Marmara,NA,Emergency,Cardiology,8,25.5,152,178,8,24854,Transferred,1
+PT201801156,NA,52,Male,Mediterranean,Public,Emergency,Infectious Disease,NA,23.5,127,188,6,10561,NA,0
+PT202301157,2023,67,Female,Marmara,Public,Elective,Cardiology,6,27.8,162,216,7,22587,Transferred,0
+PT202201158,2022,73,Male,Central Anatolia,Uninsured,Urgent,Cardiology,5,20.1,146,217,7,32309,Deceased,0
+PT202301159,2023,79,Male,Aegean,Public,Urgent,Endocrinology,7,27.3,150,214,6,18135,Transferred,1
+PT201801160,2018,59,Male,Marmara,Public,Elective,Cardiology,4,24.4,131,221,3,13397,Home,0
+PT202101161,2021,42,Male,Eastern Anatolia,Public,Emergency,Endocrinology,4,30.5,130,231,5,9219,Transferred,0
+PT201901162,2019,36,Male,Marmara,Public,Elective,Endocrinology,4,23.4,116,210,4,10821,Home,1
+PT201801163,2018,32,Male,Aegean,Public,Emergency,Neurology,3,23.2,125,120,7,17494,Home,0
+PT201901164,2019,47,Female,Central Anatolia,Public,Urgent,Orthopedics,2,26.6,122,174,3,9758,Transferred,1
+PT202201165,2022,45,Female,Marmara,Public,Referral,Cardiology,6,19.8,121,215,3,18252,Transferred,0
+PT202101166,2021,67,NA,Marmara,Public,Referral,Nephrology,6,26.4,150,202,5,21169,Transferred,0
+PT202201167,2022,18,Female,Mediterranean,Public,Emergency,Cardiology,4,23.2,100,190,3,18221,Deceased,0
+PT202101168,2021,73,Male,Marmara,Public,Emergency,Oncology,6,22.7,133,204,6,24716,Transferred,0
+PT202001169,2020,75,Female,Marmara,Public,Elective,Orthopedics,6,30.8,135,235,3,11348,Home,1
+PT202101170,2021,31,Female,Black Sea,Public,Emergency,Endocrinology,6,30.9,134,208,NA,14267,Home,1
+PT201901171,2019,25,Male,Black Sea,Public,Elective,Orthopedics,3,22.1,105,188,2,11002,Transferred,0
+PT202101172,2021,47,Male,Marmara,Private,Emergency,Endocrinology,5,28.5,151,162,5,15473,Home,0
+PT201801173,2018,58,Female,Central Anatolia,Private,Emergency,Endocrinology,4,25.6,136,191,7,13774,Transferred,0
+PT202201174,2022,57,Female,Black Sea,Uninsured,Emergency,Cardiology ,6,23.7,116,212,5,24564,Deceased,0
+PT202401175,2024,70,Male,Central Anatolia,Public,Emergency,Respiratory,6,22.5,120,188,6,19056,Deceased,0
+PT202301176,2023,64,Male,Mediterranean,Uninsured,Elective,Neurology,6,27.0,141,204,5,26307,Deceased,0
+PT202101177,2021,67,Male,Eastern Anatolia,Private,Urgent,Respiratory,5,23.4,146,198,3,9623,Hom?,0
+PT202401178,2024,65,Male,Central Anatolia,NA,Elective,Endocrinology,6,31.6,129,217,3,12151,Home ,0
+PT202201179,2022,36,Male,Eastern Anatolia,Public,Referral,Cardiology,4,25.4,115,199,3,14751,Home,0
+PT202201180,2022,32,Female,Aegean,Public,Emergency ,Infectious Disease,3,22.4,117,184,6,17167,Home,0
+PT202401181,2024,64,Male,Marmara,Public,Elective,Neurology,4,27.4,141,230,4,18636,Transferred,0
+PT202101182,2021,69,Female,Eastern Anatolia,Uninsured,Emergency,Respiratory,5,23.5,129,196,4,16239,Deceased,0
+PT202001183,2020,37,Female,NA,Public,Emergency,Endocrinology,3,24.3,120,163,4,14027,Home,1
+PT202301184,2023,44,Male,Eastern Anatolia,Public,Emergency,Cardiology,5,22.0,134,178,7,21976,Home,0
+PT201801185,2018,47,Female,Mediterranean,Private,Elective,Nephrology,3,22.0,128,174,3,14881,Deceased,0
+PT202101186,2021,43,Female,Aegean,Private,Elective,Orthopedics,2,25.4,101,164,1,9842,Home,0
+PT202201187,2022,26,Male,Marmara,Private,Elective,Nephrology,3,26.6,116,201,3,21282,Deceased,0
+PT202301188,2023,57,Female,NA,Public,Emergency,Endocrinology,4,31.7,139,NA,7,21901,Home,1
+PT202001189,2020,70,NA,Marmara,Public,Elective,Respiratory,4,23.8,129,193,2,11722,Home,0
+PT202201190,2022,58,Female,Marmara,Public,Emergency,Respiratory,7,27.4,135,200,5,22613,Home,1
+PT202001191,2020,56,Female,Central Anatolia,Public,Elective,Infectious Disease,2,23.8,131,161,3,13028,Home,0
+PT202301192,2023,56,Male,Eastern Anatolia,Private,Emergency,Orthopedics,5,24.1,127,170,4,18673,Home,0
+PT202001193,2020,58,Female,Black Sea,Public,Emergency,Neurology,5,19.4,143,183,5,15495,Home,1
+PT202001194,2020,73,Female,Southeastern Anatolia,Public,Emergency,Nephrology,7,20.1,137,167,8,24877,Transferred,0
+PT202201195,2022,84,Female,Central Anatolia,Private,Referral,Endocrinology,5,27.7,149,244,6,19210,Deceased,0
+PT202001196,2020,18,Female,Eastern Anatolia,Public,Emergency,Cardiology,4,22.8,103,152,5,18783,Home,0
+PT202201197,2022,70,Female,marmara,Public,Urgent,Oncology,6,25.7,128,198,8,29226,Deceased,0
+PT202201198,2022,60,Female,Aegean,Public,Urgent,Cardiology,7,24.3,132,247,5,22729,Transferred,1
+PT202301199,2023,76,Female,Marmara,Public,Referral,Nephrology,6,27.7,140,210,6,25709,Deceased,0
+PT202401200,2024,39,Female,Southeastern Anatolia,Uninsured,Elective,Endocrinology,5,29.6,98,179,2,15188,Transferred,0
+PT202401201,2024,46,Female,Aegean,Private,Emergency,Orthopedics,4,25.3,103,183,6,29486,Deceased,0
+PT201901202,2019,46,Male,Eastern Anatolia,Public,Emergency,Infectious Disease,5,21.4,135,174,5,15892,Home,0
+PT202201203,2022,61,Male,Central Anatolia,Uninsured,Emergency,Cardiology,6,24.3,144,182,9,35398,Deceased,0
+PT202301204,2023,53,Male,Central Anatolia,Public,Emergency,Cardiology ,5,27.8,145,211,6,20485,Transferred,0
+PT202401205,2024,37,Female,Central Anatolia,Public,Emergency,Nephrology,3,23.6,104,167,6,22301,Home,0
+PT202401206,NA,22,Female,Central Anatolia,Public,Emergency,Cardiology,2,22.3,109,178,6,24347,Home,0
+PT202001207,2020,20,Male,Black Sea,Public,Elective,Neurology,4,19.9,97,165,2,8334,Home,0
+PT202301208,2023,43,Female,Mediterranean,Public,Emergency,Neurology,3,30.4,122,172,4,19200,Home,0
+PT202401209,2024,39,Female,Central Anatolia,Public,Urgent,Neurology,3,21.9,109,208,5,19891,Home,0
+PT202401210,2024,80,Male,Black Sea,Private,Elective,Infectious Disease,6,25.6,149,186,4,19827,Transferred,0
+PT202001211,2020,42,Male,Marmara,Public,Elective,Orthopedics,2,25.5,133,145,1,7520,Home,1
+PT202001212,2020,62,Male,Marmara,Public,Emergency,Neurology,6,29.1,136,195,7,17626,Home,0
+PT201901213,2019,34,FEMALE,Marmara,Public,Referral, Nephrology,4,25.6,103,170,5,17169,NA,0
+PT202401214,2024,43,Male,Mediterranean,Public,Emergency,Orthopedics,3,24.9,119,211,5,17388,Home,0
+PT201801215,2018,39,Female,Aegean,Public,Elective,Oncology,7,20.1,130,179,4,18116,Home,1
+PT202101216,2021,75,Male,Mediterranean,Public,Elective,Endocrinology,5,26.8,140,236,4,16614,Deceased,0
+PT202201217,2022,18,Female,Marmara,Uninsured,Elective,Respiratory,3,26.7,110,168,3,14486,Home,0
+PT202001218,2020,28,Female,Marmara,Public,Elective,Orthopedics,3,22.3,116,177,3,10064,Home,0
+PT202401219,2024,41,Male,Black Sea,Public,Elective,Oncology,3,22.1,112,159,4,21134,Home,0
+PT202201220,2022,37,Male,Central Anatolia,Private,Emergency,Infectious Disease,2,20.0,100,196,3,9786,Home,0
+PT202101221,2021,32,Male,Aegean,Public,Elective,Nephrology,3,30.3,108,216,4,19301,Home,0
+PT202001222,2020,73,Female,Eastern Anatolia,Private,Elective,Endocrinology,6,26.5,171,252,5,14161,Transferred,0
+PT202401223,2024,35,Male,Black Sea,Public,Referral,Oncology,4,23.3,98,167,6,26386,Home,0
+PT202401224,2024,55,Male,Southeastern Anatolia,Public,Elective,Endocrinology,5,29.4,129,223,4,13614,Home,0
+PT202001225,2020,71,Female,Black Sea,Public,Emergency,Nephrology,7,26.9,138,NA,8,21670,Transferred,1
+PT202001226,2020,28,Female,Southeastern Anatolia,Public,Urgent,Respiratory,3,26.5,112,197,2,6201,Home,0
+PT202101227,2021,48,Female,Mediterranean,Public,Referral,Neurology,5,23.7,114,224,3,12727,Home,0
+PT202401228,2024,47,Female,Marmara,Public,Emergency,Nephrology,8,27.3,125,176,6,23035,Deceased,0
+PT201801229,2018,39,Female,Central Anatolia,Public,Referral,Neurology,3,22.3,90,163,3,13809,Home,0
+PT201901230,2019,41,Female,Mediterranean,Public,Elective,Endocrinology,5,26.5,133,181,4,7699,Home,0
+PT202201231,2022,22,Female,Mediterranean,Public,Referral,Infectious Disease,3,25.1,101,191,6,19450,Home,1
+PT202401232,2024,54,Male,Mediterranean,Public,Elective,Neurology,4,25.6,127,207,2,12758,Home,0
+PT201801233,2018,39,Female,Marmara,Private,Referral,Nephrology,4,25.5,124,172,4,15295,Home,0
+PT202201234,2022,54,Male,Aegean,Public,Emergency,Respiratory,4,22.3,126,201,4,15951,Home,0
+PT202201235,2022,32,Male,Black Sea,Private,Emergency,Cardiology,5,22.1,137,193,6,27208,Home,1
+PT202201236,2022,38,Female,Eastern Anatolia,Uninsured,Elective,Oncology,2,18.5,112,161,4,25419,Home ,0
+PT202201237,2022,37,Male,Eastern Anatolia,Private,Urgent,Orthopedics,2,26.4,123,198,2,14747,Transferred,0
+PT202301238,2023,71,Male,Marmara,Public,NA,Neurology,5,25.2,131,177,4,12956,Home,1
+PT201901239,2019,54,Female,Mediterranean,Public,Emergency,Endocrinology,4,26.8,123,184,7,13073,Home,1
+PT201801240,2018,66,Male,Aegean,Public,Elective,Infectious Disease,7,29.0,125,199,3,9152,Home,0
+PT202101241,2021,31,Female,Aegean,NA,Emergency,Respiratory,4,25.7,108,167,5,13799,Home,0
+PT202001242,2020,18,Female,Eastern Anatolia,Public,Referral,Cardiology,4,24.5,90,195,2,11201,Home,0
+PT201901243,2019,37,Female,Southeastern Anatolia,Public,Emergency,Infectious Disease,3,22.4,108,120,4,12148,Home,0
+PT202301244,2023,18,Male,Central Anatolia,Public,Elective,Neurology,2,25.4,100,183,1,10726,Home,0
+PT202401245,2024,43,Male,Marmara,Public,Referral,Neurology,5,25.4,134,176,4,19863,Transferred,0
+PT201801246,2018,31,Male,Black Sea,Public,Elective,Nephrology,2,19.9,90,150,1,8478,Home,0
+PT202401247,2024,67,Male,Central Anatolia,Public,Elective,Neurology,4,26.1,130,177,6,23113,Transferred,1
+PT202401248,2024,28,Male,Southeastern Anatolia,Public*,Elective,Oncology,7,22.7,117,161,4,22031,Home,1
+PT202401249,2024,37,Male,Central Anatolia,Private,Emergency,Infectious Disease,3,23.3,101,165,7,24748,Transferred,0
+PT202301250,2023,75,Male,Marmara,Private,Emergency,Endocrinology,7,28.2,143,208,8,25483,Deceased,0
+PT202101251,2021,49,Female,Aegean,Public,Emergency,Infectious Disease,1,26.5,109,237,6,19777,Home,0
+PT202001252,2020,43,Male,Eastern Anatolia,PUBLIC,Emergency,Cardiology,3,24.9,119,NA,5,16023,Home,0
+PT202101253,2021,44,Female,Southeastern Anatolia,Public,Referral,Endocrinology,4,26.6,124,176,4,12455,Home,0
+PT202201254,2022,40,Male,Eastern Anatolia,Public,Elective,Endocrinology,6,25.4,127,151,2,10404,Home,0
+PT202201255,2022,41,Female,Aegean,Public,Emergency,Nephrology,4,28.1,118,235,5,19530,Home,1
+PT202101256,2021,19,Female,Central Anatolia,Private,Referral,Infectious Disease,0,21.6,100,143,3,13554,Home,1
+PT201801257,2018,NA,Female,Eastern Anatolia,Public,Urgent,Oncology,7,23.1,123,206,NA,15307,Deceased,0
+PT202001258,2020,67,NA,Southeastern Anatolia,Public,Emergency,Neurology,6,27.7,139,229,7,23295,Home,0
+PT201801259,2018,58,Male,Mediterranean,Uninsured,Emergency,Respiratory,3,25.3,128,170,7,18390,Deceased,0
+PT202301260,2023,34,Female,Aegean,Private,Elective,Cardiology,5,25.5,125,174,3,21605,Home,0
+PT202201261,2022,51,NA,Marmara,Public,Referral,Cardiology,5,24.8,133,219,4,17430,Home,0
+PT202101262,2021,75,Female,Central Anatolia,Public,Urgent,Nephrology,5,22.8,138,204,9,22814,Home,0
+PT201901263,2019,46,Female,Marmara*,Public,Elective,Oncology,4,20.9,118,160,3,14680,Home,0
+PT201901264,2019,44,Male,Central Anatolia,Public,Elective,Respiratory,6,21.3,121,209,4,10614,Transferred,0
+PT202401265,2024,59,Female,Aegean,Public,Emergency,Respiratory,5,26.3,143,206,6,17348,Transferred,0
+PT201801266,2018,67,Male,Marmara,Public,Referral,Cardiology,8,24.4,157,194,3,12930,Transferred,0
+PT202401267,2024,22,Male,Marmara,Uninsured,Elective,Respiratory,4,19.7,111,157,1,12443,Home,0
+PT201901268,2019,42,Male,Mediterranean,Public,Emergency,Cardiology,4,25.1,116,223,5,14902,Home,1
+PT202201269,2022,55,Female,Aegean,Public,Emergency,Oncology,6,23.2,108,150,3,21737,Home,0
+PT202201270,2022,28,Male,Marmara,Public,Emergency,Infectious Disease,3,21.7,100,182,5,14531,Home,0
+PT201801271,2018,18,Male,Eastern Anatolia,Public,Emergency,Cardiology,2,26.5,121,170,5,11531,Home,0
+PT201801272,2018,41,Female,Central Anatolia,Private,Emergency,Cardiology,4,21.9,103,196,4,15683,Transferred,0
+PT201901273,2019,27,Female,Central Anatolia,Public,Referral,Endocrinology,6,23.6,124,187,2,10817,Home,0
+PT201801274,2018,80,Female,Central Anatolia,Public,Emergency,Endocrinology,8,29.7,156,NA,7,18502,Deceased,0
+PT202001275,2020,50,Male,Aegean,Uninsured,Emergency,Endocrinology,6,27.4,142,206,6,21699,Home,1
+PT202201276,2022,57,Female,Central Anatolia,Public,Emergency,Endocrinology,6,31.9,130,227,6,17505,Home,1
+PT201801277,2018,27,Male,Marmara,Public,Referral,Respiratory,4,25.8,119,182,3,13392,Home,0
+PT202301278,2023,52,NA,Mediterranean,Private,Urgent,Orthopedics,2,26.4,138,199,2,12461,Home,1
+PT201901279,2019,69,Male,Eastern Anatolia,Uninsured,Emergency,Infectious Disease,4,26.1,122,176,6,15568,Deceased,0
+PT202001280,2020,65,Female,Southeastern Anatolia,Public,Urgent,Respiratory,6,25.9,142,195,5,11801,Transferred,1
+PT202301281,2023,68,Male,Aegean,Public,Referral,Cardiology,5,26.9,144,234,5,21648,Deceased,0
+PT202401282,2024,53,Male,Black Sea,Public,Emergency,Oncology,4,23.0,121,157,6,26772,Home,1
+PT201901283,2019,43,FEMALE,Central Anatolia,Uninsured,Elective,Nephrology,6,23.3,122,164,3,20003,Deceased,0
+PT202401284,2024,62,Female,Mediterranean,Private,Emergency,Respiratory,5,28.5,122,134,6,21210,Transferred,1
+PT201901285,2019,59,Male,Marmara,Private,Elective,Endocrinology,5,25.8,145,185,3,12601,Home,0
+PT201801286,2018,44,Male,Central Anatolia,Public,Elective,Infectious Disease,4,28.7,140,214,3,6756,Home,0
+PT201901287,2019,50,Female,Black Sea,Private,Emergency,Neurology,5,24.2,117,196,6,23883,Home,0
+PT201801288,2018,81,Male,Aegean,Public,Elective,Oncology,6,21.9,134,197,3,14692,Home,0
+PT202301289,2023,70,Female,Black Sea,Public, Emergency,Neurology,5,25.6,131,181,7,22516,Transferred,0
+PT202401290,2024,40,Female,Black Sea,Public,Elective,Infectious Disease,4,16.9,131,135,3,20777,Home,1
+PT202001291,2020,73,Male,Central Anatolia,Public,Emergency,Orthopedics,6,24.5,125,214,7,18240,Deceased,0
+PT201801292,2018,50,Male,Southeastern Anatolia,Public,Elective,Neurology,5,25.2,125,200,4,12368,Transferred,0
+PT202101293,2021,18,Female,Eastern Anatolia,Public,Elective,Oncology,6,16.5,104,146,4,21361,Home,0
+PT202401294,2024,34,Female,Central Anatolia,Public,Emergency,Respiratory,4,27.5,119,196,4,14397,Home,1
+PT202101295,2021,44,Male,Marmara,Public,Emergency,Oncology,5,24.4,130,156,7,24351,Home,1
+PT202101296,2021,65,Female,Aegean,PUBLIC,Emergency,Endocrinology,3,29.0,138,244,5,14126,Home,0
+PT201901297,2019,63,Female,Aegean,Private,Emergency,Cardiology,6,24.3,136,187,8,23613,Transferred,0
+PT201801298,2018,21,Female,Aegean,Public,Elective,NA,2,24.0,93,165,2,11423,Home,1
+PT202201299,2022,60,Male,Aegean,Uninsured,Elective,Cardiology,6,25.3,144,230,4,23148,Deceased,0
+PT202301300,2023,52,Male,Southeastern Anatolia,Public,Emergency,Respiratory,4,24.2,111,154,6,17320,Home,NA
+PT201901301,2019,51,Male,Mediterranean,Public,Emergency*,Respiratory,4,23.4,140,209,6,17458,Home,0
+PT201901302,2019,41,Female,Black Sea,Public,Referral,NA,4,29.7,138,185,2,11472,Home,NA
+PT202101303,2021,49,Female,Eastern Anatolia,Public,Emergency,Oncology,6,26.1,106,179,7,22601,Home,1
+PT201801304,2018,83,Male,Aegean,Private,Emergency,Nephrology,6,24.1,139,201,8,22008,Deceased,0
+PT201901305,2019,23,Female,Marmara,Private,Elective,Oncology,6,24.7,112,138,3,22447,Deceased,0
+PT201901306,2019,18,Female,Mediterranean,Public,EMERGENCY,Neurology,1,20.6,94,170,5,14352,Home,0
+PT202101307,2021,52,Male,Mediterranean,Private,Referral,Neurology,5,24.9,133,190,6,23082,NA,0
+PT201901308,2019,49,Male,Central Anatolia,Public,Referral,Cardiology,5,27.2,113,211,5,21526,Home,0
+PT201801309,2018,18,Female,Southeastern Anatolia,Public,Emergency,Orthopedics,2,21.1,90,130,1,4512,Home,0
+PT202401310,2024,54,Male,Marmara,Public,Elective,Endocrinology,5,29.6,134,214,2,12261,Deceased,0
+PT202201311,2022,49,Female,Mediterranean,Private,Emergency,Endocrinology,5,23.3,131,189,5,22658,Home,0
+PT202301312,2023,75,Male,Eastern Anatolia,Public,Elective,Respiratory,5,19.9,149,198,6,15201,Deceased,0
+PT201801313,2018,30,Male,Southeastern Anatolia,Publ1c,Emergency,Nephrology,3,23.4,109,209,4,9992,Home,0
+PT202301314,2023,30,Female,Black Sea,Private,Urgent,Respiratory,1,21.0,99,173,5,14987,Home,0
+PT201901315,2019,41,Male,Mediterranean,Public,Referral,Respiratory,4,24.5,117,191,5,10759,Home,0
+PT202001316,2020,70,Female,Mediterranean,Uninsured,Elective,Respiratory,4,21.9,117,225,2,16462,Deceased,0
+PT202001317,2020,88,Female,Eastern Anatolia,Private,Urgent,Neurology,8,23.4,154,233,8,23879,Deceased,0
+PT202301318,2023,32,Female,Black Sea,Uninsured,Elective,Orthopedics,0,24.7,118,144,1,10392,Home,0
+PT201901319,2019,66,Male,Marmara,Private,Elective,Infectious Disease,5,26.0,128,226,3,14429,Transferred,1
+PT202201320,2022,49,Male,Aegean,Public,Electiv?,Nephrology,6,25.3,121,197,3,19042,Home,1
+PT202201321,2022,50,Male,Eastern Anatolia,Public,Emergency,Cardiology,4,20.9,121,192,5,22042,Home,1
+PT202401322,2024,71,Male,Marmara,Public,Emergency,Cardiology,5,27.4,148,200,NA,20048,NA,0
+PT202101323,2021,52,Male,Aegean,Public,Referral,Infectious Disease,5,23.2,127,203,7,15750,Transferred,0
+PT202101324,2021,46,Female,Black Sea,Public,Elective,Respiratory,4,24.7,131,193,2,9466,Home,0
+PT201901325,2019,33,Female,Central Anatolia,Private,Emergency,Oncology,3,19.4,114,140,3,16324,Transferred,0
+PT201801326,2018,84,Male,Marmara,Private,Emergency,Endocrinology,8,26.4,169,235,8,22644, Deceased,0
+PT201901327,2019,59,Female,Marmara,Uninsured,Emergency,Respiratory,4,32.1,NA,238,5,12917,Home,0
+PT202401328,2024,39,Female,Eastern Anatolia,Public,Emergency,Infectious Disease,4,24.8,118,181,5,17924,Home,0
+PT202301329,2023,87,Female,Southeastern Anatolia,Private,Emergency,Oncology,8,23.2,147,180,9,37570,Deceased,0
+PT202301330,2023,40,Male,Black Sea,Public,Urgent,Nephrology,4,23.6,129,178,4,17115,Home,0
+PT202101331,2021,27,Male,Marmara,Private,Emergency,Orthopedics,2,26.5,108,185,3,13080,Home,0
+PT202201332,2022,33,Male,Aegean,Public,Urgent,Orthopedics,2,25.7,117,139,3,12396,Home,0
+PT202201333,2022,55,Female,Mediterranean,Private,Elective,Endocrinology,6,25.8,144,211,2,12264,Transferred,0
+PT201801334,2018,55,Male,Eastern Anatolia,Uninsured,Elective,Cardiology,6,29.5,152,223,3,17204,Transferred,1
+PT202401335,2024,78,Male,Central Anatolia,Public,Emergency,Neurology,4,23.8,133,184,5,20047,Transferred,0
+PT202101336,2021,28,Male,Marmara,Public,Emergency,Cardiology,2,25.1,118,174,4,11990,Home,0
+PT202201337,2022,46,Female,Eastern Anatolia,Uninsured,Elective,Endocrinology,7,27.5,142,219,4,20519,Home,0
+PT201901338,NA,78,Male,Central Anatolia,Private,Emergency,Orthopedics,5,26.1,135,215,7,22421,Home,1
+PT201801339,2018,59,Female,Central Anatolia ,Public,Elective,Orthopedics,3,28.9,127,160,3,6799,Deceased,0
+PT202301340,2023,38,FEMALE,Med1terranean,Public,Elective,Orthopedics,2,17.6,109,164,1,6774,Home,0
+PT202401341,2024,48,Female,Central Anatolia,Public,Emergency,Infectious Disease,3,27.1,124,186,4,17746,Home,1
+PT201801342,2018,41,Male,Mediterranean,Public,Emergency,Nephrology,4,20.5,116,171,5,17657,Home,0
+PT202101343,2021,31,Female,Marmara,Public,Urgent,Respiratory,3,26.2,118,183,4,10119,Home,0
+PT202201344,2022,38,Male,Marmara,Public,Emergency,Nephrology,3,20.9,115,169,3,14932,Home,0
+PT201801345,2018,37,Male,Marmara,Public,Emergency,Respiratory,6,24.5,110,169,7,15950,Home,0
+PT202401346,2024,52,Female,Black Sea,Private,Elective,Respiratory,3,NA,119,172,5,18369,Home,0
+PT201901347,2019,85,Female,Central Anatolia,Public,Elective,Infectious Disease,4,24.5,131,217,5,12184,Deceased,0
+PT201901348,2019,62,Male,Eastern Anatolia,Public,Elective,Neurology,5,28.9,141,222,5,18609,Transferred,0
+PT201901349,2019,61,Female,Central Anatolia,Private,Referral,Cardiology,4,21.3,148,189,5,NA,Home,1
+PT202101350,2021,38,Male,Central Anatolia,Public,Emergency,Infectious Disease,NA,26.0,99,205,3,11226,Home,0
+PT202201351,2022,65,Male,Aegean,Public,Emergency,Infectious Disease,6,22.9,130,144,8,23187,Transferred,0
+PT202101352,2021,NA,Male,Southeastern Anatolia, Public,Elective,Neurology,3,24.5,128,198,2,10111,Transferred,0
+PT202301353,2023,48,Male,Marmara,Private,Emergency,infectious disease,2,25.6,104,186,5,17663,Home,0
+PT202401354,2024,62,Male,Mediterranean,Public,Emergency,Orthopedics,4,23.1,121,162,5,18882,Home,1
+PT202201355,2022,68,Female,Eastern Anatolia,Public,NA,Neurology,5,27.6,128,213,10,29816,Home,1
+PT201901356,2019,50,Male,Central Anatolia,Private,Elective,Cardiology,4,26.0,139,185,3,17958,Home,0
+PT202101357,2021,54,Female,Marmara,Public,Referral,Cardiology,4,22.4,125,153,3,15777,Deceased,0
+PT202001358,2020,30,Male,Marmara,Public,Emergency,Nephrology,4,24.5,118,NA,5,19590,Home,0
+PT202301359,2023,60,Female,Aegean,Uninsured,Emergency,Endocrinology,6,22.9,133,206,3,19629,Home,0
+PT201801360,2018,51,Female,Mediterranean,Uninsured,Emergency,Respiratory,4,24.5,123,204,5,17334,Transferred,1
+PT201901361,2019,34,Female,Marmara,Private,Elective,Endocrinology,4,29.1,133,183,3,9108,Transferred,0
+PT202401362,2024,43,Female,Marmara,Public,Referral,Nephrology,5,20.7,131,164,6,25135,Home,0
+PT202101363,2021,65,Male,Central Anatolia,Uninsured,Emergency,Neurology,6,21.9,125,155,7,28219,Transferred,1
+PT202101364,2021,52,Female,Mediterranean,Uninsured,Elective,Neurology,6,24.8,151,194,1,14367,Deceased,0
+PT202101365,2021,47,Male,Aegean,Public,Elective,Nephrology,6,25.8,133,183,4,17385,Deceased,0
+PT202201366,2022,33,Male,Central Anatolia,Public,Emergency,Endocrinology,3,23.7,NA,183,5,11606,Home,0
+PT202301367,2023,63,Female,NA,Public,Emergency,Cardiology,5,21.0,122,239,6,23277,Deceased,0
+PT201901368,2019,71,Male,Central Anatolia,Public*,Emergency,Infectious Disease,5,24.0,142,197,6,17013,Deceased,0
+PT202201369,2022,58,Female,Southeastern Anatolia,Private,Urgent,Cardiology,4,23.4,135,214,5,20515,Transferred,1
+PT202001370,2020,53,Male,Southeastern Anatolia,Uninsured,Elective,Respiratory,3,26.7,122,204,1,10486,Deceased,0
+PT202301371,2023,38,Female,Southeastern Anatolia,Public,Emergency,Oncology,3,22.9,98,187,6,26291,Deceased,0
+PT201901372,2019,39,Male,Marmara,Public,Referral,Neurology,3,29.5,131,206,6,12215,Transferred,0
+PT202001373,2020,60,Male,Southeastern Anatolia,Private,Urgent,Respiratory,3,26.3,128,195,4,17175,Deceased,0
+PT202001374,2020,18,Female,Eastern Anatolia,Private,Elective,Cardiology,4,20.9,130,181,3,14879,Home,0
+PT202101375,2021,34,Female,Marmara,Private,Emergency,Cardiology,5,19.5,123,163,5,24366,Home,1
+PT202101376,2021,60,Male,Southeastern Anatolia,Public,Elective,Respiratory,2,24.7,120,226,2,9082,Transferred,0
+PT202301377,2023,28,Male,Southeastern Anatolia,Public,Referral,Infectious Disease,2,NA,94,128,3,14316,Home,0
+PT202001378,2020,48,Female,Southeastern Anatolia,Public,Emergency,Oncology,4,21.7,112,197,6,20184,Home,0
+PT202101379,2021,87,Female,Eastern Anatolia,Uninsured,Emergency,Orthopedics,8,26.8,149,194,6,25585,Transferred,1
+PT202301380,2023,64,Male*,Marmara,Public,Emergency,Orthopedics,4,25.3,113,186,6,20037,Home,0
+PT202101381,2021,47,Female,Marmara,Public,Urgent,Endocrinology,4,29.4,148,195,3,15969,Transferred,0
+PT202401382,2024,54,Male,Marmara,Private,NA,Endocrinology,6,29.8,142,178,7,28030,Home,1
+PT202201383,2022,36,Male,Aegean,Public,Referral,Nephrology,4,22.1,115,157,4,19787,Home,0
+PT202101384,2021,66,Male,Mediterranean,Public,Referral,Endocrinology,5,26.0,128,223,NA,20898,Home,0
+PT202401385,2024,58,Female,Aegean,Private,Emergency,Nephrology,6,29.8,130,246,6,27481,Home,0
+PT201901386,2019,78,Male,Aegean,Public,Emergency,Oncology,6,27.6,133,223,8,25203,Deceased,0
+PT202401387,2024,24,Female,Marmara,Uninsured,Urgent,Endocrinology,6,25.8,130,178,NA,18244,Home,1
+PT202401388,2024,72,Female,Southeastern Anatolia,Private,Emergency,Orthopedics,3,25.1,143,188,6,20998,Home,0
+PT202001389,2020,32,Female,Central Anatolia,Private,Emergency,Neurology,3,29.5,102,216,6,18293,Home,0
+PT201901390,2019,66,Female,Aegean,Public,Emergency,Oncology,6,22.2,134,158,7,21873,Deceased,0
+PT202401391,2024,44,Male,Central Anatolia,Public,Emergency,Infectious Disease,5,27.4,133,248,4,17924,Home,0
+PT202401392,2024,50,Female,Eastern Anatolia,Public,Emergency,Infectious Disease,4,24.6,129,165,6,21004,Deceased,0
+PT201901393,2019,36,Male,Mediterranean,Private,Elective,Oncology,5,24.1,113,161,4,22556,Deceased,0
+PT202101394,2021,18,Male,Marmara,Public,Referral,Cardiology,1,NA,106,259,4,14154,Home,0
+PT201801395,2018,47,Female,Marmara,Public,Elective,Respiratory,3,26.7,135,193,4,9456,home,0
+PT202401396,2024,63,Male,Mediterranean,Public,Referral,Endocrinology,5,27.1,161,212,5,20042,Deceased,0
+PT202301397,2023,76,Male,Southeastern Anatolia,Public,elective,Infectious Disease,5,24.8,150,238,5,NA,Home,1
+PT202401398,2024,50,Female,Southeastern Anatolia,Private,Emergency,Orthopedics,4,23.5,125,191,6,25037,Home,0
+PT202201399,2022,50,Female,Eastern Anatolia,Public,Elective,Respiratory,6,33.2,124,234,4,14776,Transferred,0
+PT202001400,2020,71,Female,Mediterranean,Public,Emergency,Respiratory,4,25.1,149,184,NA,12798,Home,0
+PT201801401,2018,56,Male,Marmara,Public,Elective,Infectious Disease,5,29.3,132,213,2,4013,Transferred,0
+PT202301402,2023,76,Male,Black Sea,Public,Emergency,Oncology,4,24.5,131,241,6,20862,Home,0
+PT202001403,2020,45,Male,Aegean,Public,Emergency,Cardiology,6,25.1,137,204,6,17634,Home,0
+PT202401404,2024,56,female,Black Sea,Public,Emergency,Oncology,4,23.2,126,182,5,25682,NA,0
+PT201901405,2019,24,Male,Eastern Anatolia,Public,Emergency,Oncology,6,18.7,113,147,5,19996,Home,0
+PT201901406,2019,61,Male,Central Anatolia,Public,Emergency,Endocrinology,4,29.3,143,204,5,11516,Deceased,0
+PT202101407,2021,27,Male,Southeastern Anatolia,Public,Emergency,Respiratory,1,18.8,106,193,5,12163,Home,0
+PT202201408,2022,55,Male,Eastern Anatolia,Public,Elective,Infectious Disease,6,28.1,NA,261,6,18872,Deceased,0
+PT201901409,2019,63,Male,Black Sea,Public,Elective,Endocrinology,8,24.1,124,192,4,15699,Deceased,0
+PT202101410,2021,45,Male,Mediterranean,Public,Elective,Cardiology,5,24.8,134,220,2,14136,Transferred,0
+PT201901411,2019,27,Female,Central Anatolia,Private,Emergency,Oncology,3,22.5,120,123,7,27444,Home,1
+PT201901412,2019,23,Male,Eastern Anatolia,Private,Elective,Respiratory,2,26.2,114,187,2,12346,Home,1
+PT202101413,2021,29,Female,Aegean,Public,Emergency,Nephrology,4,27.0,105,153,4,17597,Home,0
+PT202201414,2022,54,Male,Mediterranean,Public,Elective,Cardiology,5,25.1,139,200,4,19427,Deceased,0
+PT202001415,2020,91,Female,Eastern Anatolia,Public,Referral,Respiratory,4,25.0,164,227,7,14466,Home,1
+PT202301416,2023,36,Female,Mediterranean,Public,Elective,Respiratory,2,22.8,93,184,2,9495,Home,0
+PT202001417,2020,62,Male,Eastern Anatolia,Public,Elective,NA,5,31.7,140,237,3,11671,Deceased,0
+PT202201418,2022,33,Male,Central Anatolia,Public,Urgent,Nephrology,5,27.5,117,232,6,22656,Home,1
+PT201901419,2019,23,Female,Aegean,Public,Emergency,Neurology,3,20.6,109,187,5,15139,Home,1
+PT201901420,2019,30,Female,Marmara,Public,Urgent,Neurology,4,20.2,NA,120,5,13465,Home,0
+PT202001421,2020,54,Female,Marmara,Uninsured,Emergency,Infectious Disease,3,23.4,113,151,7,19379,Home,0
+PT201901422,2019,18,Female,Aegean,Private,Referral,Infectious Disease,3,NA,90,179,1,2896,Home,0
+PT202401423,2024,95,Female,Mediterranean,Public*,Emergency,Respiratory,8,28.8,140,211,7,20629,Deceased,0
+PT202401424,2024,63,Female,Aegean,Private,Elective,Infectious Disease,7,27.9,128,222,3,17222,Deceased,0
+PT202201425,2022,37,Female,Southeastern Anatolia,Public,Elective,Oncology,4,NA,110,177,2,16022,Home,0
+PT202201426,2022,25,Female,Central Anatolia,Public,Emergency,Neurology,4,26.5,106,168,5,17963,Home,1
+PT202401427,2024,54,Male,Mediterranean,Private,Elective,Neurology,3,24.8,121,172,2,16415,Transferred,0
+PT202301428,2023,63,Female,Black Sea,Public,Elective,Respiratory,5,28.9,133,210,4,14061,Deceased,0
+PT201901429,2019,47,Male,Marmara,Public,Referral,Nephrology,4,29.8,126,201,4,16478,Home,0
+PT201801430,2018,77,Male,Eastern Anatolia,Public,Urgen?,Orthopedics,6,23.7,135,184,7,17289,Transferred,0
+PT201801431,2018,52,Male,Black Sea,Public,Emergency,Nephrology,5,25.2,131,172,5,18211,Home,1
+PT202101432,2021,72,Female,Marmara,Public,Referral,Oncology,8,31.5,150,208,7,27406,Deceased,0
+PT202201433,2022,28,Female,Southeastern Anatolia,Public,Elective,Nephrology,3,23.4,123,192,1,11168,Home,1
+PT202101434,2021,82,Female,Central Anatolia,Public,Urgent,Orthopedics,6,26.4,136,245,5,15301,transferred,1
+PT202001435,2020,59,Male,Eastern Anatolia,Public,Emergency,Cardiology,7,24.2,144,178,9,23990,Home,0
+PT202001436,2020,21,Male,Eastern Anatolia,Private,Elective,Cardiology,4,27.5,122,227,4,14081,Transferred,0
+PT202401437,2024,48,Male,Marmara,Private,Emergency,Orthopedics,2,22.7,121,208,7,22220,Home,0
+PT202001438,NA,83,Male,Central Anatolia,Public,Referral,Respiratory,6,24.2,143,173,5,14328,Deceased,0
+PT202201439,2022,27,Female,Eastern Anatolia,Public,Emergency,Orthopedics,1,20.0,92,208,3,12003,Home,1
+PT202201440,2022,58,Female,Central Anatolia,Public,Emergency,Endocrinology,5,24.7,126,153,5,14947,Home,1
+PT202101441,2021,37,Female,Aegean,Private,Emergency,Orthopedics,4,23.1,100,195,5,22099,Home,0
+PT201801442,2018,49,Male,Mediterranean,Public,NA, Neurology,4,29.8,104,193,5,14222,Transferred,0
+PT202001443,2020,49,Female,Black Sea,Public,Elective,Endocrinology,3,28.3,115,247,2,10261,Home,0
+PT201901444,2019,54,Female,Eastern Anatolia,Uninsured,Elective,Cardiology,6,24.2,128,222,6,26153,Home,0
+PT202201445,2022,76,Male,Marmara,Public,Emergency,Infectious Disease,5,27.1,151,189,6,21359,Transferred,1
+PT202001446,2020,20,Male,Black Sea,Private,Referral,Respiratory*,2,27.7,133,159,5,17304,Home,0
+PT201901447,2019,48,Male,NA,Public,Emergency,Cardiology,5,25.6,110,195,7,19216,Deceased,0
+PT202201448,2022,49,Female,Southeastern Anatolia,Public,Emergency,Orthopedics,4,18.7,104,177,7,25445,Home,0
+PT202401449,2024,49,Male,Black Sea,Public,Emergency,Respiratory,6,24.0,110,227,6,23312,NA,1
+PT201801450,2018,57,Female,Marmara,Private,Elective,Oncology,5,30.8,143,212,6,22977,Deceased,0
+PT201901451,2019,43,Male,Marmara,Public,Elective,Endocrinology,7,28.2,132,197,3,9122,Home,0
+PT202401452,2024,23,Male,Southeastern Anatolia,Public,Referral,Infectious Disease,1,20.1,118,165,5,14977,Deceased,0
+PT202201453,2022,40,Female,Central Anatolia,Public,Referral,Respiratory,4,24.3,106,201,2,13059,Home,0
+PT201801454,2018,35,Male,Eastern Anatolia,Public,Elective,Oncology,4,21.2,130,170,2,15283,Home,0
+PT202201455,2022,65,Male,Southeastern Anatolia,Public,Elective,Orthopedics,4,27.3,137,213,3,15193,Deceased,0
+PT202101456,2021,63,Male,Central Anatolia,Public,Emergency,Oncology,7,21.8,143,168,8,32945,Deceased,0
+PT201901457,2019,75,Female,Eastern Anatolia,Private,Emergency,Nephrology,6,27.8,152,219,8,23663,Deceased,0
+PT202401458,2024,26,Male,Black Sea,Private,Emergency,Respiratory,2,24.8,119,207,4,18168,Deceased,0
+PT202001459,2020,37,Female,Black Sea,Public,Emergency ,Endocrinology,2,29.3,104,242,2,8597,Home,0
+PT201801460,2018,44,Female,Central Anatolia,Public,Referral,Respiratory,4,24.0,121,154,4,13234,Home,0
+PT202401461,2024,40,Male,Southeastern Anatolia,Public,Emergency,Respiratory,6,23.1,118,166,5,18111,Home,1
+PT202301462,2023,38,Female,Aegean,Public,Emergency,Oncology,4,20.4,114,120,5,23634,Home,0
+PT202301463,2023,44,Female,Marmara,Public,Referral,Respiratory,4,24.3,119,146,5,14532,Home,0
+PT202101464,2021,25,Female,Central Anatolia,Uninsured,Urgent,Respiratory,1,25.8,114,161,3,9114,Home,0
+PT202001465,2020,62,Female,Marmara,Public,Urgent,Respiratory,6,24.4,110,198,7,18434,Deceased,0
+PT202401466,2024,66,Male,Black Sea,Public,Elective,Neurology,5,21.7,124,NA,4,20388,Home,0
+PT202101467,2021,18,Male,Central Anatolia,Public,Emergency,Nephrology,2,25.6,104,152,4,16772,Home,1
+PT202201468,2022,70,Female,Marmara,Public,Elective,Infectious Disease,5,28.4,139,205,4,18509,Home,0
+PT201901469,2019,53,Female,Black Sea,Public,Referral,Infectious Disease,5,25.6,121,162,5,15249,Transferred,0
+PT202301470,2023,72,Male,Central Anatolia,Public,Referral,Endocrinology,8,28.4,137,231,6,20925,Transferred,0
+PT202001471,2020,73,Female,Marmara,Public,Elective,Orthopedics,4,30.2,140,219,6,17514,Deceased,0
+PT202101472,2021,42,Male,Marmara,Public,Elect1ve,Endocrinology,4,32.6,113,215,3,12771,Home,0
+PT201901473,2019,42,Female,Southeastern Anatolia,Public,Referral,Nephrology,3,21.2,94,170,5,19323,Home,0
+PT202101474,2021,35,Male,Marmara,Private,Elective*,Orthopedics,1,25.6,99,156,2,10545,Home,1
+PT202401475,2024,67,Female,Central Anatolia,Public,Emergency,Endocrinology,5,26.6,141,211,6,20127,Home,0
+PT202001476,2020,18,Male,Central Anatolia,Public,Emergency,Neurology,2,27.2,94,159,3,12866,Home,0
+PT202301477,2023,36,Female,Marmara,Public,Emergency,Oncology,5,22.6,113,155,6,29397,Deceased,0
+PT202301478,NA,65,Male,Southeastern Anatolia,Private,Elective,Orthopedics,4,24.3,118,210,4,18621,Transferred,0
+PT202101479,2021,50,Female,Mediterranean,Private,Emergency,Neurology,4,30.4,129,211,6,18158,Home,0
+PT202101480,2021,50,Female,Mediterranean,Public,Elective,Cardiology,7,25.9,118,226,4,16699,Home,1
+PT202001481,2020,22,Female,Marmara,Public,Emergency,Infectious Disease,3,21.3,111,160,4,7179,Home,1
+PT201901482,2019,56,Male,Central Anatolia,Public,Elective,Orthopedics,6,27.7,113,245,4,19688,Transferred,0
+PT202101483,2021,NA,Female,NA,Public,Elective,Endocrinology,2,24.8,111,178,2,7629,Home,0
+PT202401484,2024,72,Male,Central Anatolia,Public,Elective,Respiratory,6,26.1,131,225,4,18967,Deceased,0
+PT202201485,2022,46,Male,Black Sea,Public,Emergency,Endocrinology,4,22.9,95,179,3,12871,Home,0
+PT202001486,2020,48,MALE,Central Anatolia,Public,Urgent,Orthopedics,3,25.4,124,236,4,12522,Home,0
+PT202301487,2023,94,Female,Black Sea,Uninsured,Emergency,Respiratory,7,24.1,161,230,7,30053,Transferred,1
+PT202401488,2024,29,Female,Eastern Anatolia,Public,Referral,Infectious Disease ,3,21.0,113,159,3,9568,Deceased,0
+PT202301489,2023,38,Female,Marmara,Public,Emergency,Cardiology,4,30.7,115,218,5,16777,Home,0
+PT202301490,2023,70,Male,Eastern Anatolia,Public,Elective,Infectious Disease,4,25.5,145,175,5,16679,Transferred,0
+PT201801491,2018,58,Female,Marmara,Public,Emergency,Respiratory,5,22.6,112,173,5,10331,Transferred,1
+PT201801492,2018,33,Female,Aegean,Private,Emergency,Infectious Disease,2,23.9,110,171,5,15827,Home,0
+PT201801493,2018,77,Female,Black Sea,Public,Referral,Cardiology,7,23.8,151,242,5,18199,Deceased,0
+PT202301494,2023,67,Female,Aegean,Public,Emergency,Endocrinology,6,25.5,115,174,5,19944,Home,1
+PT201901495,2019,32,Male,Marmara,PUBLIC,Referral,Respiratory,2,26.3,120,155,3,10168,Deceased,0
+PT201901496,2019,26,Female,Marmara,Public,Emergency,Neurology,1,26.6,102,201,6,NA,Home,1
+PT201901497,2019,44,Male ,Central Anatolia,Public,Emergency,Neurology,4,22.6,129,155,3,16861,Home,0
+PT202301498,2023,49,Male,Black Sea,Public,Referral,Respiratory,4,25.2,125,157,4,15478,Transferred,0
+PT202001499,2020,54,Male,Central Anatolia,Public,Emergency,Endocrinology,4,26.3,134,249,5,15793,Deceased,0
+PT202201500,2022,54,Female,Marmara,Public,Urgent,RESPIRATORY,6,28.2,113,177,6,17611,Deceased,0
+PT201801501,2018,59,Female,Marmara,Public,Emergency,Orthopedics,5,26.9,112,207,5,18104,Home,0
+PT202001502,2020,44,Male,Marmara,Public,Emergency,Cardiology,5,25.4,141,198,6,16680,Home,1
+PT202301503,2023,64,Male,Marmara,NA,Referral,Neurology,4,26.7,129,202,4,17226,Deceased,0
+PT201801504,2018,18,Male,Mediterranean,Public,Emergency,Endocrinology,2,23.5,119,167,2,6901,Home,1
+PT201801505,2018,77,Male,Southeastern Anatolia,Public,Referral,Infectious Disease,4,24.2,143,208,6,12950,Deceased,0
+PT202201506,2022,55,Female,Central Anatolia,Public,Referral,Endocrinology,6,24.1,139,170,4,14608,Deceased,0
+PT201901507,2019,58,Male,Central Anatolia,Public,Urgent,Nephrology,7,24.4,149,205,7,22815,Transferred,0
+PT201901508,2019,66,Male,Marmara,Public,Referral,Orthopedics,4,25.9,133,201,3,13048,Home,0
+PT202001509,2020,53,Female,Marmara,Public,Elective,Oncology,6,23.1,117,165,5,23963,Deceased,0
+PT202301510,2023,88,Female,Marmara,Public,Elective,Nephrology,6,28.1,151,225,5,20395,Deceased,0
+PT202001511,2020,37,Male,Aegean,Public,Emergency,Infectious Disease,3,22.0,110,134,3,10300,Home,0
+PT201801512,2018,79,Female,Black Sea,Public,Elective,Endocrinology,9,31.2,150,224,5,13344,Deceased,0
+PT201901513,2019,77,Male,Central Anatolia,Public,Emergency,Nephrology,5,30.4,149,208,7,19822,Transferred,0
+PT202401514,2024,35,NA,Aegean,Public,Emergency,Oncology,3,26.2,113,146,5,23216,Deceased,0
+PT201901515,2019,62,Female,Southeastern Anatolia,Public,Emergency,Oncology,6,20.1,122,120,7,22303,DECEASED,0
+PT202101516,2021,43,Female,Aegean,Public,Urgent,Orthopedics,4,25.4,133,150,3,14348,Home,0
+PT202201517,2022,45,Female,Eastern Anatolia,Public,Elective,Oncology,6,24.1,112,173,3,20544,Home,NA
+PT201801518,2018,76,Female,Southeastern Anatolia,Public,Emergency,Oncology,6,24.9,128,167,7,21340,Transferred,0
+PT202201519,2022,47,Male,SOUTHEASTERN ANATOLIA,Public,Emergency,Nephrology,7,28.1,135,245,6,22946,Transferred,1
+PT202401520,2024,64,Female,Central Anatolia,Private,Urgent,Nephrology,8,20.8,134,182,8,34123,Transferred,0
+PT202301521,2023,41,Female,Aegean,Public,Urgent,Orthopedics,2,25.3,106,179,3,15094,Home,1
+PT202401522,2024,68,Female,Mediterranean,Public,Urgent,Oncology,9,25.6,141,212,5,28002,Transferred,0
+PT202001523,2020,18,Male,Black Sea,Private,EMERGENCY,Cardiology,0,28.0,112,177,6,19393,Home,0
+PT202201524,2022,25,Female,Marmara,Public,Referral,Endocrinology,4,23.2,104,162,2,10001,Deceased,0
+PT201901525,2019,27,Male,Marmara,Public,Elective,Cardiology,6,24.6,131,210,5,15136,Transferred,0
+PT202301526,2023,69,Female,Marmara,Public,Emergency,Respiratory,6,22.1,157,196,6,17017,Deceased,0
+PT202101527,2021,49,Male,Marmara,Private,Urgent,Nephrology,4,27.4,124,208,5,23874,Deceased,0
+PT202101528,2021,47,Female,Aegean,Private,Emergency,Cardiology,4,22.4,127,167,5,21715,Deceased,0
+PT202401529,2024,40,Female,Central Anatolia,Public,elective,Endocrinology,3,28.2,117,230,2,7999,Home,0
+PT202101530,2021,45,Female,Central Anatolia,Public,Emergency,Orthopedics,3,22.5,115,175,4,14829,Home,0
+PT202101531,2021,24,Female,Black Sea,Public,Elective,Cardiology,4,26.2,129,202,3,13602,Home,0
+PT201801532,2018,46,Male,Central Anatolia,Private,Referral,Endocrinology,7,26.4,127,240,2,12799,Deceased,0
+PT202301533,2023,58,Female,Central Anatolia,Private,Emergency,Respiratory,7,26.3,129,209,7,25386,Transferred,0
+PT202301534,2023,83,Male,Aegean,Public,Elective,Cardiology,6,22.9,159,244,7,26506,Deceased,0
+PT202101535,2021,56,Male,Central Anatolia,Private,Elective,Infectious Disease,2,23.2,136,210,3,13279,Home,0
+PT201801536,2018,46,Male,Eastern Anatolia,Public,Emergency,Endocrinology,6,30.0,142,205,4,15288,Home,0
+PT202101537,2021,55,Female,SoutheasternAnatolia,Public,Elective,Infectious Disease,5,27.4,140,198,3,14347,Home,0
+PT202101538,2021,37,Female,Central Anatolia,Private,Elective,Neurology,4,25.4,118,165,4,16999,Home,1
+PT202401539,2024,18,Male,Southeastern Anatolia,Public,Emergency,Neurology,3,27.4,107,186,4,18270,Home,0
+PT202101540,2021,73,Male,Marmara,PRIVATE,Referral,Cardiology,7,24.8,139,236,5,19629,Transferred,0
+PT201801541,2018,48,Male,Aegean,Private,Emergency,Cardiology,3,27.3,140,215,NA,16729,Home,0
+PT202201542,2022,32,Female,MARMARA,Public,Referral,Oncology,5,23.8,114,166,6,25429,Home,0
+PT201801543,2018,62,Male,Black Sea,Public,Elective,Orthopedics,5,26.5,122,202,4,15826,Deceased,0
+PT202001544,2020,81,Female,Black Sea,Public,Referral,Respiratory,7,29.8,157,193,7,15793,Transferred,0
+PT201801545,2018,68,Male,Aegean,Public,Elective,Respiratory,7,27.6,138,212,3,12000,Deceased,0
+PT202201546,2022,63,Female,Southeastern Anatolia,Uninsured,Elective,Orthopedics,2,22.9,137,207,2,12824,Deceased,0
+PT202301547,2023,27,Male,Black Sea,Private,Emergency,Orthopedics,2,20.3,118,174,6,23174,Home,0
+PT202101548,2021,61,Female,Eastern Anatolia,Uninsured,Emergency,Neurology,5,28.4,115,191,5,19154,Transferred,1
+PT202201549,2022,64,Female,Southeastern Anatolia,Public,Emergency,Infectious Disease,4,26.3,146,228,4,12479,Transferred,1
+PT202201550,2022,57,Female,Aegean,Public,Elective,Infectious Disease,6,26.4,128,198,5,13043,Home,1
+PT202001551,2020,28,Male,Mediterranean,Public,Elective,Neurology,5,26.3,127,152,3,13145,Home,0
+PT202401552,2024,50,Female,Aegean,Public,Emergency,Oncology,7,23.3,116,175,6,29974,Transferred,0
+PT202301553,2023,62,Female,Aegean,Public,Emergency,Respiratory,8,23.8,126,183,4,19159, Home,1
+PT202401554,2024,38,Female,Southeastern Anatolia,Public,Emergency,Oncology,5,22.9,112,147,6,26374,Home,0
+PT201901555,2019,28,Female,Eastern Anatolia,Public,Referral,Infectious Disease,1,25.4,110,183,4,9963,Home,0
+PT202301556,2023,78,Male,Aegean,Private,Elective,Neurology,7,23.5,143,231,5,22646,Deceased,0
+PT202401557,2024,65,Female,Eastern Anatolia,Public,Elective,Infectious Disease,4,27.1,116,210,5,17803,Home,0
+PT202001558,2020,43,Male,Southeastern Anatolia,Public,Referral,Cardiolog?,5,24.5,122,217,5,16218,Home,0
+PT202001559,2020,64,Female,Aegean,Private,Emergency,Endocrinology,NA,31.2,139,268,6,21891,Transferred,0
+PT202301560,2023,63,Female,Black Sea,Public,Emergency,Nephrology,6,32.0,137,221,8,29323,Home,1
+PT202301561,2023,45,Female,Marmara,Public,Referral,Respiratory,3,19.9,108,143,3,10229,Home,0
+PT202301562,2023,40,Male,Central Anatolia,Public,Elective,Orthopedics,3,22.9,132,185,2,12077,NA,0
+PT202101563,2021,68,Female,Central Anatolia,Uninsured,Elective*,Neurology,5,26.1,126,216,7,23688, Transferred,0
+PT201801564,2018,57,Female,Aegean,Public,Elective,Nephrology,6,23.0,133,217,4,16068,Home,0
+PT201901565,2019,47,Female,Marmara,Uninsured,Elective,Nephrology,4,24.5,110,171,1,11734,Home,0
+PT202201566,2022,41,Male,Central Anatolia,Public,Emergency,Endocrinology,3,21.5,117,214,5,21033,Home,0
+PT202401567,2024,79,Female,Central Anatolia,Public,Emergency,Oncology,5,25.8,141,196,NA,26640,Deceased,NA
+PT201801568,2018,63,Female,Central Anatolia,Private,Elective,Infectious Disease,6,22.4,135,192,7,22619,Transferred,1
+PT202101569,2021,29,Female,Marmara,Public,NA,Respiratory,3,21.7,104,183,1,9054,Home,0
+PT201901570,2019,50,Male,Marmara,Public,Emergency,Endocrinology,5,24.0,104,218,5,9746,Home,0
+PT201801571,2018,39,Male,Aegean,Public,Emergency,Cardiology,4,26.5,145,201,5,11200,Home,0
+PT202301572,2023,78,Female,Eastern Anatolia,Public,Emergency,Respiratory,7,25.8,160,163,4,17346,Home,1
+PT202301573,2023,32,Female,Aegean,Public,Referral,Endocrinology,2,24.9,120,181,1,4018,Transferred,1
+PT201901574,2019,43,Male,Mediterranean,Public,Emergency,Respiratory,3,28.0,122,171,6,15309,Home,0
+PT201901575,2019,37,Male,Aegean,Public,Emergency,Cardiology,6,22.8,126,169,6,16352,Deceased,0
+PT202001576,2020,34,Female,Aegean,NA,Referral,Endocrinology,6,24.8,122,200,5,14475,Home,0
+PT202301577,2023,26,Female,Marmara,Private,Elective,Neurology,3,20.4,119,174,2,19366,Home,0
+PT202401578,NA,41,Female,Aegean,Uninsured,Emergency,Respiratory,4,24.9,118,222,8,25894,Transferred,0
+PT202201579,2022,21,Female,Black Sea,Public,Referral,Endocrinology,2,28.0,118,180,1,4523,Home,0
+PT202201580,2022,63,Female,Black Sea,Public,Urgent,Cardiology,5,24.6,139,209,6,20147,Transferred,1
+PT201901581,2019,52,Male,Southeastern Anatolia,Private,Emergency,Orthopedics,4,23.6,121,158,3,10298,Home,0
+PT202001582,2020,35,Female,Central Anatolia,Public,Elective,Neurology,NA,22.2,118,145,3,12200,Home,0
+PT202001583,2020,59,Female,Eastern Anatolia,Public,Emergency,Oncology,5,25.4,138,209,6,17430,Home,0
+PT201801584,2018,27,Male,Black Sea,Private,Emergency,Neurology,2,25.4,103,176,4,14112,Home,0
+PT201901585,2019,51,Male,Marmara,Public,Elective,Oncology,5,19.7,110,160,4,17971,Home,0
+PT202101586,2021,49,Female,Southeastern Anatolia,Public,Emergency,Neurology,4,24.1,125,128,5,16159,Deceased,0
+PT201901587,2019,62,Female,Aegean,Public,Emergency,Oncology,7,31.4,136,229,6,20708,Transferred,1
+PT202001588,2020,77,Female,Mediterranean,Private,Elective,Endocrinology,6,30.6,141,233,4,13997,Deceased,0
+PT201801589,2018,70,Female,Mediterranean,Public,Emergency,Respiratory,7,25.9,148,224,7,10640,Deceased,0
+PT201901590,2019,41,Female,Central Anatolia,Uninsured,Emergency,endocrinology,4,23.7,125,203,5,16926,Home,0
+PT202201591,2022,55,Male,Eastern Anatolia,Private,Emergency,Endocrinology,4,23.5,126,152,5,17831,Transferred,0
+PT201801592,2018,29,Female,Black Sea,Public,Elective,Respiratory,3,23.6,91,193,2,10191,Home,0
+PT202001593,2020,36,Male,Black Sea,Public,Elective,Endocrinology,4,23.3,133,159,1,6922,Home,0
+PT202001594,2020,49,Male,Marmara,Public,Emergency,Endocrinology,3,26.1,143,208,5,14608,Home,0
+PT202101595,2021,59,Female,Central Anatolia,Private,Emergency,Orthopedics,5,24.2,136,187,7,25915,Home,1
+PT202001596,2020,55,Male,Black Sea,Public,Urgent,Cardiology,6,24.8,147,213,7,22890,Decease?,0
+PT202201597,2022,77,Male,Central Anatolia,Public,Emergency,Respiratory,6,28.8,130,239,10,24195,Deceased,0
+PT201801598,2018,90,Male,Aegean,Public,Referral,Neurology,5,30.6,149,206,8,20358,NA,0
+PT202301599,2023,31,Male,Mediterranean,Public,Elective,Oncology,4,25.3,99,168,1,17157,Transferred,0
+PT202401600,2024,42,Male,Black Sea,Public,Elective,Nephrology,6,25.4,118,207,2,20245,Home,0
+PT202401601,2024,31,Male,Southeastern Anatolia,Private,Emergency,Infectious Disease,2,22.6,104,136,4,16373,Home,0
+PT201901602,2019,18,Female,Marmara,Private,Emergency,Orthopedics,2,24.3,90,173,3,15735,Home,0
+PT202001603,2020,50,Male,Central Anatolia,Private,Referral,Infectious Disease,5,20.9,126,178,4,16496,Transferred,0
+PT201901604,2019,53,Male,Black Sea,Private,Emergency,Endocrinology,4,24.5,138,197,6,14865,Deceased,0
+PT202001605,2020,88,Female,Eastern Anatolia*,Public,Elective,Endocrinology,8,26.5,157,193,4,10316,Deceased,0
+PT202101606,2021,82,Female,Marmara,Public,Elective,Nephrology,7,31.0,165,197,7,28844,Deceased,0
+PT202101607,2021,81,Male,Aegean,Public,Elective,Nephrology,4,27.2,162,223,5,23421,Home,1
+PT202101608,2021,64,Female,Aegean,Public,Emergency,Nephrology,5,26.5,136,222,5,24702,Transferred,0
+PT201901609,2019,30,Female,Central Anatolia,Private,Elective,Nephrology,2,19.7,109,170,2,14135,Home,0
+PT201901610,2019,57,Male,Mediterranean, Public,Emergency,Neurology,4,26.5,127,165,7,19328,Transferred,1
+PT202301611,2023,36,Female,Mediterranean,Public,Elective,Cardiology,2,25.1,117,150,3,18380,Home,0
+PT202301612,2023,42,Male,Marmara,Public,Elective,Nephrology,3,25.3,129,195,2,17667,Home,0
+PT202001613,2020,58,Female,Marmara,Public,Elective,Neurology,6,26.8,130,205,2,11905,Home,0
+PT202301614,2023,62,Male,Mediterranean,Public,Emergency,Cardiology,4,28.4,145,208,5,20028,Home,0
+PT201901615,2019,72,Female,Southeastern Anatolia,Public,Elective,Orthopedics,6,19.6,162,NA,5,18616,Deceased,0
+PT201801616,2018,23,Male,Black Sea,Private,Urgent,Infectious Disease,3,28.2,131,162,7,15900,Home,0
+PT202201617,2022,68,Male,Central Anatolia,Public,Elective,Neurology,7,26.4,136,197,3,15117,Home,0
+PT202201618,2022,25,Female,Mediterranean,Public,Referral,Oncology,4,22.7,112,155,4,24574,Home,0
+PT201801619,2018,59,Male,Eastern Anatolia,Public,Urgent,Nephrology,5,27.1,117,187,4,14576,Deceased,0
+PT201801620,2018,88,Male,Aegean,Public,Elective,Respiratory,7,25.9,153,179,7,16058,Transferred,1
+PT202201621,2022,73,Female,Central Anatolia,Public,Urgent,Respiratory,6,27.6,157,202,5,16343,Transferred,0
+PT202101622,2021,47,Female,Central Anatolia,Public,Elective,Respiratory,4,22.8,132,137,1,9083,Home,0
+PT202401623,2024,28,Female,Aegean,Public,Urgent,Cardiology,4,26.7,128,138,4,20390,Home,1
+PT201901624,2019,55,Female,Mediterranean,Public,Emergency,Endocrinology,4,26.4,137,214,6,16920,Home,0
+PT202201625,2022,28,Male,Central Anatolia,Public,Elective,Cardiology,4,26.1,118,191,1,13478,Home,0
+PT201801626,2018,32,Female,Black Sea,Public,Emergency,Neurology,2,23.9,104,185,6,15455,Deceased,0
+PT202401627,2024,52,Female,Mediterranean,Public,Emergency,Oncology,7,23.6,134,169,8,33020,Transferred,0
+PT202401628,2024,74,Male,Mediterranean,Private,Emergency,oncology,8,28.9,128,165,NA,36862,Home,1
+PT201801629,2018,48,Female,Eastern Anatolia,Public,Referral,Cardiology,6,22.3,126,227,5,19342,Transferred,0
+PT202101630,2021,40,Female,Central Anatolia,Private,Emergency,Nephrology,3,22.6,130,202,7,29239,Deceased,0
+PT201801631,2018,51,Female,Black Sea,Public,Elective,Infectious Disease,1,25.2,116,201,3,9246,Transferred,0
+PT202301632,2023,21,Male,Mediterranean,Uninsured,Urgent,Neurology,2,26.3,118,153,4,17383,Home,0
+PT202001633,2020,80,Female,Mediterranean,Public,NA,Respiratory,7,28.3,143,207,7,17055,Deceased,0
+PT201801634,2018,22,male,Marmara,Private,Emergency,Endocrinology,4,26.9,111,176,5,13092,Home,0
+PT201801635,2018,51,Female,Marmara,Public,Elective,NA,4,25.4,132,196,2,8945,Transferred,0
+PT202401636,2024,69,Female,Central Anatolia,Public,Emergency,Cardiology,6,22.5,121,201,7,29781,Deceased,0
+PT201901637,2019,53,Female,Eastern Anatolia,Public,Emergency,Cardiology,3,26.0,143,228,5,16121,Home,1
+PT201901638,2019,52,Male,Aegean,Private,Urgent,Endocrinology,4,29.4,127,204,3,14869,Deceased,0
+PT202301639,2023,53,Male,Marmara,Public,Emergency,Neurology,5,29.8,112,206,6,24392,Home,0
+PT202401640,2024,59,Male,Central Anatolia,Public,Referral,Oncology,7,23.8,140,176,7,31475,Transferred,1
+PT201901641,2019,36,Female,Mediterranean,Privat?,Elective,Cardiology,1,18.7,128,186,3,9797,Home,0
+PT201801642,2018,61,Female,Marmara,Public,Elective,Respiratory*,5,27.6,145,212,1,6751,Transferred,0
+PT202001643,2020,40,Male,Black Sea,Private,Referral,Endocrinology,6,30.1,117,250,5,17518,Home,1
+PT202101644,2021,34,Female,Marmara,Public,Emergency,Cardiology,3,22.3,139,154,4,15408,Deceased,0
+PT202301645,2023,43,Female,Aegean,Public,Emergency,Neurology,4,24.6,116,154,5,17661,Home,0
+PT201801646,2018,60,Female,Central Anatolia,Public,Elective*,Endocrinology,8,26.7,147,209,6,15182,Transferred,0
+PT202001647,2020,52,Female,Black Sea,Public,Referral,Infectious Disease,5,25.0,124,162,4,18178,Deceased,0
+PT202201648,2022,20,Male,Southeastern Anatolia,Publi?,Referral,Nephrology,5,23.5,110,154,5,23608,Home,0
+PT202201649,2022,43,Male,southeastern anatolia,Public,Elective,Infectious Disease,5,21.9,NA,208,5,16859,Deceased,0
+PT202001650,2020,58,Female,Central Anatolia,Private,Emergency,Neurology,5,25.5,123,151,5,17860,Home,0
+PT202001651,2020,43,Female,Eastern Anatolia,Private,Urgent,Infectious Disease*,5,27.5,125,186,5,18102,Home,0
+PT202201652,2022,39,Male,Eastern Anatolia,Public,Urgent,Cardiology,5,23.2,115,228,6,22048,Deceased,0
+PT201801653,2018,23,Male,Aegean,Public,Emergency,Endocrinology,6,28.3,116,240,4,10014,Home,1
+PT201901654,2019,57,Male,Black Sea,Public,Elective,Endocrinology,7,22.7,133,206,5,18685,Deceased,0
+PT201901655,2019,45,Female,Mediterranean,Private,Elective,Cardiology,6,26.8,147,211,4,18973,Home,0
+PT202401656,2024,64,Male,Marmara,Public,Referral,Neurology,8,23.9,146,203,3,18133,Deceased,0
+PT202301657,2023,42,NA,Black Sea,Public,Elective,Nephrology,4,20.7,109,190,3,18149,Home,0
+PT202001658,2020,59,Male,Eastern Anatolia,Public,Emergency,Cardiology,4,26.2,150,231,8,22877,Deceased,0
+PT202001659,2020,40,Male,Marmara,Public,Urgent,Cardiology,3,26.9,120,184,3,13266,Home,0
+PT202101660,2021,50,Female,Central Anatolia,Public,Referral,Respiratory,6,22.4,133,217,2,12489,Home,1
+PT202301661,2023,47,Male,Eastern Anatolia,Private,Emergency,Nephrology,5,20.0,123,186,5,24589,Home,1
+PT201801662,2018,21,Male,Southeastern Anatolia,Public,Emergency,Orthopedics,4,20.6,105,156,3,6725,Home,0
+PT201801663,2018,54,Female,Mediterranean,NA,Referral,Cardiology,5,30.6,148,251,4,15644,Home,0
+PT202401664,2024,73,Male,Aegean,Public,Emergency,Infectious Disease,5,22.5,132,229,7,18774,Transferred,0
+PT202301665,2023,40,Female,Marmara,Public,Referral,Oncology,5,28.7,133,194,5,21923,Home,0
+PT202101666,2021,42,Female,Marmara,Private,Elective,Infectious Disease,5,24.2,127,175,3,13802,Deceased,0
+PT202301667,2023,28,Male,Central Anatolia,Private,Emergency,Infectious Disease,4,22.7,132,168,5,20072,Deceased,0
+PT202101668,2021,53,Male,Aegean,Public,Emergency,Cardiology,7,23.0,128,172,6,17575,Home,0
+PT202301669,2023,31,Female,Central Anatolia,Public,Referral,Infectious Disease,2,21.6,102,159,4,12922,Home,0
+PT202001670,2020,58,Male,Mediterranean,Private,Elective,Nephrology,7,22.2,131,196,4,NA,Home,0
+PT201901671,2019,43,Male,Southeastern Anatolia,Public,Urgent,Neurology,6,21.8,119,225,5,15523,Home,0
+PT202401672,2024,56,Female,Eastern Anatolia,Uninsured,Emergency,Infectious Disease,5,23.5,121,200,6,25087,Home,1
+PT201801673,2018,60,Female,Central Anatolia,Private,Emergency,Orthopedics,5,25.6,137,179,4,15403,Home,1
+PT202301674,2023,84,Male,Marmara,Private,Emergency,Cardiology,7,21.4,163,189,9,33926,Home,1
+PT201801675,2018,47,Female,Eastern Anatolia,Public,Emergency,Endocrinology,4,31.3,124,195,6,15721,Deceased,0
+PT202201676,2022,28,Female,Aegean,Private,Elective,Endocrinology,4,21.7,117,197,3,16521,Home,0
+PT202301677,2023,20,female,Marmara,Private,Referral,Nephrology,3,24.6,113,185,5,24562,Home,0
+PT202401678,2024,76,Male,Central Anatol1a,Public,Elective,Endocrinology,6,24.0,138,186,4,15761,Deceased,0
+PT202301679,2023,43,Female,Southeastern Anatolia,Public,Elective,Orthopedics,2,28.8,119,159,NA,16036,Deceased,0
+PT202101680,2021,35,Male,Aegean,Private,Emergency,Neurology,4,21.7,110,191,6,24787,Transferred,0
+PT202001681,2020,65,Female,Central Anatolia,Public,Elective,Cardiology,6,20.9,135,205,3,19362,Transferred,0
+PT202201682,2022,27,Female,Mediterranean,Public,Elective,Respiratory,2,26.8,115,190,3,11739,Home,0
+PT202001683,2020,59,Female,Mediterranean,Public,Urgent,Cardiology,5,21.7,146,171,7,17218,Home,0
+PT201801684,2018,61,Female,Marmara,Public,Emergency,Endocrinology,5,28.2,140,245,6,13324,Home,0
+PT202301685,2023,77,Male,Central Anatolia,Public,Elective,Orthopedics,6,23.9,132,179,3,15855,Deceased,0
+PT201901686,2019,69,Female,Central Anatolia,Private,Emergency,Orthopedics,6,21.7,125,227,7,23418,Transferred,1
+PT202201687,2022,61,Female,Aegean,Public,Emergency,Respiratory,5,30.9,115,228,8,17584,Deceased,0
+PT201901688,2019,64,Female,Southeastern Anatolia,Uninsured,Emergency,Neurology,6,22.1,129,218,6,24349,Transferred,0
+PT202101689,2021,80,Male,Aegean,Private,Emergency,Infectious Disease,6,27.9,148,198,6,19007,Deceased,0
+PT202301690,2023,40,Male,Marmara,Private,Elect1ve,Neurology,3,29.4,139,245,2,14949,Transferred,0
+PT202101691,2021,41,Female,Eastern Anatolia,Public,Elective,Neurology,5,27.9,136,171,2,8210,Home,1
+PT202301692,2023,55,Male,Black Sea,Public,Elective,Neurology,6,25.4,130,169,5,20913,Home,0
+PT202101693,2021,68,Male,AEGEAN,Public,Emergency,Oncology,NA,20.7,144,149,5,21767,Deceased,0
+PT202301694,2023,80,Female,Central Anatolia,Public,Emergency,Infectious Disease,6,27.9,140,224,8,21791,Transferred,0
+PT201901695,2019,51,Female,Eastern Anatolia,Private,Emergency,Nephr0l0gy,5,24.3,134,150,7,20514,Transferred,1
+PT201801696,2018,45,Female,Central Anatolia,Public,Elective,Endocrinology,4,24.3,120,204,2,6865,Deceased,0
+PT201801697,2018,75,Female,Central Anatolia,Public,Urgent,Nephrology,5,35.3,127,223,6,15137,Transferred,0
+PT202001698,2020,84,Male,Marmara,Public,Emergency,Cardiology,8,27.5,169,201,7,22031,Deceased,0
+PT202401699,2024,59,NA,Aegean,Public,Elective,Cardiology,6,26.8,149,218,5,19158,Deceased,0
+PT202101700,2021,80,Male*,Eastern Anatolia,Public,Emergency,Infectious Disease,6,28.4,145,237,6,19505,NA,1
+PT202100180,2021,53,Female,Central Anatolia,Private,Emergency,Oncology,5,23.0,127,162,6,27587,Deceased,0
+PT202101456,2021,63,Male,Central Anatolia,Public,Emergency,Oncology,7,21.8,143,168,8,32945,Deceased,0
+PT202400834,2024,33,Female,Eastern Anatolia,Public,Referral,Endocrinology,8,28.1,128,220,3,17616,Transferred,0
+PT202400650,2024,40,Male,Black Sea,Public,Urgent,Infectious Disease,3,20.8,119,172,7,18335,Home,1
+PT201800986,2018,78,Female,Marmara,Private,Urgent,Endocrinology,7,25.7,150,220,6,23075,Deceased,0
+PT202000661,2020,67,Female,Central Anatolia,Public,Referral,Endocrinology,5,31.8,127,198,4,12868,Deceased,0
+PT201800230,2018,46,Male,Mediterranean,Public,Emergency,Cardiology,4,30.2,130,203,6,17568,Home,0
+PT201900413,2019,46,Male,Marmara,Private,Elective,Neurology,3,21.5,103,184,4,12991,Deceased,0
+PT201900526,2019,69,Female,Black Sea,Public,Elective,Neurology,5,22.1,133,186,6,16970,Deceased,0
+PT201800398,2018,36,Male,Marmara,Private,Elective,Endocrinology,6,26.2,124,205,3,14582,Home,1
+PT202101691,2021,41,Female,Eastern Anatolia,Public,Elective,Neurology,5,27.9,136,171,2,8210,Home,1
+PT202100371,2021,63,Female,Central Anatolia,Public,Referral,Infectious Disease,6,23.1,120,179,5,18650,Deceased,0
+PT202001106,2020,47,Male,Central Anatolia,Public,Elective,Orthopedics,3,21.9,121,173,2,8026,Home,0
+PT202400312,2024,38,Female,Marmara,Public,Referral,Cardiology,5,23.3,115,205,4,20209,Home,0
+PT201900740,2019,37,Female,Aegean,Public,Referral,Infectious Disease,2,26.9,125,185,4,8825,Home,1
+PT202000573,2020,53,Male,Black Sea,Public,Referral,Orthopedics,4,25.3,131,172,4,9651,Home,0
+PT202300173,2023,48,Male,Central Anatolia,Public,Elective,Respiratory,4,25.3,146,189,3,14355,Home,0
+PT201900780,2019,40,Male,Mediterranean,Public,Referral,Endocrinology,5,25.6,130,172,3,9578,Transferred,1
+PT202100716,2021,64,Female,Mediterranean,Public,Emergency,Orthopedics,3,24.5,103,197,6,18004,Deceased,0
+PT201800972,2018,24,Male,Marmara,Public,Referral,Respiratory,2,21.1,100,126,1,10331,Home,0
+PT202101364,2021,52,Female,Mediterranean,Uninsured,Elective,Neurology,6,24.8,151,194,1,14367,Deceased,0
+PT202401385,2024,58,Female,Aegean,Private,Emergency,Nephrology,6,29.8,130,246,6,27481,Home,0
+PT201800547,2018,77,Male,Marmara,Public,Emergency,Respiratory,5,28.7,133,217,5,12710,Home,1
+PT202000287,2020,76,Male,Marmara,Public,Emergency,Cardiology,7,27.4,161,199,6,19686,Transferred,0
+PT202300572,2023,30,Male,Mediterranean,Uninsured,Emergency,Oncology,5,21.8,100,125,7,33407,Home,1

@@ -1,0 +1,82 @@
+Synthetic Healthcare Dataset (2018–2024) — Data Description
+
+Story / Context
+This dataset represents anonymized inpatient episodes recorded across multiple regions. Each row corresponds to one patient episode in a given year (2018–2024). The variables capture basic demographics, administrative information (insurance and admission type), broad clinical service line, basic clinical measurements, utilization (length of stay), cost, discharge disposition, and whether the patient was readmitted within 30 days.
+
+File
+- Filename: synthetic_healthcare_1700_dirty.csv
+- Rows: 1725
+- Columns: 16
+
+Columns (16)
+1) patient_id (string)
+   - Unique episode identifier in the form PTYYYY#####.
+   - Example: PT202100123
+
+2) year (integer)
+   - Calendar year of the episode.
+   - Allowed values: 2018, 2019, 2020, 2021, 2022, 2023, 2024
+
+3) age (integer)
+   - Patient age in years.
+   - Range: 18–95
+
+4) gender (categorical)
+   - Patient gender.
+   - Categories: Female, Male
+
+5) region (categorical)
+   - Macro-region where the episode was recorded.
+   - Categories: Marmara, Aegean, Central Anatolia, Mediterranean, Black Sea, Eastern Anatolia, Southeastern Anatolia
+
+6) insurance_type (categorical)
+   - Insurance coverage category.
+   - Categories: Public, Private, Uninsured
+
+7) admission_type (categorical)
+   - Route/type of admission.
+   - Categories: Emergency, Elective, Referral, Urgent
+
+8) diagnosis_group (categorical)
+   - Broad clinical service line for the primary reason of admission.
+   - Categories: Cardiology, Endocrinology, Respiratory, Infectious Disease, Orthopedics, Neurology, Oncology, Nephrology
+
+9) comorbidity_score (integer)
+   - Summary comorbidity/severity indicator (higher values indicate more comorbidity burden).
+   - Range: 0–10
+
+10) bmi (float)
+   - Body Mass Index (kg/m^2).
+   - Range: ~16.0–45.0
+
+11) systolic_bp (integer)
+   - Systolic blood pressure (mmHg).
+   - Range: 90–210
+
+12) cholesterol_mg_dl (integer)
+   - Total cholesterol (mg/dL).
+   - Range: 120–360
+
+13) length_of_stay_days (integer)
+   - Total inpatient length of stay.
+   - Range: 1–30
+
+14) total_cost_try (integer)
+   - Total episode cost in Turkish Lira (TRY).
+   - Positive integer values.
+
+15) discharge_status (categorical)
+   - Discharge outcome/disposition.
+   - Categories: Home, Transferred, Deceased
+
+16) readmitted_30d (binary target)
+   - Target variable: readmission within 30 days after discharge (1 = yes, 0 = no).
+   - Note: For deceased episodes, readmitted_30d is recorded as 0.
+
+Data Types Summary
+- Categorical columns (6): gender, region, insurance_type, admission_type, diagnosis_group, discharge_status
+- Numeric columns (10): year, age, comorbidity_score, bmi, systolic_bp, cholesterol_mg_dl, length_of_stay_days, total_cost_try, readmitted_30d, (patient_id is string identifier)
+
+
+Intended Use
+- Teaching and practice for classification (readmitted_30d), exploratory analysis, feature engineering, and model evaluation.
